@@ -7,7 +7,7 @@ title: Public Shoots
 Photoshoots, usually at cons, that are a bunch of like minded individuals all together.  
 
 {% for post in site.categories.publics %}
-* [{{ post.title }}]({{ post.url }}) *{{ post.date | date_to_string }}*
+* [{{ post.title }}]({{site.baseurl}}{{ post.url }}) *{{ post.date | date_to_string }}*
 {% assign images = post.content | split:"<img " %}
 {% for image in images %}
   {% if image contains 'src=' %}

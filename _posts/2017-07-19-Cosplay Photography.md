@@ -1,6 +1,6 @@
 ---
 title: Cosplay Photography!
-categories: cosplay
+categories: blog
 tags: pinned
 excerpt: All the compiled notes and tips I've found for doing cosplay photography.
 ---
