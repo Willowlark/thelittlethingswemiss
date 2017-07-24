@@ -1,0 +1,27 @@
+theme: jekyll-theme-midnight
+show_downloads: false
+title: Clark Bar
+collections:
+  padpages:
+    output: true
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+  - scope:
+      path: "_posts/galleries"
+      type: posts
+    values:
+      layout: gallery
+flickr:
+  cache_dir: "./_cache/flickr"
+  api_key: 6b3911916a3253512d800718fb1d088b
+  shared_secret: 4b1f75ac49facdc2
+  access_token: 72157686481612465-4a910c3f2740549d
+  access_secret: 5394c7951808871d
