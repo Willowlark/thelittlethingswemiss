@@ -7,12 +7,39 @@
     max-width: 800px;
 }
 
+#header nav {
+    max-width: 800px;
+}
+
 section {
     max-width: 800px;
 }
 
 li.fork {
     margin-right: 6px;
+}
+
+@media print, screen and (max-width: 700px) {
+
+  #header {
+    margin-top: 0px;
+    height: auto;
+    position: static;
+  }
+
+  section {
+    margin-top: 0px;
+  }
+  #header nav 
+  {
+      background: url(../images/nav-bg.gif) #353535;
+      display: block;
+  }
+
+  #header nav li.fork 
+  {
+    float: none;
+  }
 }
 
 .gallery {
@@ -43,7 +70,7 @@ li.fork {
 .responsive {
     padding: 0 6px;
     float: left;
-    width: 49.99999%;
+    width: 32.99999%;
     margin: 6px 0;
 }
 
