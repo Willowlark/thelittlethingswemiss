@@ -1,6 +1,6 @@
 ---
 title: Spring Robin & Spring Lucina
-categories: shootpad
+categories: steno
 ---
 
 Andrew & Marisa - TBD & Kasei

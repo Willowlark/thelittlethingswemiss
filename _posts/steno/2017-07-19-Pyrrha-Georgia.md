@@ -1,6 +1,6 @@
 ---
 title: Pyrrha AnimeNext'17
-categories: shootpad
+categories: steno
 ---
 
 Georgia - Wezrez (Hal)

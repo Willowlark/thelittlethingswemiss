@@ -1,6 +1,6 @@
 ---
 title: 
-categories: shootpad
+categories: steno
 ---
 
 Cosplayer - their page (secondary cosplayers - page, ...)

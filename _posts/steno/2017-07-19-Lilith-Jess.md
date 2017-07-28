@@ -1,6 +1,6 @@
 ---
 title: Lilith
-categories: shootpad
+categories: steno
 ---
 
 Jess

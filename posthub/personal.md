@@ -1,12 +1,12 @@
 ---
-title: Booked Shoots
+title: Personal Shoots
 ---
 
-# Booked Shoots
+# Solo Shoots
 
 Photoshoots in which I was the lead/only/etc photographer. I get to take my time during these shoots so they showcase well. 
 
-{% for post in site.categories.bookeds %}
+{% for post in site.categories.personal %}
 * [{{ post.title }}]({{site.baseurl}}{{ post.url }}) *{{ post.date | date_to_string }}*
 {% assign images = post.content | split:"<img " %}
 {% for image in images %}

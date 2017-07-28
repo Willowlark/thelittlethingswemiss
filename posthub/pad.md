@@ -1,10 +1,10 @@
 ---
 title: Shoot Scratchpads
-permalink: /pad/
+permalink: /steno/
 ---
 
-# Directory of Photoshoot idea/scratch/shoot/fsuk pads. 
+# Directory of Photoshoot Stenos.
 
-{% for post in site.categories.shootpad %}
+{% for post in site.categories.steno %}
 * [{{ post.title }}]({{site.baseurl}}{{ post.url }})
 {% endfor %}
