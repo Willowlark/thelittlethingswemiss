@@ -9,4 +9,4 @@ You've reached the landing page of The Little Things We Miss. Featured on this s
 * **Pinned**: Highlighted blog posts for easy reference.
 * **Blog**: Individual articles about photography, cosplay, or both.
 * **Group**: Photo galleries from Group photoshoots at conventions. Specifically anyone from the same series gets up front and strikes a pose.
-* **Directed**: A poor name for them, but shoots in which I'm working one on one with the model (Lets be honest, cosplayer) and have a lot more time and freedom to make fantastic photography.
+* **Personal**: A poor name for them, but shoots in which I'm working one on one with the model (Lets be honest, cosplayer) and have a lot more time and freedom to make fantastic photography.
