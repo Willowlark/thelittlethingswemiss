@@ -3,7 +3,8 @@ title:
 categories: reserve
 ---
 
-
+[AnimeNext]({% link _posts/steno/2017-07-19-Pyrrha-Georgia.md %})
+[AnimeNext]({% link _posts/steno/2017-07-21-Pyrrha.md %})
 
 ## Locations
 
