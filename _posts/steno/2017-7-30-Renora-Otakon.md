@@ -5,6 +5,8 @@ categories: reserve
 
 Nora is clingy, Ren is accommodating. 
 
+Call "Boop" at random times in the shoot. 
+
 ## Poses
 
 * Holding hands. *Variety from skipping around to first time doing it.*
@@ -54,6 +56,8 @@ Nora is clingy, Ren is accommodating.
 * Nora literally dragging Ren.
 
 * *"Ren, be assertive"*
+
+* Boop. 
 
 ## References
 

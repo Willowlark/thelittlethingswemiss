@@ -47,6 +47,14 @@ Georgia, Ryan, Gen & Rob of Wezrez, ?, Azure Valkyire & skilletwolf.
 
 ## References
 
+* ![](http://i.imgur.com/uL3n7iq.png)
+
+* ![](http://i.imgur.com/Y2mW1aX.png)
+
+* ![](http://i.imgur.com/UTIb8Nn.jpg)
+
+* ![](http://i.imgur.com/lH5q19T.png)
+
 * Stitch the two together, ![](http://i.imgur.com/1H2HiYn.png) ![](http://i.imgur.com/yazw8HP.png)
 
 * ![](http://i.imgur.com/zCaxNRK.png)

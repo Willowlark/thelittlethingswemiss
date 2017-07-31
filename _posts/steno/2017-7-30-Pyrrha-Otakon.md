@@ -16,6 +16,12 @@ categories: reserve
 
 * Find a bowl of cereal, do a commercial for pumpkin petes.
 
+* Sitting, arms behind and shoulders back.
+
+* 3/4 from back, prepping to throw javelin *Do a thumbs up with the other arm to aim by*
+
+* Crouched, sword forward, leaning aside. Like sliding backwards.
+
 ## References
 
 * ![](http://i.imgur.com/x8kV7rV.png)

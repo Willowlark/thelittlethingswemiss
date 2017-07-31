@@ -13,7 +13,19 @@ categories: reserve
 
 * Two handed, no shield, reckless overhand swing down.
 
+* Holding his scroll with Pyrrha on it, a drop of water on the screen.
+
+* Classic knight's pose, sword held vertically in front of face. 
+
 ## References
+
+* ![](http://i.imgur.com/Afj0UA4.png)
+
+* ![](http://i.imgur.com/L0oaR3B.jpg)
+
+* ![](http://i.imgur.com/Jntj6Ip.png)
+
+* ![](http://i.imgur.com/lVYjk3X.jpg)
 
 * ![](http://i.imgur.com/SupyL4J.png)
 
