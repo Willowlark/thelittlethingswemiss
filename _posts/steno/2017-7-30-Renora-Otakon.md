@@ -1,5 +1,5 @@
 ---
-title: renora Otakon
+title: Renora Otakon
 categories: reserve
 ---
 

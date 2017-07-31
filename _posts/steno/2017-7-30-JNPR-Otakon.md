@@ -3,14 +3,18 @@ title: Team JNPR Group shoot
 categories: steno
 ---
 
-Georgia, Ryan, Gen & Rob of Wezrez, ?, Azure Valkyire * skilletwolf.
+Georgia, Ryan, Gen & Rob of Wezrez, ?, Azure Valkyire , skilletwolf.
 
 5:00pm SAT
 
 [Jaune]({% link _posts/steno/2017-7-30-Jaune-Otakon.md  %})
+
 [Nora]({% link _posts/steno/2017-7-30-Nora-Otakon.md  %})
+
 [Pyrrha]({% link _posts/steno/2017-7-30-Pyrrha-Otakon.md  %})
+
 [Ren]({% link _posts/steno/2017-7-30-Ren-Otakon.md  %})
+
 [ReNora]({% link _posts/steno/2017-7-30-Renora-Otakon.md  %})
 
 ## Locations
