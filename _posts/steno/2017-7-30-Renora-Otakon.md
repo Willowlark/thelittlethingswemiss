@@ -57,6 +57,20 @@ Nora is clingy, Ren is accommodating.
 
 ## References
 
+* ![](http://i.imgur.com/Aw5rA4l.png)
+
+* ![](http://i.imgur.com/hhWze3W.png)
+
+* ![](http://i.imgur.com/3Lw11z8.png)
+
+* ![](http://i.imgur.com/xJev1cC.png)
+
+* ![](http://i.imgur.com/yypswnC.png)
+
+* Different camera angle, but that shot. ![](http://i.imgur.com/KgYUy9T.png)
+
+* A secret admirer. Who looooves. you. ![](http://i.imgur.com/gWYEnaJ.gifv)
+
 * Have Nora look down, around, left, step in and bend back as she looks up at Ren. ![](http://i.imgur.com/zlJMDQk.png)
 
 * ![](http://i.imgur.com/fY614zI.png)

@@ -4,7 +4,7 @@ categories: reserve
 ---
 
 [AnimeNext]({% link _posts/steno/2017-07-19-Pyrrha-Georgia.md %})
-[AnimeNext]({% link _posts/steno/2017-07-21-Pyrrha.md %})
+[Princeton]({% link _posts/steno/2017-07-21-Pyrrha.md %})
 
 ## Locations
 
@@ -14,7 +14,11 @@ categories: reserve
 
 * Pyrrha in Jaune's sweater. 
 
+* Find a bowl of cereal, do a commercial for pumpkin petes.
+
 ## References
+
+* ![](http://i.imgur.com/x8kV7rV.png)
 
 * ![](http://i.imgur.com/acvz6wo.png)
 

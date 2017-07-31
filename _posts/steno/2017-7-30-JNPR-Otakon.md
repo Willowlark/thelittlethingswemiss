@@ -3,7 +3,7 @@ title: Team JNPR Group shoot
 categories: steno
 ---
 
-Georgia, Ryan, Gen & Rob of Wezrez, ?, Azure Valkyire , skilletwolf.
+Georgia, Ryan, Gen & Rob of Wezrez, ?, Azure Valkyire & skilletwolf.
 
 5:00pm SAT
 
@@ -16,6 +16,8 @@ Georgia, Ryan, Gen & Rob of Wezrez, ?, Azure Valkyire , skilletwolf.
 [Ren]({% link _posts/steno/2017-7-30-Ren-Otakon.md  %})
 
 [ReNora]({% link _posts/steno/2017-7-30-Renora-Otakon.md  %})
+
+[Arkos]({% link _posts/steno/2017-7-31-Arkos-Otakon.md%})
 
 ## Locations
 
@@ -44,6 +46,34 @@ Georgia, Ryan, Gen & Rob of Wezrez, ?, Azure Valkyire , skilletwolf.
 * Pyrrha lifting Magnhild.
 
 ## References
+
+* Stitch the two together, ![](http://i.imgur.com/1H2HiYn.png) ![](http://i.imgur.com/yazw8HP.png)
+
+* ![](http://i.imgur.com/zCaxNRK.png)
+
+* ![](http://i.imgur.com/7ctHkmi.png)
+
+* ![](http://i.imgur.com/EhOifSY.png)
+
+* ![](http://i.imgur.com/7LOLCja.png)
+
+* "I can bench five of me, Jaune." Add Jaune on the end, head down on the table. ![](http://i.imgur.com/yd9ShGp.png)
+
+* ![](http://i.imgur.com/ewwTTCG.png)
+
+* ![](http://i.imgur.com/Qtz2ffl.png)
+
+* ![](http://i.imgur.com/cTydCIq.png)
+
+* ![](http://i.imgur.com/jwOqCvX.png)
+
+* Combine these two into one larger shot. ![](http://i.imgur.com/PDUMo5j.png) ![](http://i.imgur.com/XzNEeoy.png) ![](http://i.imgur.com/FSxW9yG.png)
+
+* "Kickstep, kickstep, BODYROLL." ![](http://i.imgur.com/ElKUJf3.png)
+
+* ![](http://i.imgur.com/aNC0bhx.png)
+
+* ![](http://i.imgur.com/ewJetAY.png)
 
 * Replace Ruby with Pyrrha because it never happened. ![](http://i.imgur.com/QHKA8r6.png)
 

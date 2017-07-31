@@ -4,11 +4,6 @@ categories: reserve
 ---
 
 
-
-## Locations
-
-- 
-
 ## Poses
 
 * 

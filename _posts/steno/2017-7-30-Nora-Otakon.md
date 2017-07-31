@@ -21,7 +21,27 @@ Nora skips around alot. More bounce in her step is always a good idea.
 
 * Salute!
 
+* Nora leaning over the camera, to get that 'wake up to Nora's face look'
+
+* "I'm queen of the castle~"
+
 ## References
+
+* ![](http://i.imgur.com/IcX1jjK.png)
+
+* ![](http://i.imgur.com/0SSSFVh.png)
+
+* ![](http://i.imgur.com/QKe9DYa.png)
+
+* BREAK HIS LEGS. ![](http://i.imgur.com/yTdUUz3.png)
+
+* ![](http://i.imgur.com/vC38pu5.png)
+
+* ![](http://i.imgur.com/xMHIoaU.png)
+
+* ![](http://i.imgur.com/CcHu8oa.png)
+
+* A gift that expresses the /*love*/ that she feels for you ![](http://i.imgur.com/6dPDOIj.png)
 
 * ![](http://i.imgur.com/lrk4jWi.png)
 
