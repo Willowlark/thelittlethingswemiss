@@ -25,8 +25,6 @@ categories: reserve
 
 * The logical evolution of this. ![](http://i.imgur.com/JPkOcTr.png)
 
-* Have Pyrrha move gradually closer to Jaune in the same pose. ![](http://i.imgur.com/7evfnpa.png)
-
 * ![](http://i.imgur.com/pxgRp3o.jpg)
 
 * ![](http://i.imgur.com/2yqznCR.png)

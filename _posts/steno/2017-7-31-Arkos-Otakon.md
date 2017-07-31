@@ -52,6 +52,8 @@ categories: reserve
 
 * "Find a penny pick it up, all day you'll have good luck" ![](http://i.imgur.com/nmdEpaW.png)
 
+* Have Pyrrha move gradually closer to Jaune in the same pose. ![](http://i.imgur.com/7evfnpa.png)
+
 * ![](http://i.imgur.com/ra3garO.jpg)
 
 * ![](http://i.imgur.com/Rgu20Dk.png)
