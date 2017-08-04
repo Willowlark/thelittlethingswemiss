@@ -4,7 +4,7 @@ title: Personal Shoots
 
 # Solo Shoots
 
-Photoshoots in which I was the lead/only/etc photographer. I get to take my time during these shoots so they showcase well. 
+Photoshoots in which I was the lead/only/etc photographer. I get to take my time during these shoots so they showcase well. You can view them directly on flickr [here](https://www.flickr.com/photos/thelittlethingswemiss/collections/72157683275096381/).
 
 {% for post in site.categories.personal %}
 * [{{ post.title }}]({{site.baseurl}}{{ post.url }}) *{{ post.date | date_to_string }}*

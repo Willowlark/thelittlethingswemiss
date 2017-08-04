@@ -4,7 +4,7 @@ title: Group Shoots
 
 # Group Shoots
 
-Photoshoots, usually at cons, that are a bunch of like minded individuals all together.  
+Photoshoots, usually at cons, that are a bunch of like minded individuals all together. You can view them directly on flickr [here](https://www.flickr.com/photos/thelittlethingswemiss/collections/72157683243269453/).
 
 {% for post in site.categories.group %}
 * [{{ post.title }}]({{site.baseurl}}{{ post.url }}) *{{ post.date | date_to_string }}*
