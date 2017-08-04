@@ -26,9 +26,10 @@ module Jekyll
 
       @photoset       = params[0]
       @photoThumbnail = params[1] || "Large Square"
-      @photoEmbeded   = params[2] || "Medium 800"
-      @photoOpened    = params[3] || "Large"
-      @video          = params[4] || "Site MP4"
+      @reversed = params[2] || 0
+      @photoEmbeded   = params[3] || "Medium 800"
+      @photoOpened    = params[4] || "Large"
+      @video          = params[5] || "Site MP4"
     end
 
     def render(context)
@@ -69,6 +70,9 @@ module Jekyll
       else
         output = "<div>"
         flag = false
+        if @reversed != 0
+            photos.reverse!
+        end
         photos.each do |photo|
           if photo['urlVideo'] != ''
             # output += "      <li>\n"
