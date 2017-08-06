@@ -20,6 +20,10 @@ categories: reserve
 
 ## References
 
+* ![](http://i.imgur.com/ZewPOJi.png)
+
+* ![](http://i.imgur.com/3IFby9Z.png)
+
 * ![](http://i.imgur.com/fh2oZfl.png)
 
 * ![](http://i.imgur.com/hXENE6e.jpg)
@@ -85,6 +89,8 @@ categories: reserve
 * Pyrrha on Jaune's lap. 
 
 * Stereotypical anime fall, but Pyrrha's into it. 
+
+* Lap pillow. 
 
 * Pyrrha poking Jaune lightly in the face, he clearly didn't get something. 
 

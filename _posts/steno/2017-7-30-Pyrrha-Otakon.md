@@ -22,7 +22,11 @@ categories: reserve
 
 * Crouched, sword forward, leaning aside. Like sliding backwards.
 
+* Pyrrha from behind, placing Milo across her back. 
+
 ## References
+
+* ![](http://i.imgur.com/Z6wRmYX.png)
 
 * ![](http://i.imgur.com/x8kV7rV.png)
 

@@ -17,6 +17,8 @@ categories: reserve
 
 * Classic knight's pose, sword held vertically in front of face. 
 
+* Draw me like one of your french girls. 
+
 ## References
 
 * ![](http://i.imgur.com/Afj0UA4.png)

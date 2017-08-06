@@ -25,6 +25,8 @@ Nora skips around alot. More bounce in her step is always a good idea.
 
 * "I'm queen of the castle~"
 
+* Hulk smash! *flexing both arms in a wide stance.*
+
 ## References
 
 * ![](http://i.imgur.com/IcX1jjK.png)

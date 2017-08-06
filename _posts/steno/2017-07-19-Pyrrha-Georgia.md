@@ -13,15 +13,15 @@ Sword and shield mode. Magnetic shield for Pyrrha shinangins.
 
 ## Locations
 
-* ~~Manga Library - *reading Xray-Vav*~~
+- ~~Manga Library - *reading Xray-Vav*~~
 
-* The Vue Bar - *Death Scene on the rooftop*
+- The Vue Bar - *Death Scene on the rooftop*
 
-* A wall like the outside of Beacon Cafeteria - *The maiden discussion* ![](https://www.dropbox.com/s/i1geikp7z85m307/chrome_2017-05-19_12-41-49.png?raw=1)
+- A wall like the outside of Beacon Cafeteria - *The maiden discussion* ![](https://www.dropbox.com/s/i1geikp7z85m307/chrome_2017-05-19_12-41-49.png?raw=1)
 
-* Upper floors - *The dance balcony*
+- Upper floors - *The dance balcony*
 
-* Outside Ceasar's - https://goo.gl/maps/qwE7EvpNuT22 
+- Outside Ceasar's - https://goo.gl/maps/qwE7EvpNuT22 
 
 ## Poses
 

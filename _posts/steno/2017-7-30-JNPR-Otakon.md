@@ -27,6 +27,12 @@ Georgia, Ryan, Gen & Rob of Wezrez, ?, Azure Valkyire & skilletwolf.
 
 * "The move" patient Steve Martin. Jaune awkwardly trying to do so Pyrrha. Ren and Nora in the background rooting/observing.
 
+* Pyrrha, carrying the /entire/ team.
+
+* Princess cradle. Both ways would be amusing if possible for each pair.
+
+* Princess cradles back to back. Both pairs in the shot. 
+
 * Scooby doo, heads peeking out of in a column around a door. 
 
 * Girls Gossiping:
@@ -46,6 +52,12 @@ Georgia, Ryan, Gen & Rob of Wezrez, ?, Azure Valkyire & skilletwolf.
 * Pyrrha lifting Magnhild.
 
 ## References
+
+* ![](http://i.imgur.com/7w2gbV3.png)
+
+* ![](http://i.imgur.com/uDFcnKo.png)
+
+* ![](http://i.imgur.com/Xty4Vg8.png)
 
 * ![](http://i.imgur.com/uL3n7iq.png)
 
