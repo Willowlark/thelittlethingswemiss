@@ -36,6 +36,8 @@ excerpt: All the compiled notes and tips I've found for doing cosplay photograph
 
 * Shoulders back, really emphasis that.
 
+* Watch out for buldging pockets on dress clothing.
+
 ## Things to watch for
 
 * Corsets apparently slip down. A lot. Watch for it in a pose. 

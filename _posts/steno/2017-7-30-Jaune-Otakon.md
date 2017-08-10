@@ -3,6 +3,7 @@ title:
 categories: reserve
 ---
 
+The shield makes for the best Jaune poses. he's a shield bash kind of guy.
 
 
 ## Locations
