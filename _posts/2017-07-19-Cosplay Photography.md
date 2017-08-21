@@ -38,13 +38,22 @@ excerpt: All the compiled notes and tips I've found for doing cosplay photograph
 
 * Watch out for buldging pockets on dress clothing.
 
+* "Cross swords" where blades are tip to tip *never* fit in frame. Just avoid them.
+
+### Group photoshoots
+
+* Always have multiple rows when there's alot of people. Camera's only can catch so much width wise, and the photographers rarely can move back during a group shoot. In the same vein, if there's stairs or other physical layers, use them. Don't have everyone stand on the same level. 
+  > However: With stairs, don't go too high. There are perks to it, looking down on the photographer can be cool and intimidating. But being forced to shoot can make for a missed shot, if the shot would look good low, the photographer will crouch to help it along. Spitballing, but a rule of thumb could be **don't go above eye level of the standing photographer.**
+  
+  > Skirts. Enough said.
+
+* Staggering is a stage term, it means making sure that from a specific angle, such as the photographer's camera angle, everyone is visible. You do this by standing wide enough you don't block anyone. This is *crucial* in group photography. Please don't block other people. Also watch out for massive Scythes *(Ruuuby....)* blocking faces as well. 
+
 ## Things to watch for
 
 * Corsets apparently slip down. A lot. Watch for it in a pose. 
 
 * Eye shadows. Worst thing to correct for.
-
-
 
 ## WSJ Shoot Manner
 
