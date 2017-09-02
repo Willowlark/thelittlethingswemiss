@@ -1,0 +1,481 @@
+---
+title: World Guide
+categories: PbP
+excerpt: Information about the world.
+---
+
+This guide represents any setting information that is general knoweledge in the game. It will always be available, but read up and familiarize yourself with the realm. 
+
+<!-- TOC -->
+
+- [The World of Aurii](#the-world-of-aurii)
+    - [Races](#races)
+        - [Human Regional Differences](#human-regional-differences)
+        - [Manakete](#manakete)
+        - [Laguz](#laguz)
+            - [Cat](#cat)
+            - [Wolf](#wolf)
+            - [Tiger](#tiger)
+            - [Rabbit](#rabbit)
+    - [Magic](#magic)
+        - [Categories of Magic:](#categories-of-magic)
+- [The Kingdoms of the World](#the-kingdoms-of-the-world)
+    - [International Relations](#international-relations)
+    - [Nation 1: Wynne](#nation-1-wynne)
+        - [Ruling Class](#ruling-class)
+        - [Culture & Social Classes](#culture--social-classes)
+        - [Military](#military)
+        - [Trade & Economy](#trade--economy)
+        - [Foreign Relations](#foreign-relations)
+        - [Settlements & Places of Interest](#settlements--places-of-interest)
+    - [Nation 2: Callora](#nation-2-callora)
+        - [Ruling Class](#ruling-class-1)
+        - [Culture & Social Classes](#culture--social-classes-1)
+        - [Military](#military-1)
+        - [Trade & Economy](#trade--economy-1)
+        - [Foreign Relations](#foreign-relations-1)
+        - [Settlements & Places of Interest](#settlements--places-of-interest-1)
+    - [Nation 3: Eraia](#nation-3-eraia)
+        - [Ruling Class](#ruling-class-2)
+        - [Culture & Social Classes](#culture--social-classes-2)
+        - [Religion: Lylalel](#religion-lylalel)
+        - [Military](#military-2)
+        - [Trade & Economy](#trade--economy-2)
+        - [Foreign Relations](#foreign-relations-2)
+        - [Settlements & Places of Interest](#settlements--places-of-interest-2)
+    - [Nation 4: Theanovene](#nation-4-theanovene)
+        - [Ruling Class](#ruling-class-3)
+        - [Culture & Social Classes](#culture--social-classes-3)
+        - [Military](#military-3)
+        - [Trade & Economy](#trade--economy-3)
+        - [Foreign Relations](#foreign-relations-3)
+        - [Settlements & Places of Interest](#settlements--places-of-interest-3)
+    - [Nation 5: Dreca](#nation-5-dreca)
+        - [Ruling Class](#ruling-class-4)
+        - [Culture & Social Classes](#culture--social-classes-4)
+        - [Military](#military-4)
+        - [Trade & Economy](#trade--economy-4)
+        - [Foreign Relations](#foreign-relations-4)
+        - [Settlements & Places of Interest](#settlements--places-of-interest-4)
+- [Historical Events](#historical-events)
+        - [Historical (Significantly in the past.)](#historical-significantly-in-the-past)
+        - [Recent](#recent)
+- [Terms in the Realm](#terms-in-the-realm)
+
+<!-- /TOC -->
+
+![Map!](https://i.imgur.com/9d3VUHu.jpg)
+
+# The World of Aurii
+
+*Our-rii* 
+
+## Races
+
+### Human Regional Differences
+
+* **Wynne**: Wynneites are tall and stocky. While not pale, they have lighter skin due to the cold climate in Wynne. Their hair colors are typically lighter shade, blonde being common with brown a close second. Facial hair is common for men. Eye colors fall on the dark side of the spectrum, deep blues and browns.
+
+* **Callora**: Callora has the most variety in their kingdoms. Almost every trait is represented in Callora, from skin to eyes to height to build. 
+
+* **Eraia**: Eraians have light to olivish skin tones. They tend to be tall and thinner, with black hair as a primary trait in the country. The occasional straw blonde crops up here and there. Facial hair is rarely seen on Eraians. Eraians have dull eye colors in all of the normal color ranges.
+
+* **Theanovene**: Theanovene natives are lightly tanned and tend to be a few inches shorter than other races. Bright eyes are a common trait and there is no standard for facial hair among Theanovenians. 
+
+* **Dreca**: Drecians are light tanned with light hair colors, blond being the most common. They have bright eye colors and while shorter than the northern humans they don't lose out in build. Facial hair is common in Dreca. 
+
+### Manakete
+
+Manakete are a race that originated from Dragons that stored the majority of their power into an object known as a Dragonstone, taking a humanoid form for the rest of their long lives. Nowadays, *Pure Blood Manakete* are rare in the modern era, what Manakete are to be found are *Mixed Blood Manakete*, children with at least one parent with Manakete blood. Manakete live thousands of years, a trait inherited from their dragon origin. 
+
+Their physical appearance is also slow to age, even at 1000 years a Manakete can look like a teenager or younger. A Mankete's humanoid form is weak even by human standards. Manakete use a stone, unique to them, to transform into their original, dragon form. In their draconic form Manakete's can fly, have thick scale armor, breath fire or another element, and fight with tooth and claw. 
+
+Prolonged exposure to their draconic form can be hazardous to a Manakete's mental health. When separated draconic power comes back into a Manakete from it's dragonstone, the power and instincts can be too much for the now humanoid mind. Transforming many times in a day or for hours on end can leave a Manakete rattled, dizzy, and nausous. Almost like an addiction, resuming the Manakete form can aleviate the symptoms though it's a temporary fix. If a Manakete is too far gone to return to it's human form, it will lose itself in a rage, destroying indescriminately and indulging in it's draconic instincts. Because of that threat, most Manakete only transform in times of combat. 
+
+Manakete's look physical similiar to humans. The only tell tale trait of a Manakete, asides from the Dragonstone they must be carrying, is their pointed ears. Even such a simple fact isn't common knowledge, as Manakete are terribly rare. Many live in solitude with only their immediate family, while others are protected in small villages that revert them as minor gods. 
+
+### Laguz
+
+Laguz are a race of humanoids that hae the ability to transform into a beast form. Physically they will show a few of their beast form's traits in their human form, often ears and tail. They may also show other beast traits such as enhanced smell or sight in their human form. Unlike Manakete, Laguz transform freely and there is no side effect to their transformation. (Though it's common for a Laguz to pick up habits related to their beast form even as a human.) When transformed, a Laguz has all the features and abilities of the animal they transform into. Like the beasts they transform into, Laguz's coats can vary wildly. Laguz hair and eye colors also vary like the beasts they transform into, but usually matches the coat color they have transformed. There are three variants (or *Tribes*) of Laguz in the realm, each with a cooresponding beast form, detailed below. 
+
+Throughout history, Laguz have been treated as second class citizens. Historians have varying opinions on why, be it out of fear of the Laguz's ability, jealous or something else. No modern Kingdom allows slavery, yet in the past every Kingdom considered Laguz slaves a normal thing. Laguz originally occupied the entire south eastern section of the continent, yet the land that they owned was reduced over time to just the southern most pennisula. Laguz are now treated far better than in the past. That said, some people still think of Laguz as more beast than man. 
+
+#### Cat 
+
+Native to the southern pennisula. Now scattered to Callora and Theanovene. Lithe and agile, they make up for their small stature by being hard to hit and fast with their attacks. The tribe is more culturally varied than the others, meshing well wherever they go. 
+
+#### Wolf 
+
+Native to **C** in the north. Wolves are heavier hitters than cats while they aren't tigers. Wolves still have claim to their ancestral home and are very traditional to their old ways. They mesh well with Wynne culture and have long been respected by the Wynne.
+
+#### Tiger 
+
+Native to the southern pennisula Now scattered to Theanovene and Eraia. The most inheritantly powerful tribe, it didn't help when Draca came calling. Prideful as a race, the loss of their home territory is a sore point to every member of the race.
+
+#### Rabbit 
+
+Rabbit laguz originally had full claim of the south western continent before it was annexed by Eraia. The rabbit laguz split evenly down the middle, some joining Eraia as second class citizens, some heading out to other countries. However there's rumors of a rebellion <!--Rabb-ellion--> in the back alleys of the island. Rabbit laguz, unlike the other races, aren't the same size as their animal counterpart. Rabbit laguz are large, almost the size of tigers. The have long, powerful front and back legs. 
+
+## Magic
+
+Magic is a powerful force that trained scholars use in the realm. Formally magic is harnessing the elemental forces of the world to guide them to do one's bidding. Mages study for their entire lives to make even a single breakthrough in the study of magic. Spells are cast through long rituals which take time to cast, often an hour or longer. Researching into a new spell often becomes a Mage's life work. Those who have created a new spell, added to the collective knowledge of magic as a whole, are called Sages. 
+
+Hours is far too long for a mage on a the battle field to wait to throw fire at their enemies. One of the greatest discoveries in magic was the art of creating Tomes. Rituals are cast sequentially into a specially prepared book, embedding the power of the spells into it's pages. When the page is read from the tome, the spell's energy is released immediately. This craft is immensely popular for combat spells and is used by every mage on the battlefield. 
+
+### Categories of Magic:
+
+* **Anima**: The three primary elements, Wind, Electricity, and Fire are called the Anima elements. Other elements can be derived from these three, though it is a more advanced art. 
+* **Light**: Light magic is primarily casted by those in the clergy. Weaker than the Anima elements but more reliable, Light magic functions in the same way Anima does, yet no attempts to study it as Magecraft have yielded fruit. In fact, only a person who believe in their faith can cast a Light spell, and new spells are discovered in unearthed religious documents rather than discovered. 
+* **Dark**: Dark magic is often called Elder magic by those who study it, tired of the stigma that comes with the term "Dark". Dark Magic is more powerful than Anima by a grade, but each spell comes with quirks and caveats that make them less reliable. It often requires a tribute while casting spells, be it in the form of vitality or something more precious. The study of Dark magic is tolerated but universally considered best "seen but not heard" (In reality, best unseen and unheard.) Dark mages often do not introduce themselves as such because of this. The study of Dark magic tends to attract intellectuals whose curiousity outweights their interest in being accepted. Dark magic is a rabbit hole, dark and dangerous but with great mysteries to be discovered as one gets deeper and deeper.
+* **Healing Arts**: A set of spells dedicated to the restoration and healing of the humanoid body. While universally useful and some of the most used spells in the world, there has been little progress in researching them for the last few decades. There's only so much the human body can be healed at once. 
+
+---
+---
+
+# The Kingdoms of the World
+
+## International Relations
+
+--         | Wynne | Callora | Eraia | Theanovene | Dreca
+-----------|-------|---------|-------|------------|-------
+Wynne      | --    | A       | T     | N          | N
+Callora    | A     | --      | T     | A          | N
+Eraia      | T     | T       | --    | A          | H
+Theanovene | N     | A       | A     | --         | A
+Dreca      | N     | N       | H     | A          | --
+
+Key: *A: Allied; N: Neutral; T: Tension; H: Hostile* 
+
+* **Wynne** & **Callora** have idealogical differences with **Dreca**, so despite both fighting **Eraia** they're not allies.
+* **Wynne** & **Callora** are in a cold war with **Eraia**, Eraia turned away years ago during it's first crusade and the tension never breaking.
+* **Theanovene**'s decision to stay neutral against the universally disliked **Eraia** is divisive.
+* **Eraia** conquered the southwestern island, it used to be it's own nation. 
+* The southern pennisula on the continent is in contention between **Eraia** and **Dreca**.  
+
+---
+---
+
+## Nation 1: Wynne
+
+*Wyn-neh : Strength resides in the north*
+
+### Ruling Class
+
+**Type of Rule**: Meritocracy/Kratocracy
+
+Wynne is ruled by the man most suited for the job. There is a formal ceremony to challenge the current head of state, challenging him either on his skills as a warrior or leader. It is not to the death; any man capable of winning in the first place is worth too much to the community to be killed. (Anyone found to have cheated in any formal ceremony however is put to death as a coward.) The head of state is in charge of both military and foreign affairs and he is advised by a council of elders (some of which were former leaders). Other 'upper' class ranks in Wynne are earned through proof of skill and challenges, though not directly against another person. What you provide to the country decides your rank in the country. 
+
+### Culture & Social Classes
+
+People in Wynne are expected to work hard. They are a traditional, old fashioned country that often chooses the old ways over newer innovation simply because 'if it ain't broke, don't fit it.' 
+
+A boy in Wynne is considered an adult at the age of 14 (girls at age 16). While is understood they're still growing, they are expected to work for the betterment of their village and country or purse a trade. The latter of which is considered an investment in that person's future work, to make them even more effective down the line. Apprentices are common in Wynne for every profession as learning from an expert in a field is considere the only real way to become an expert yourself. It is rare for an adult to have multiple apprentices at a time though; it's considered arrogant. 
+
+Wynne has abundant hunting due to their colder climate. Deer provide alot of the food for Wynne, supplimented with fish from the sea to the south. Wynne has few farms, between the climate and stagnate lifestyle farming doesn't appeal to Wynnites. Anything that grows in the wild is equal parts replanted by the gatherer and returned to the village. This tradition has been in place so long that much of Wynne has edible crops growing on it. 
+
+Wynne dialect is a bit gruff, called by the occasional southerner 'like they have a scratch raw throat all the time'. 
+
+In Wynne it is commonplace to challenge another when you feel they aren't doing their job correctly. This stretchs all the way up to Wynne's chieftain. 
+
+Despite their traditional outlook on the life, as long as the work gets done and nothing illicit occurs while doing it, Wynnites don't care about the means to the end. This allows people freedom of expression and creativity. Youth will do work in their pajamas, hunters will drink mid hunt, and chefs will take the time to cook a full meal rather than just meat and potatos. 
+
+If you have a new idea about doing something, such as a new hunting trail or other activity, you are expected to prove that it's better on your own time while still completing all your other tasks. Wynne also only has one 'weekend' in the week. It is considered cowardly to offload work on others, you'll be considered useless if you spend a day lazing about, and you'll be punished if you pull another man from his work for no good reason. 
+
+Wynne's religion is more spiritual than in a god. Wynne tradition states that their ancestors are reborn as the deer and rabbits that feed them, the logs that shelter them, and the steel that protects them. Every blessing of the land comes from their ancestors. Wynne has traditional ceremonies to honor those ancestors for their work beyond the mortal realm to better the land of Wynne, which encompass it's religious aspects. These ceremonies aren't frequent, a month minimum between any two.
+
+Wynne has a long standing relationship with the Wolf Laguz village to the north of them. In a past age Wynne competed against them for food and land, the Wynnites fighting against the "demon wolves". (Wynne has never seen an untransformed Laguz.) But that ended when a Laguz woman and Wynnite man were snowed into a large tunnel. While both sides tried to rescue their lost soul, the two of them connected, Wynnite seeing a humanoid Laguz for the first time. The two of them travelled miles underground, only surviving because they worked together, before reaching the point where their allies came charging in for them. The two of them demanded no fighting occur in that tunnel, and that both sides leave peacefully. The two promised to meet again privately, with the winds of change to their backs. Neither knew that they were the respective heirs to the villages they hailed from. They met again, and eventually married and started a tight bond between the two races. 
+
+In the modern era, wolf laguz are treated as a part of Wynne. They're long respected as powerful hunters and excellent navigators in the dark woods of northern Wynne. Wolf laguz are also accepting of the Wynnite people, though the laguz ancestral home is generally considered a off limits to humans. The origin of that unspoken law was lost to time, at least from the Wynnite side, but it is well respected. 
+
+### Military
+
+Wynne's military contains Infantry and a Navy. They also have the Pegasus Knight corp, which is detailed below. Wynne's infantrymen are not taught how to fight, but how to fight with others. Wynne soldiers are expected to learn their fighting either before the war or on the job. The infantry has little in the way of fighting style restrictions, Wynne troops often look ragtag and unorganized. They are of course, anything but. 
+
+The Navy is more formally organized than the infantry. While not large by any means, much like everything else in Wynne hard work and skill drives each crew member to do the work of two men. In a similar vein, each ship is a force to be reckoned with on the sea. While skilled, the crews of the Wynne Navy are hamstrung by their ships. Ships are rarely built and Wynne is comfortable with it's small fleet. Many of the ships have served decades at sea and their age puts them at a disadvantage against newer ships from other nations. 
+
+Pegasi are native to the island. They have heavy coats, like clydesdales. Wynne woman (traditionally, lightly built men are starting to be seen as well) can join the Pegasus Knight corp, a powerful subset of the Military. Well trained and organized, Wynne's Pegasus Knights are a sight to behold on the battlefield, diving bombing and rescuing injured troops all without touching down. Wynne occasionally trains Callorian candidates for Pegasus Knight, and more rarely citizens of other nations. The pegasi are a Wynne treasure which they are tenative to share. It is a great honor to receive Knight training as a non Wynnian.
+
+### Trade & Economy
+
+Wynne's primary exports are furs, plants that only grow in the cold weather and cold water fish. Other exports of the nation include Wynne made weaponry, cold weather equipment such as snow shoes and rarely, a pegasus, given to someone whose earned the favor of the nation. Wynne usual imports are fruits and other food that won't grow in their region, as well as worked materials from other regions such as armors and naval parts. Wynne does almost all trade via sea, given they're an island nation. They trade specifically with Callora, their ally on the main land. 
+
+### Foreign Relations
+
+* **Callora**: Callora is an ally due to a long history of cooperation. Wynne is not always approving of some of Callora's traditions and practices (They find the aristocracy rather silly, why not have one general ruler?) but they know that Callora will come to Wynne's aid in a time of trouble as they have for years in the past. 
+
+* **Eraia**: Wynne finds Eraia's pushing of religion both a waste of time and offensive. Eraia's expansion efforts also infringes against Wynne's way of doing things, all the more so with Eraia trying to consume Wynne's ally Callora. While unwilling to go war with them on their own, Wynne will happily jump into the fray with Callora when Callora wants to break the tension between the two.
+
+* **Theanovene**: Wynne's culture finds Theanovene's neutral stance cowardly. They also find it's lack of military and trade focus cowardly. Wynne is not hostile because of these reasons, but they lack respect for Theanovene. Wynne has no interest in trading with them directly because of it, most Wynne goods actually pass through Callora before reaching Theanovene.
+
+* **Dreca**: Dreca, much like Eraia has an expansion policy that Wynne is against. Dreca's actions against the southern laguz also offend Wynne, as well as their overall treatment of the people and places they work through. Despite being a motivated and hard working force, Dreca is cruel and to Wynne it feels like what they could become if they slipped too far. 
+
+### Settlements & Places of Interest
+
+* C - Wolf Laguz Settlement
+* H - Village
+* I - City - Capital
+* Q - Village
+
+---
+
+## Nation 2: Callora
+
+*Cal-lor-ah : Legacy and Loyality* 
+
+*Game Note: Callora is by nature, a little vague. If you decide you want to be the heir to a particular kingdom with X trait and Y city, through it into Callora. If I need a quick kingdom to cause trouble, I can throw it into Callora. Anyone who wants to work within Callora's slice of the world can do so, talk to me about it when you'd like to.*
+
+### Ruling Class
+
+**Type of Rule**: Traditional Aristocracy
+
+Callora is made up of multiple smaller Kingdoms that have their own noble families. Long ago the kingdoms came into an alliance to face a past enemy. That alliance held fast for many years, though the kingdom's kept their independence. Eventually, as other kingdoms came forth on the national stage, the Kingdom decided to formalize their kingdom as Callora. 
+
+Each kingdom in Callora is allowed to act on it's own accord, and bring a proposal to action to the other kingdoms in Callora. If three fourths of the kingdoms agree, Callora acts as a whole. If any kingdom in Callora is threatened or attacked, the other kingdoms of Callora will respond in kind. The current ruler of the kingdom represents it to the rest of Callora. How that rule is decided is left to the kingdom itself. Truly, the kingdom's only are known as Callora in times of international strife. 
+
+### Culture & Social Classes
+
+The kingdoms vary slightly on laguz acceptance, but in general they have a neutral stance on laguz. While there's no outright segregation in the kingdoms, some kingdoms are less tolerant than others. Still, a crime is a crime so the worst Laguz usually have to put up with is insults or pranks. That said, there's currently a wave of sympathy going through the nation as laguz refugees from the southern pennisula work their way up to Callora. More people are accepting of laguz at the moment because of it, even those who have been residing in Callora all their lives. 
+
+### Military
+
+While Callora has a sizable army, (2/3rds of the Eraia) it is made up of the armies of each kingdom in the Nation. Each kingdom supplies and trains their own army. In times of war, the kingdoms in Callora join together to form a large army which works towards goals set upon by the nobles of Callora. In most historical cases, these are defensive goals. While the individual armies that make up the Callorian army are firmly allied with each other, they are trained separately and this occasionally causes miscommunications on the battlefield. In the same vein each kingdom has their own morals and culture, sometimes causing divides in the heat of battle. 
+
+The kingdoms of Callora have between them impressive amounts of Infantry and Calvary. The kingdoms that border the sea also have small Navys, which combined is larger than the Wynne Navy. Despite the varying training methods between kingdoms the soldiers of Callora are well displined even in the combined army. Commanding officers of differing kingdoms respect each others ranks and rebuild the chain of the command as new officers arrive.  
+
+### Trade & Economy
+
+Trade is managed at the combined level for Callora. The *Tradeswind Guild* has representatives of every kingdom (usually second sons/daughters or the like) and manages prices, trade routes, embargos, and other such issues. Working for the Tradeswind Guild is a great position to be in, though frequent travel is involved. 
+
+Callora exports horses, mined materials, fruit and vegetables from it's farms, and unique creations from different kingdoms. Some kingdoms have excellent tapestries, some pottery, and so on from there. Callora imports things of value such as spice and furs from the north. Callora has sea trade routes with Wynne and land routes with Theanovene. There are old routes in place between Eraia and Callora, but they are only used by independent traders and travellers.
+
+### Foreign Relations
+
+* **Wynne**: Callora has long had an ally in Wynne and intends to keep them so. They find Wynne to be quirky in practice and more than a little behind the times. They respect Wynne's relationship with the wolf laguz, and respect Wynne's strength in general. Callora may be the only other nation in the world to understand how much damage Wynne could do if they left their island home. 
+
+* **Eraia**: Callora is well divided on Eraia. In the past kingdoms were allied with Eraia, and Callora has intentions of forming an ally of the nation. When Eraia turned around and attacked Callora, it provoked outrage throughout the kingdoms and war began. Now, decades after that original war, people are growing tired of the constant tension with the nation. No one knows what, but something must change.
+
+* **Theanovene**: Theanovene is a trading capital and Callora is one of the primary sources of trade for them. Theanovene is very good to Callora and Callora the same. There is a health dose of professionalism in the relationship, both Theanovene and Callora know that were either to be attacked, the other would not go out of their way for them. That said both nations feel secure in their borders and openly enjoy their allied status with each other.
+
+* **Dreca**: Callora is far less divided on Dreca than Eraia. Dreca's violent, militaristic march onto the continent made a terrible first impression to many kingdoms in Callora and their actions on the continent have not change that impression. Callora is paying close attention to the situation with Dreca and Eraia, to possibly make an ally of Eraia. 
+
+### Settlements & Places of Interest
+
+* N1 - Village
+* N2 - City
+* R - Town
+
+---
+
+## Nation 3: Eraia
+
+*E-rai-ah : The Nation blessed by the Goddess*
+
+### Ruling Class
+
+**Type of Rule**: Theocractic Empire
+
+Eraia is theocractical first and an empire second. Formed originally from a small church on the coast, Eraia built itself up over time. After the city expanded to it's full size, Eraia decided to bring the glory of it's Goddess to the other Nations. Eraia began a crusade, spreading into the Laguz territory and up to the fledging Callora. It's expansion slowed due to conflict, and the empire has been holding ever since.
+
+Eraia is guided by the church and the church wants to expand it's influence around the country. The pope leads the church, elected from the cardinals and bishops in power. People rise through the ranks through not so equal parts faith and impressing those above them in the church. The military is directed by bishops from the Great Cathedral.
+
+### Culture & Social Classes
+
+Eraia is a theoractic empire, a nation shaped by it's religion. From a young age citizens are introduced to the church and it's teachings and any other belief is heretical. The church has multiple sacraments it brings young children in through to educate them fully on the beliefs of the church. Children are not members of society until 16, most of their time being dedicated to the study of religion. There are frequent celebrations and events in the name of the Church, often celebrating the most recent achievement of the children.
+
+Eraia has many farms in it's territory. A good portion of Eraia's diet is grown, with supplement of fish. Red meat is less common tables than chicken or fish. Hunting is not a popular profession in Eraia. Some forms of meat aren't eaten in Eraia, including deer, pigs, salmon, and duck. To eat one is heretical. 
+
+Almost everything in Eraia comes with a phrase or exchange to be shared from scripture. Buying something in the store, meeting a friend on the road, seeing a Bishop, entering a home, there's a tradition to be followed all the time. It can be jarring for visitors to the country. 
+
+Eraia has strict standards on cleanliness. There are inns at entrances to every town and city where dusty travellers are expected to clean themselves. When doing a job where one must get dirty, workers are expected to clean themselves before they leave the site. 
+
+Eraia has it's own language, *Erain*. Eraian is spoken infrequently in towns as the common tongue has taken precidence. Every citizen of Eraia is raised with at least a working understanding of it. That's important as all church business, both public and private, is conducted in Erain. 
+
+Family life is important to Eraia. It is expected to be married by 25, and if you aren't the church will help you get hitched. Divorce isn't allowed in the kingdom as well, it's a crime against the sanctity of God's marriage. It's uncommon to see the woman in the marriage providing for the family. It's not unheard of, particularly for soldiers with excellent records who the church would rather not see leave the battlefield, but it is strange. 
+
+Laguz are welcomed in Lylalel's light. The church does segregate Laguz, not allowing them to attend masses yet expecting them to hold to the scriptures as an example. However the people of Eraia are kind enough to Laguz who are willing to follow the tenants of Lylalel. They aren't equals, but they are no less deserving of Lylalel's light.
+
+### Religion: Lylalel
+
+Lylalel is portrayed as a woman in white, beautiful with golden hair and eyes as deep blue as sapphire. Her image adorns more buildings in the capital than not. Her worshippers wear white to be as pure as her image. It is believed she created the world, and that each man woman and child of Eraia are her children. She is the guardian of all who give her tribute. Her church is the only right in the world, any that would deny her words are servants of Lyarlel, her opposite. Where Lylalel is there is light, and all shadow in the world comes from her corrupt brother, Lyarlel. Lylalel is too kind, too pure to strike her brother down so she may spread her light to the world at large. Her children, the men and women of Eraia, take up this task for her. 
+
+The religion of Lylalel has written scripture which has been the scripture as long as anyone can remember. Only the clergy may see the scripture, to read it for masses. Other items of note in the church are the Light of Lyalalel, a snow white candle that is kept lit in every believers home and place of worship. As long as the light burns, Lyarlel's evil will never touch the residents of the place. The church, in honor of deeds done in the nanme Lylalel, will bestow stain glass shards upon a family. These crests are placed in special mounts that shine the image on the nearby wall. These shards of Lylalel are a great honor to the family. 
+
+<!-- Some church tradition is only in the church, not the scripture. -->
+
+Swearing an oath to God is a serious claim in Eraia. Those who do not complete that claim in Eraia are brought before the church decides on the weight of their transgression and what must be done to rectify it. It is possible that the claim is against another tenant of God. The person in question is then stuck between a rock and a hard place, no matter what they do the church will come for them. 
+
+When a clothed member of the clergy passes a citizen of Eraia, the citzen is expected to bow their head and step aside. Foreigners are at the least expected to step aside as well, which has caused trouble before. Most citizens will pull a foreigner aside as to not spark a conflict. 
+
+It is heretical to speak of another God in Eraia. No crime, murder included, is ranked worse than slandering or promoting another God. If you aren't attacked on the spot, you'll be arrested and tried in the church. 
+
+### Military
+
+Eraia has the largest military on the continent. As part of the church, soldiers are on a holy crusade to spread the religion of Eraia around the globe. This and frequent motivating speeches from the church leaders makes them dedicated and enthusastic about every engagement. Eraia has a fleet of ships and extensive infantry, their heavy armor troops are the best on the continent. Eraia's calvary is it's only lacking point; what horses they have are dedicated to mounted generals and paladins (armored mounted unit, a force to be reckoned with on the field.) 
+
+Occasionally enthusiasm is taken for skill in Eraia. While Eraia has plenty of ace units whose careers are highly decorated, there are just as many soldiers out to do their part in the name of the Goddess with no concept of what fighting on the battlefield means. Because of this an army fighting Eraia's may occasionally defeat one man and rout a regiment. At the same time, single men in Eraia's military can take out an entire regiment on their own. It's best to never underestimate the Eraia crusaders.
+
+### Trade & Economy
+
+Eraia exports worked metal, glass, and other practical items as well as minerals mined in the desert. The primary imports of Eraia are wax, furs, and foreign meats. It's trade routes aren't short, travelling south from Theanovene, across the southern pennisula, and then across the water to the capital. It would be faster for Eraia to work with Callora, but the tension between the country makes structured trade between them impossible. 
+
+### Foreign Relations
+
+* **Wynne**: Eraia considers Wynne to be heretical two fold, for both their ancestoral beliefs and primary diet of deer. Putting aside any differences with Callora, Eraia could never be allied with Wynne even indirectly. Wynne is currently out of sight out of mind, but that could change in time. 
+
+* **Callora**: As the nearest neighbor of Eraia, Callora was the first nation Eraia tried to spread their religion to. While that conflicct ended in a stalemate, the tension between the nations has never relaxed. While not actively at war, every citizen of Eraia knows Callora would be the first nation in the second crusade of Eraia.
+
+* **Theanovene**: Theanovene, as a city, is far too much of melting pot to meet Eraia's standards. However any ambassador of Theanovene that interacts with Eraia respects all of Eraia's many traditions and scriptures. Because of their respect for Lylalel, Theanovene is passed over by the church's judgements. It also helps that Theanovene is the only nation trading with Eraia. 
+
+* **Dreca**: Eraia is being attacked by Dreca. To Eraia, both in propoganda and reality, Dreca is a corrupted country controlled by Lyarlel. It's militaristic nature and cruel treatment of the laguz after the invasion on the main land are all actions in line with the teachings of Lyarlel. Given this, the war with Dreca is not just self defense, it's a holy crusade.
+
+### Settlements & Places of Interest
+
+* Y - Village
+* BB1 - Village
+* FF - City
+* LL1 - Town
+* LL2 - Village
+
+---
+
+## Nation 4: Theanovene 
+
+*The-ah-no-V-ine : Neutral location; neutral stance*
+
+### Ruling Class
+
+**Type of Rule**: Geniocracy
+
+Theanovene is ruled by a council of Guild leaders, expert traders, and other intellectual leaders. Theanovene has a charter that was put in place at the cities founding to be neutral and trade focused. The council meets to discuss both city management issues as well as new issues. Each new issue is dealt with in the spirit of the original charter and any jumps in logic from the charter are added to the Amendments. 
+
+### Culture & Social Classes
+
+Theanovene is a melting pot of a city and the trade capital of the world. The city is controlled by a wide variety of guilds that cover pretty much every trade one can imagine. Anyone who wants to make a living as tradesmen would be wise to start off in Theanovene.
+
+Theanovene is a massive city and everyone is on top of each other. Everyone knows their neighbors and the neighborhood children and they watch out for each other. Depending on the guild, parents work late hours to put their hours in for the guild and neighbors keep an eye on children. Theanovene is strict on children working and doesn't allow children to do anything but be children until age 16. 
+
+Theanovene has farms on it's outskirts, though they're often dedicated to exotic trade fruit, spices, or other such products. Theanovene has no fresh fishing market, and limited hunting spots. The farms of Theanovene do keep livestock for food production in addition to trade. These facts leave Theanovenians diet up to what is coming through the markets at the time. Living in Theanovene is the best way to try all of the foods of the world.
+
+Theanovene's entire culture is high paced and influenced by it's trade center role. People walk quickly, talk quickly, and do their business with purpose. Time wasted is money wasted. This is can be tough for foreigners to get used to at first. The markets in particularly are very high energy and it's easy to get swept into the crowd. 
+
+Theanovene is strict about respecting cultural differences. This comes into play a lot with Eraian guests. Anyone who doesn't abide by the cultural habits and rules of the guest is immediately dismissed and reprimanded later. In Theanovene, being host is an honor and very much a privilage. One is expected to go all out for the sake of their guest.
+
+Theanovene is neutral to every other kingdom in the world. They insist on being so, stating that all they wish for is continued trade with the civilized nations of the world and the continued peace of it's city. In the past the council has threatened removin a nation from it's trade routes if the nation continues to act up. Theanovene is aware this eventually not going to dissuade an opponent, but for the time being they run with that as their plan. Because they are neutral to every other country, Theanovenians often get to travel every country in the world as part of their routes. Signing on with  Theanovene trade group is a great way to see the world. It is also a great place to study other cultures; Theanovene keeps excellent records of other countries cultural rules. 
+
+Theanovene guilds are an authority on their subject area. Guilds make most of the jobs for Theanovene and manage most of the internal affairs of the city. While signing up with one is a process, once entered the guild will back you through all sorts of trouble. 
+
+### Military
+
+Theanovene has no military force. Members of the city sign up for a militia of sorts, one that handles internal affairs and criminal offenses but Theanovene refuses to act outside their own borders. Theanovene uses threats of trade embargo to prevent attack rather than a standing army. That said, individual residents of the city (particular Sages who have their studies in the city) are more than capable of fighting off large groups of invaders. Theanovene has many individual assests that help protect it in place of a formal military.
+
+### Trade & Economy
+
+Trade capital of the world, due to it's central location. Theanovene is right in the center of the only land route crossing the continent, which also serves as the hub for dozens of roads going in every direction. All roads, routes, and trails lead to Theanovene in the central continent. Theanovene trades in everything, but as far is it's own exports it exports magic and other forms of knowledge as well as exotic fruit and spices.
+
+### Foreign Relations
+
+* **Wynne**: Wynne is untapped potential to the council of Theanovene. That said, it's hard for Theanovene to trade with Wynne and Wynne isn't helping from their side.
+
+* **Callora & Eraia**: The northern and southern trading partners of Theanovene. Theanovene keeps to a professional relationship with the both of them, knowing one day they may resume hostilities with each other.
+
+* **Dreca**: Dreca's violent ways aren't making anyone happy in Theanovene, but a vocal few have made it clear that Theanovene is to be neutral to other countries in ever way. There's currently a push to make an amendment to the charter of Theanovene, backed by political pressure from Callora and Eraia, but it's never been done before. No one on the council wants to take the responsibility of changing the charter.
+
+### Settlements & Places of Interest
+
+* BB2 - City
+
+---
+
+## Nation 5: Dreca 
+
+*Dre-ka : Strength in Man*
+
+### Ruling Class
+
+**Type of Rule**: Militaristic Empire
+
+Dreca is driven solely by their need to expand. With limited resources on their island, the current leader came into power with a small military group and a coup de taut against the old, peaceful leader. Now those in power are decided by the country's dictator, and the nation moves at his whim. The nation is now run by it's military, as the whole nation in a fervor for expansion and territory gain. 
+
+### Culture & Social Classes
+
+Dreca is country at the tail end of a massive change. A decade ago a man by the name of **Dryn Wulfa** exectued a coup de'tat on the government of Dreca. The old governing body was peaceful and statisfied with the small Island that made up Dreca's territory. However the people were upset, resources were declining and space was becoming limited. Dryn stood up with charisma for the sake of the people, leading the coup de'tat to change the nation and improve it the only way they could; by taking space on the continent. The last decade in Dreca has been a blur of technological and military advancements, leading up to their recent invasion of the mainland a few years ago. 
+
+Dreca has become a controlled country. Dryn Wulfa has control of the media and information flow in the country. He has burned books, calling them relics of the old peaceful ways. Dryn uses propoganda to encourage his platform, which is expansion onto the mainland, taking the land rightfully owed to Dreca from the *Norash* (Dreca slander for northerners). His leadership skills are second to none, even after a decade the country continues to have a constant drive for the war. This is in part from Dryn's villianization of the mainland kingdoms, calling them the theives and squatters on the land that's Dreca's by right. 
+
+Children as young as 12 are being pulled into the expansion effort of Dreca. They spread flyers, run errands, and apprentice themselves to tradesmen, doing whatever they're able to do for the war effort. While children are not asked to do anything close to labor, in Dreca kids are working for the good of the country earlier than in other countries. 
+
+Dreca is heavily reliant on fish for their diet. What little space they had before invading the mainland was overhunted a long time ago. Fishing and farming is almost exclusively their diet. Dreca is home to many exotic fruit and plantlife, due to it's southern positioning. These exotics have made their way into the trading markets at Theanovene recently.
+
+A minor caste system is forming in Dreca under Dryn's rule. Military officers are high class citizens, followed by soldiers and then those that work to support the soldiers directly like medical officers and engineers. Respecting those closer to the war effort and Dryn himself has become an unspoken rule. Soldiers and officers are starting to become above the law, as they're the enforcers of it. Abuse of power is coming a real problem in the cities. 
+
+Foreigners are extremely rare in Dreca. Given no nation in the outer world is happy with the Drecian culture, if a foreigner is in Dreca it's as a prisoner. There are rumors of Dreca using prisoners as slave labor to the war effort, but no intelligence group can confirm that. When on the mainland front, Drecians are cruel and arrogant to other races, a side effect of the propoganda used by Dryn to promote the war effort. It doesn't help that Dreca had limited interaction with other races before Dryn's rule either. 
+
+Anyone's property can be taken for the war effort in the new Dreca. Dreca lacks much in the way of material traditions, due to Dryn's removal of the old traditions for his own. A few war traditions have been forming. Warriors who do exceptionally well in a battle are rewarded by their general with the general's armband (which serves to mark him from his allies on the battlefield). The armbands are tied around the hilt of the warrior's weapon. Another tradition is tearing up the flags of a conquered city. Pieces of the flag are divided between all the members of the war party, again fastened to armor or weapons as markers of their skill. 
+
+Dreca's occupied cities are not happy places. The cities are under martial law, with soldiers running the city. The people who did not flee the area are required to work for the good of Dreca, often harder that Drecians themselves. Those people also are not considered citizens of Dreca and are denied some rights, often at the convinenice of the Drecian occupiers. 
+
+Dreca is lacking in religion. They believe only in the power of the swords they swing. This has not endeared them to Eraia. 
+
+### Military
+
+Well equipped, well trained, but less in number than any other Nation, Dreca's army is powered by two major factors. It's fervored warmonger culture and it's wyvern riders. Dreca's wyvern riders are the primary calvary and main force of their army. Wyvern's are native to the island and are tamed by Dreca. Between dive bombing dragon claws and their mounted warriors, the wyvern riders are a nasty force of the fied. The only saving grace is they operate mostly independently on the battlefield, unable to perform complex formation without years of training like Wynne's pegasus knights have or a way to communicate in the air. 
+
+Dreca's infantrymen are skilled and savage. While not organized in a sense, Dreca's men move in a chaotic flow through the battlefield, slaying all that stands in their path. They lack large calvary presence due the limited space they had under their control at the start of the Dreca-Eraia war and have yet to build it up. Dreca has an impressive Navy, originally fishing ships converted to carry troops or cannons. That's not to say they don't have warships, Dreca has produced a large number of military seacraft in preparation for combat on the main land. These warships not only carry men, but can allow Wyvern's to land on them. 
+
+### Trade & Economy
+
+Dreca has one export, mined precious metals from the mountain range stretching across their island. Dreca imports almost anything, having limited resources available on their islands. All their trade routes are over the sea, being an island nation. 
+
+### Foreign Relations
+
+* **Wynne**: Dreca has some respect for Wynne and sees them as a potential ally. They believe like them, Wynne has limited resources and deserves a place on the mainland. If Dreca can get Wynne to understand that, they feel Wynne's warrior culture will compliment their own. 
+
+* **Callora & Eraia**: Callora and Eraia are the enemy to Dreca. They are the mainlanders who deny Dreca it's resources, lands, and rightful place at the top of the food chain. 
+
+* **Theanovene**: Dreca has two opinions about Theanovene. The first and less important opinion is that Theanovene is also crippled in it's expansion efforts. While Theanovene has no interest in expanding beyond it's city-state, Dreca feels they must want to expand the same way they do. The second, and primary, opinion is that Theanovene is a dedicated trade city that can provide Dreca with the resources it so desperately needs. Dreca doesn't want to anger Theanovene while Theanovene will trade with them, mostly to not lose access to the resources Theanovene can provide. 
+
+### Settlements & Places of Interest
+
+* JJ1 - Village
+* JJ2 - Village
+* NN - Town
+* TT - City
+* VV -  Village
+
+---
+---
+
+# Historical Events
+
+*A number in bold prefacing the event is the number of years ago. Otherwise the list is chronological, oldest first.*
+
+### Historical (Significantly in the past.)
+
+* The last dragon disappears from the world.
+* The wolf laguz princess and a Wynnite chieftain's son form a bond when they're snowed in together. This bond begins to bring the two races together.
+* Eraia begins expanding.
+* Callora forms to prevent Eraia's expansion into their territory. Eraia's encroachment into the Laguz territory is delayed by the new front against Callora. Wynne allies with Callora, their trading partner.
+* Eraia pulls back on both fronts. An uneasy peace is formed.
+* Theanovene is formed. 
+
+### Recent
+
+* **10**: Dryn comes to power in Dreca.
+* **3**:  Laguz are attacked by Dreca.
+  > In the last decade, Draca has taken to war with the Empire of Eraia. The first step Draca took was to get a foothold on the continent and to so they attacked the southern pennisula, territory of the cat and tiger Laguz. Despite calls for aid, the surrounding countries did not send substanial aid, for a variety of reasons. One of those reason was underestimation of Draca's military might. Their wyvern knights were an unexpected threat that chewed holes in the Laguz milita. As Draca's ships landed on the shore of the southern pennisula, the Laguz were forced to either flee to other countries or be annexed into Draca's new settlements. 
+
+  > Draca doesn't treat them terribly well. Theanovene is sympathetic to the loss but holds to it's neutral status. Eraia, now at war with Draca, welcomes the Laguz and encourages them to join in the war. Laguz are well accepted in Eraia at the moment, as fellows in conflict. Callora accepts the Laguz refugees and is sympathetic to their issues as well. However, the aristocracy isn't united on the Laguz's plight as a reason to start a war. The treatment of the Laguz refugees has proven to be no different than the already residing Laguz. 
+* **2**: Eraia and Dreca go to war. 
+
+---
+---
+
+# Terms in the Realm
+
+* **Wynnite, Callorian, Eraian, Theanovian, Drecian**: The people of the respective country.
+
+* **Norash** *No-rash*: A Drecian insult for other races. 
+
+* **Laguz**: Shapeshifting humanoids who can assume a beast form.
+
+* **Manakete**: an ancient race of transformed dragons. Extremely rare and more like legends in modern times.
