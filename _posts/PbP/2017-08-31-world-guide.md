@@ -66,7 +66,7 @@ This guide represents any setting information that is general knoweledge in the 
 
 ![Map!](https://i.imgur.com/9d3VUHu.jpg)
 
-# The World of Aurii
+# The World of Aurii 
 
 *Our-rii* 
 
@@ -86,7 +86,9 @@ This guide represents any setting information that is general knoweledge in the 
 
 ### Manakete
 
-Manakete are a race that originated from Dragons that stored the majority of their power into an object known as a Dragonstone, taking a humanoid form for the rest of their long lives. Nowadays, *Pure Blood Manakete* are rare in the modern era, what Manakete are to be found are *Mixed Blood Manakete*, children with at least one parent with Manakete blood. Manakete live thousands of years, a trait inherited from their dragon origin. 
+Manakete are a race that originated from Dragons that stored the majority of their power into an object known as a Dragonstone, taking a humanoid form for the rest of their long lives. Nowadays, *Pure Blood Manakete* are rare in the modern era, what Manakete are to be found are *Mixed Blood Manakete*, children with at least one parent with Manakete blood. It has been centuries since a true dragon has walked Aurii, which has left almost all living Manakete as mixed blood. 
+
+Manakete live thousands of years, a trait inherited from their draconic origin. Despite having such a long life span, Manakete have trouble procreating in that time. The transformation from base dragon form to base humanoid is jarring for the body and leaves Manakete with near inferitility. It can take decades for an Manakete to conceive. 
 
 Their physical appearance is also slow to age, even at 1000 years a Manakete can look like a teenager or younger. A Mankete's humanoid form is weak even by human standards. Manakete use a stone, unique to them, to transform into their original, dragon form. In their draconic form Manakete's can fly, have thick scale armor, breath fire or another element, and fight with tooth and claw. 
 
