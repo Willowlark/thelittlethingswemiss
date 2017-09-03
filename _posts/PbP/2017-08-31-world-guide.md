@@ -100,6 +100,8 @@ Manakete's look physical similiar to humans. The only tell tale trait of a Manak
 
 Laguz are a race of humanoids that hae the ability to transform into a beast form. Physically they will show a few of their beast form's traits in their human form, often ears and tail. They may also show other beast traits such as enhanced smell or sight in their human form. Unlike Manakete, Laguz transform freely and there is no side effect to their transformation. (Though it's common for a Laguz to pick up habits related to their beast form even as a human.) When transformed, a Laguz has all the features and abilities of the animal they transform into. Like the beasts they transform into, Laguz's coats can vary wildly. Laguz hair and eye colors also vary like the beasts they transform into, but usually matches the coat color they have transformed. There are three variants (or *Tribes*) of Laguz in the realm, each with a cooresponding beast form, detailed below. 
 
+Laguz and humans can have children together. Children of a mixed couple are always laguz, and physically are the same as any other laguz. Any half breed label would have to come knowing who their parents are.
+
 Throughout history, Laguz have been treated as second class citizens. Historians have varying opinions on why, be it out of fear of the Laguz's ability, jealous or something else. No modern Kingdom allows slavery, yet in the past every Kingdom considered Laguz slaves a normal thing. Laguz originally occupied the entire south eastern section of the continent, yet the land that they owned was reduced over time to just the southern most pennisula. Laguz are now treated far better than in the past. That said, some people still think of Laguz as more beast than man. 
 
 #### Cat 
@@ -309,6 +311,8 @@ Swearing an oath to God is a serious claim in Eraia. Those who do not complete t
 When a clothed member of the clergy passes a citizen of Eraia, the citzen is expected to bow their head and step aside. Foreigners are at the least expected to step aside as well, which has caused trouble before. Most citizens will pull a foreigner aside as to not spark a conflict. 
 
 It is heretical to speak of another God in Eraia. No crime, murder included, is ranked worse than slandering or promoting another God. If you aren't attacked on the spot, you'll be arrested and tried in the church. 
+
+<!-- Lyarlel is an evil dragon. -->
 
 ### Military
 
