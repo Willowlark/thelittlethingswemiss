@@ -80,6 +80,22 @@ In addition, you don't want your aspects to overlap. Have them define different 
 
 **If you need help with aspects, I recommend crowd sourcing it to the channel.** It's hard to come up with them sometimes, in my opinion. 
 
+### Special Aspects
+
+The following are two special styles of traits in Wushu. If you so desire, we can discuss using them with your character. 
+
+> **Milestone Traits** - To really get Campbellian on their asses, you should plan out a series of three milestones for any new Trait. Each time the player meets one of these challenges, or makes a milestone choice, the Trait increases by one. For example, a hero trying to master an ancient and cursed weapon might have the following milestones ahead:
+
+> 1. Use the weapon to defeat an enemy in combat.
+> 2. Use the weapon to defend an enemy from harm.
+> 3. Use the weapon to prevent a fight you want to win.
+
+> At first, using this weapon would mean rolling against the default target number of 2. After their first combat victory, the relevant Trait increases to 3. After successfully defending a hated enemy, the Trait increases to 4. Finally, after learning the true value of human life (awww), the Trait increases to 5. Only those who do not seek power are fit to wield it.
+
+> **Two-Sided Traits** - If you want to drive home a character’s dramatic arc, consider giving them a pair of opposed Traits like Occult Power and Sanity, Honor and Freedom, or Loved and Feared. These two Traits always have 6 points between them; increasing one means decreasing the other. You could have Occult Power 4 and Sanity 2 (4+2=6), but never Occult Power 4 and Sanity 3 (4+3=7). Pushing either Trait to level 5 means turning the other into a Weakness.
+
+> Unlike normal Traits, these are meant to be adjusted during play. Any time the player makes a choice that pushes in one direction, increase/decrease the Trait ratings accordingly. Do this before the dice are rolled, so the player is always faced with the temptation of quick power. Never let them adjust it back in the other direction right away, though. Choices mean little without consequence.
+
 ## Points assignments
 
 You can choose any one of these you'd like to define your character. Your best bet is to list the aspects you want to define for your character *before* you assign them numbers. 
