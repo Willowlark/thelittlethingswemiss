@@ -1,8 +1,6 @@
 ---
-title: Personal Shoots
+title: Solo Shoots
 ---
-
-# Solo Shoots
 
 Photoshoots in which I was the lead/only/etc photographer. I get to take my time during these shoots so they showcase well. 
 

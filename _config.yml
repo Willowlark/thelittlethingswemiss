@@ -20,6 +20,10 @@ defaults:
       type: posts
     values:
       layout: gallery
+  - scope:
+      path: "directory"
+    values:
+      layout: post
 flickr:
   cache_dir: "./_cache/flickr"
   api_key: 6b3911916a3253512d800718fb1d088b

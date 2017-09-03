@@ -304,15 +304,13 @@ Lylalel is portrayed as a woman in white, beautiful with golden hair and eyes as
 
 The religion of Lylalel has written scripture which has been the scripture as long as anyone can remember. Only the clergy may see the scripture, to read it for masses. Other items of note in the church are the Light of Lyalalel, a snow white candle that is kept lit in every believers home and place of worship. As long as the light burns, Lyarlel's evil will never touch the residents of the place. The church, in honor of deeds done in the nanme Lylalel, will bestow stain glass shards upon a family. These crests are placed in special mounts that shine the image on the nearby wall. These shards of Lylalel are a great honor to the family. 
 
-<!-- Some church tradition is only in the church, not the scripture. -->
+<!-- Some church tradition is only in the church, not the scripture. Lyarlel is an evil dragon. -->
 
 Swearing an oath to God is a serious claim in Eraia. Those who do not complete that claim in Eraia are brought before the church decides on the weight of their transgression and what must be done to rectify it. It is possible that the claim is against another tenant of God. The person in question is then stuck between a rock and a hard place, no matter what they do the church will come for them. 
 
 When a clothed member of the clergy passes a citizen of Eraia, the citzen is expected to bow their head and step aside. Foreigners are at the least expected to step aside as well, which has caused trouble before. Most citizens will pull a foreigner aside as to not spark a conflict. 
 
 It is heretical to speak of another God in Eraia. No crime, murder included, is ranked worse than slandering or promoting another God. If you aren't attacked on the spot, you'll be arrested and tried in the church. 
-
-<!-- Lyarlel is an evil dragon. -->
 
 ### Military
 

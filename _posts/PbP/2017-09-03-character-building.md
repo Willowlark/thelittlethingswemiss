@@ -4,6 +4,22 @@ categories: PbP
 excerpt: How to make a character.
 ---
 
+<!-- TOC -->
+
+- [Rules](#rules)
+    - [Narrative Truth](#narrative-truth)
+    - [Conflict Resolution (How you do things)](#conflict-resolution-how-you-do-things)
+    - [Damage](#damage)
+    - [Side Goals](#side-goals)
+    - [Conclusion](#conclusion)
+- [Character Generation](#character-generation)
+    - [Aspects](#aspects)
+        - [Special Aspects](#special-aspects)
+    - [Points assignments](#points-assignments)
+    - [Building a character:](#building-a-character)
+
+<!-- /TOC -->
+
 # Rules
 
 ## Narrative Truth

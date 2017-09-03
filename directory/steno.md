@@ -1,5 +1,5 @@
 ---
-title: Shoot Scratchpads
+title: Photoshoot Steno Directory
 permalink: /steno/
 ---
 

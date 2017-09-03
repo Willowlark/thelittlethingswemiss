@@ -1,10 +1,8 @@
 ---
-title: PbP 
+title: Best of Posts
 ---
 
-# Articles for Play by Post community
-
-{% for post in site.categories.PbP %}
+{% for post in site.tags.pinned %}
 * [{{ post.title }}]({{site.baseurl}}{{ post.url }}) *{{ post.date | date_to_string }}*
 > {{ post.excerpt }}
 {% endfor %}
