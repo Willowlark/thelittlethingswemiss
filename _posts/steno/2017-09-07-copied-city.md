@@ -4,6 +4,7 @@ categories: steno
 ---
 
 [2B]({% link _posts/steno/2017-09-07-2b.md %})
+
 [Adam]({% link _posts/steno/2017-09-07-adam-nier.md %})
 
 ## Locations
