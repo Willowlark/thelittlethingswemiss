@@ -31,6 +31,8 @@ categories: steno
 
 * embarressed, arms cross chest, or meeting in front. 
 
+* knees against chest.
+
 ## References
 
 * ![](https://i.imgur.com/1um710t.jpg)
