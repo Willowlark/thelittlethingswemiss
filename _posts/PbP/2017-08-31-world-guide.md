@@ -64,7 +64,7 @@ This guide represents any setting information that is general knoweledge in the 
 
 <!-- /TOC -->
 
-![Map!](https://i.imgur.com/9d3VUHu.jpg)
+![Map!](https://i.imgur.com/ZrC1tE0.jpg)
 
 # The World of Aurii 
 

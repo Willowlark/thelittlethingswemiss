@@ -14,8 +14,10 @@ excerpt: How to make a character.
     - [Conclusion](#conclusion)
 - [Character Generation](#character-generation)
     - [Aspects](#aspects)
+        - [Assorted thoughts on aspects from me:](#assorted-thoughts-on-aspects-from-me)
         - [Special Aspects](#special-aspects)
     - [Points assignments](#points-assignments)
+        - [The Default Trait:](#the-default-trait)
     - [Building a character:](#building-a-character)
 
 <!-- /TOC -->
@@ -94,7 +96,15 @@ In addition, you don't want your aspects to overlap. Have them define different 
 > * **Problems, goals, or issues the character is dealing with** A Price on My Head, The King Must Die, Fear of Heights. 
 > * **Titles, reputations, or obligations the character may have** Self- Important Merchant Guildmaster, Silver-Tongued Scoundrel, Honor-Bound to Avenge My Brother.
 
-**If you need help with aspects, I recommend crowd sourcing it to the channel.** It's hard to come up with them sometimes, in my opinion. 
+### Assorted thoughts on aspects from me:
+
+* Phrase them as something your character might say. "I am X so Y". It helps you get in their mindset about the aspect.
+
+* Write out 6 aspects and then sort them by how core they are to your character. Try to express different aspects of the character's personality via them.
+
+* An aspect can be referenced in many situations, it's something that sort of represents a way the character interacts with situations.
+
+* **If you need help with aspects, I recommend crowd sourcing it to the channel.** It's hard to come up with them sometimes, in my opinion. 
 
 ### Special Aspects
 
@@ -153,6 +163,13 @@ You can choose any one of these you'd like to define your character. Your best b
 3 - Trait 6
 1 - Weakness
 ```
+
+### The Default Trait:
+
+If you do not have a relevant trait to an action, you use what's called the *everything else* trait. Quite simply, everyone gets a a free trait called *everything else* with a number of 2. If you don't have trait related to what you're doing, use 2. 
+
+Example: You want to sing in a musical. You have the "theatre is my life" aspect at 5. Because the musical relates to your "theatre is my life" aspect, you get to use 5 as your difficulty. (It's a roll under system, higher is better.)
+What if you don't have that aspect? All three of your aspects relate to video games? Then you're difficulty number is 2.
 
 ## Building a character:
 
