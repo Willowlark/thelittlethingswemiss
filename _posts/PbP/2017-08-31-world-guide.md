@@ -70,7 +70,7 @@ This guide represents any setting information that is general knoweledge in the 
 
 <!-- /TOC -->
 
-![Map!](https://i.imgur.com/ZrC1tE0.jpg)
+![Map!](https://i.imgur.com/Qk3t4Rq.png)
 
 # The World of Aurii 
 
