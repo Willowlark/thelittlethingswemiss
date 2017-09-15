@@ -157,7 +157,7 @@ Dreca      | N     | N       | H     | A          | --
 Key: *A: Allied; N: Neutral; T: Tension; H: Hostile* 
 
 * **Wynne** & **Callora** have idealogical differences with **Dreca**, so despite both fighting **Eraia** they're not allies.
-* **Wynne** & **Callora** are in a cold war with **Eraia**, Eraia turned away years ago during it's first crusade and the tension never breaking.
+* **Wynne** & **Callora** are in a cold war with **Eraia**, Eraia was turned away years ago during it's first crusade and the tension never breaking.
 * **Theanovene**'s decision to stay neutral against the universally disliked **Eraia** is divisive.
 * **Eraia** conquered the southwestern island, it used to be it's own nation. 
 * The southern pennisula on the continent is in contention between **Eraia** and **Dreca**.  
@@ -223,8 +223,8 @@ Wynne's primary exports are furs, plants that only grow in the cold weather and 
 
 ### Settlements & Places of Interest
 
-* C - Wolf Laguz Settlement
-* H - Village
+* **C - Roren**: The ancestral home of the Wolf Laguz. There only a few months in year there isn't at least a few inches of snow on the ground. The buildings and walls are all stoneworked, most decades old. The city is wholly populated by wolf laguz. There's a single road that leads through the woods into the town. 
+* H - Village 
 * I - City - Capital
 * Q - Village
 
