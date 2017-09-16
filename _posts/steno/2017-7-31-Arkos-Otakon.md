@@ -96,6 +96,12 @@ categories: reserve
 
 ### References
 
+* ![](https://i.imgur.com/07G2y7K.png)
+
+* ![](https://i.imgur.com/iL6rjNd.png)
+
+* ![](https://i.imgur.com/5s8hpLB.png)
+
 * ![](http://i.imgur.com/PqzYaa4.png)
 
 * ![](http://i.imgur.com/4m76zfm.png)

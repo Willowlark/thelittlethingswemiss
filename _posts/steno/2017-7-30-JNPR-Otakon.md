@@ -117,4 +117,6 @@ Georgia, Ryan, Gen & Rob of Wezrez, ?, Azure Valkyire & skilletwolf.
 
 * ![](http://i.imgur.com/dkG7Sld.png)
 
+* If we can get ship and ship rather than ryanmelt cosplay for JNPR -![](https://i.imgur.com/5s8hpLB.png)
+
 ---
