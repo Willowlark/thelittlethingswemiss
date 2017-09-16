@@ -238,6 +238,10 @@ Wynne's primary exports are furs, plants that only grow in the cold weather and 
 
 *Game Note: Callora is by nature, a little vague. If you decide you want to be the heir to a particular kingdom with X trait and Y city, through it into Callora. If I need a quick kingdom to cause trouble, I can throw it into Callora. Anyone who wants to work within Callora's slice of the world can do so, talk to me about it when you'd like to.*
 
+### **[Kingdoms of Callora]({% link _posts/PbP/2017-9-16-kingdoms-of-callora.md  %})**
+
+The details of the individual kingdoms that make up Callora can be found on the above page. The following information describes the alliance as a whole. 
+
 ### Ruling Class
 
 **Type of Rule**: Traditional Aristocracy
