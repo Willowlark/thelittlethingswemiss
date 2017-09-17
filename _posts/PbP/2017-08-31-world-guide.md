@@ -64,8 +64,8 @@ This guide represents any setting information that is general knoweledge in the 
         - [Trade & Economy](#trade--economy-5)
         - [Foreign Relations](#foreign-relations-5)
 - [Historical Events](#historical-events)
-        - [Historical (Significantly in the past.)](#historical-significantly-in-the-past)
-        - [Recent](#recent)
+    - [Historical (Significantly in the past.)](#historical-significantly-in-the-past)
+    - [Recent](#recent)
 - [Terms in the Realm](#terms-in-the-realm)
 
 <!-- /TOC -->
