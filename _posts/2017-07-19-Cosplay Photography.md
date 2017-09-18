@@ -5,8 +5,21 @@ tags:
 excerpt: All the compiled notes and tips I've found for doing cosplay photography.
 ---
 
+<!-- TOC -->
+
+- [Marisa's Photoshoot Guide!](#marisas-photoshoot-guide)
+- [Posing Tips](#posing-tips)
+    - [Group photoshoots](#group-photoshoots)
+- [Things to watch for](#things-to-watch-for)
+- [WSJ Shoot Manner](#wsj-shoot-manner)
+- [WSJ Posing](#wsj-posing)
+- [Pose Samples](#pose-samples)
+
+<!-- /TOC -->
+
 ## Marisa's Photoshoot Guide!
 
+> Cosplayers really want to look cool in photos, first and formost. Unlike photogs, the technical aspects don't matter as much as a swooshing cape and cool eyes. 
 
 > Plan as much as you can in advance to make things go smoother.
 > * What are they cosplaying? Research the character ahead of time and think of various poses or locations that would work for the character.
@@ -55,6 +68,12 @@ excerpt: All the compiled notes and tips I've found for doing cosplay photograph
 
 * Eye shadows. Worst thing to correct for.
 
+* Keep an eye on exposure adjustments. You don't want to be stopped down a stop and a half in a dark room.
+
+* LCD Screens lie. They lie so much.
+
+* Turn off continuous shutter. Maybe it's me, maybe it's my camera, but I find I get blurry shots when I use continuous for shooting mostly static scenes. 
+
 ## WSJ Shoot Manner
 
 * **Confidence**: Confidence is infective, makes the cosplayer happier, makes you shoot better. Get some. Prior work can cheap build confidence. Research is another.
@@ -93,7 +112,7 @@ excerpt: All the compiled notes and tips I've found for doing cosplay photograph
 
 *Other nice article by him: [How to Photoshoot](https://wjscosplayphotography.tumblr.com/post/126306099185/doing-a-photoshoot)*
 
-### Pose Samples
+## Pose Samples
 
 ![](https://i0.wp.com/digital-photography-school.com/wp-content/uploads/2012/09/1265290_10151718816568049_1522393560_o.jpg?resize=600%2C600&ssl=1)
 ![](https://i2.wp.com/digital-photography-school.com/wp-content/uploads/2012/04/posing-guide-men.jpg?resize=600%2C600&ssl=1)
