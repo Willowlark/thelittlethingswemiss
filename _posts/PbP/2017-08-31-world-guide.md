@@ -63,6 +63,7 @@ This guide represents any setting information that is general knoweledge in the 
         - [Military](#military-5)
         - [Trade & Economy](#trade--economy-5)
         - [Foreign Relations](#foreign-relations-5)
+    - [Extra: Eblia](#extra-eblia)
 - [Historical Events](#historical-events)
     - [Historical (Significantly in the past.)](#historical-significantly-in-the-past)
     - [Recent](#recent)
@@ -236,11 +237,9 @@ Wynne's primary exports are furs, plants that only grow in the cold weather and 
 
 *Cal-lor-ah : Legacy and Loyality* 
 
+**[Kingdoms of Callora]({% link _posts/PbP/2017-9-16-kingdoms-of-callora.md  %})** The details of the individual kingdoms that make up Callora can be found here. The below information describes the alliance as a whole. 
+
 *Game Note: Callora is by nature, a little vague. If you decide you want to be the heir to a particular kingdom with X trait and Y city, through it into Callora. If I need a quick kingdom to cause trouble, I can throw it into Callora. Anyone who wants to work within Callora's slice of the world can do so, talk to me about it when you'd like to.*
-
-### **[Kingdoms of Callora]({% link _posts/PbP/2017-9-16-kingdoms-of-callora.md  %})**
-
-The details of the individual kingdoms that make up Callora can be found on the above page. The following information describes the alliance as a whole. 
 
 ### Ruling Class
 
@@ -486,6 +485,8 @@ Kissaelain kept to itself in the grand scheme of things. Like with military, the
 
 The territory was not united enough to have a political stance with other countries.
 
+---
+
 ## Extra: Eblia
 
 *Ebb-lee-a: The buried remnant.*
@@ -505,7 +506,7 @@ The remaining Eblians were welcomed to other nations, many moving to Theanovene 
 
 *A number in bold prefacing the event is the number of years ago. Otherwise the list is chronological, oldest first.*
 
-### Historical (Significantly in the past.)
+## Historical (Significantly in the past.)
 
 * The last dragon disappears from the world.
 * The wolf laguz princess and a Wynnite chieftain's son form a bond when they're snowed in together. This bond begins to bring the two races together.
@@ -515,7 +516,7 @@ The remaining Eblians were welcomed to other nations, many moving to Theanovene 
 * Theanovene is formed. 
 * **89**: A natural disaster destroys the kingdom of Eblia. 
 
-### Recent
+## Recent
 
 * **10**: Dryn comes to power in Dreca.
 * **3**:  Laguz are attacked by Dreca.
