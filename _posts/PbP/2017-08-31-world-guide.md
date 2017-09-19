@@ -486,7 +486,7 @@ Kissaelain kept to itself in the grand scheme of things. Like with military, the
 
 The territory was not united enough to have a political stance with other countries.
 
-<!-- ## Extra: Eblia
+## Extra: Eblia
 
 *Ebb-lee-a: The buried remnant.*
 
@@ -496,7 +496,7 @@ Just as their efforts in the fishing villages came to fruitation, disaster struc
 
 Those who remained of Eblia had nothing. The fishing villages were barely up and running a few years, not stocked to rebuild a kingdom. The rivers that flowed from the mountain lakes dried up, dammed by the fallen mountain. The only surviving piece of the nation was abandoned, no longer fit for living. This was almost a century ago. 
 
-The remaining Eblians were welcomed to other nations, many moving to Theanovene and trying to live on. What little of their culture remains is preserved quietly in the home, though a grand statue to their nation resides in a Theanovene park. Their land has been left unsettled; not out of respect for the dead but due to it's seperation from current world powers and less than ideal resources. The mountains containing the ruins of the Eblia lie quietly, dangerous to anyone who tries to explore them. People do attempt to delve into the ruins every summer, trying to find the one piece of Elbian history that could make them rich. -->
+The remaining Eblians were welcomed to other nations, many moving to Theanovene and trying to live on. What little of their culture remains is preserved quietly in the home, though a grand statue to their nation resides in a Theanovene park. Their land has been left unsettled; not out of respect for the dead but due to it's seperation from current world powers and less than ideal resources. The mountains containing the ruins of the Eblia lie quietly, dangerous to anyone who tries to explore them. People do attempt to delve into the ruins every summer, trying to find the one piece of Elbian history that could make them rich.
 
 ---
 ---
@@ -513,6 +513,7 @@ The remaining Eblians were welcomed to other nations, many moving to Theanovene 
 * Callora forms to prevent Eraia's expansion into their territory. Eraia's encroachment into the Laguz territory is delayed by the new front against Callora. Wynne allies with Callora, their trading partner.
 * Eraia pulls back on both fronts. An uneasy peace is formed.
 * Theanovene is formed. 
+* **89**: A natural disaster destroys the kingdom of Eblia. 
 
 ### Recent
 
