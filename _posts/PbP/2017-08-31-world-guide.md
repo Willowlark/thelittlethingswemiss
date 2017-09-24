@@ -227,9 +227,9 @@ Wynne's primary exports are furs, plants that only grow in the cold weather and 
 ### Settlements & Places of Interest
 
 * **C - Roren**: The ancestral home of the Wolf Laguz. There only a few months in year there isn't at least a few inches of snow on the ground. The buildings and walls are all stoneworked, most decades old. The city is wholly populated by wolf laguz. There's a single road that leads through the woods into the town. 
-* H - Village 
-* I - City - Capital
-* Q - Village
+* **H - Coudell**: is the where the chieftain of Wynne currently resides. Characterized by wide streets and stone buildings. The cobblestone in the streets is pockmarked with missing stones that defeat the purpose of having them in the first place. Buildings get their heat and light from large fireplaces, occasionally multiple in a single home. Open air buildings are mostly unheard of.
+* **I - Cedan**: is the port city in Wynne. With the lake to the north and the ocean to the south, there are multiple rivers connecting the two. Cedan has three of them that snake through the city and there's over a dozen bridges in the town. The largest building in Wynne is located in Cedan, a massive trade hall with a center bonfire and water access.
+* **_ - Aulcion**: is located on the eastern border of the central mountains. Aulcion is a small village, nestled on a cliff. It's cold and very hard living, yet the allure of breeding and training with the pegasi native to the mountains. The poplace are hardened pegasi breeders, their riders, and a militaristic staff keeping the village running.
 
 ---
 
@@ -278,7 +278,8 @@ Callora exports horses, mined materials, fruit and vegetables from it's farms, a
 ### Settlements & Places of Interest
 
 * N1 - Village
-* N2 - City
+* **N2 - Etrina**: is the capital of the Kingdom the alliance gets it's name from. 
+* Q - Village
 * R - Town
 
 ---
@@ -349,7 +350,7 @@ Eraia exports worked metal, glass, and other practical items as well as minerals
 
 * Y - Village
 * BB1 - Village
-* FF - City
+* **FF - Lyall**: The grand capital of Eraia. Black and purple decorations adorn stain glass coated walls. Churches stand out as darker stone than the rest of the buildings. The grand cathedral is one of the largest buildngs in the world, with half a dozen wings covering every aspect of Eraian's religion and government. 
 * LL1 - Town
 * LL2 - Village
 
