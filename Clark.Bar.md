@@ -1,6 +1,6 @@
 ---
 title: Clark Bar
-layout: private
+layout: Clarkbar
 ---
 
 ![]({{site.baseurl}}/files/bg.jpg)
