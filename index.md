@@ -2,10 +2,7 @@
 title: The Little Things We Miss
 ---
 
-<div style="background-image:url({{site.baseurl}}/assets/images/Seal.png); background-repeat:no-repeat; background-size:100%; padding:15px;" markdown="1">
-
 # Welcome
-
 
 You've reached the landing page of The Little Things We Miss. Featured on this site is the work by Bill Clark (that's me!), a hobbyist photographer who dabbles in a little bit of everything. Links to my social media accounts are located in the top left, feel free to follow for notification of updates. 
 
@@ -18,6 +15,4 @@ You've reached the landing page of The Little Things We Miss. Featured on this s
 
 <div style="text-align:center" markdown="1">
 ![]({{site.baseurl}}/assets/images/me.jpeg)
-</div>
-
 </div>
