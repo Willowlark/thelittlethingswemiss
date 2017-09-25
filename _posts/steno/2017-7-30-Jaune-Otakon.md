@@ -1,6 +1,6 @@
 ---
 title: 
-categories: reserve
+categories: unlisted
 ---
 
 The shield makes for the best Jaune poses. he's a shield bash kind of guy.

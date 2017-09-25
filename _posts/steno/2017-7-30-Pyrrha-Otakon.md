@@ -1,6 +1,6 @@
 ---
 title: 
-categories: reserve
+categories: unlisted
 ---
 
 [AnimeNext]({% link _posts/steno/2017-07-19-Pyrrha-Georgia.md %})

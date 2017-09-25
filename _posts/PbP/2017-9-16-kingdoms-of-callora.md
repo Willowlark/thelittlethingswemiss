@@ -1,6 +1,6 @@
 ---
 title: Kingdoms of Callora
-categories: reserve
+categories: unlisted
 ---
 
 The following nations can be found inside the Callora Alliance. 
