@@ -71,7 +71,8 @@ This guide represents any setting information that is general knoweledge in the 
 
 <!-- /TOC -->
 
-![Map!](https://i.imgur.com/Qk3t4Rq.png)
+![Map!](https://i.imgur.com/nDfB0x6.png)
+
 
 # The World of Aurii 
 
@@ -226,10 +227,10 @@ Wynne's primary exports are furs, plants that only grow in the cold weather and 
 
 ### Settlements & Places of Interest
 
-* **C - Roren**: The ancestral home of the Wolf Laguz. There only a few months in year there isn't at least a few inches of snow on the ground. The buildings and walls are all stoneworked, most decades old. The city is wholly populated by wolf laguz. There's a single road that leads through the woods into the town. 
-* **H - Coudell**: is the where the chieftain of Wynne currently resides. Characterized by wide streets and stone buildings. The cobblestone in the streets is pockmarked with missing stones that defeat the purpose of having them in the first place. Buildings get their heat and light from large fireplaces, occasionally multiple in a single home. Open air buildings are mostly unheard of.
-* **I - Cedan**: is the port city in Wynne. With the lake to the north and the ocean to the south, there are multiple rivers connecting the two. Cedan has three of them that snake through the city and there's over a dozen bridges in the town. The largest building in Wynne is located in Cedan, a massive trade hall with a center bonfire and water access.
-* **_ - Aulcion**: is located on the eastern border of the central mountains. Aulcion is a small village, nestled on a cliff. It's cold and very hard living, yet the allure of breeding and training with the pegasi native to the mountains. The poplace are hardened pegasi breeders, their riders, and a militaristic staff keeping the village running.
+* **A - Roren**: The ancestral home of the Wolf Laguz. There only a few months in year there isn't at least a few inches of snow on the ground. The buildings and walls are all stoneworked, most decades old. The city is wholly populated by wolf laguz. There's a single road that leads through the woods into the town. 
+* **B - Coudell**: is the where the chieftain of Wynne currently resides. Characterized by wide streets and stone buildings. The cobblestone in the streets is pockmarked with missing stones that defeat the purpose of having them in the first place. Buildings get their heat and light from large fireplaces, occasionally multiple in a single home. Open air buildings are mostly unheard of.
+* **C - Cedan**: is the port city in Wynne. With the lake to the north and the ocean to the south, there are multiple rivers connecting the two. Cedan has three of them that snake through the city and there's over a dozen bridges in the town. The largest building in Wynne is located in Cedan, a massive trade hall with a center bonfire and water access.
+* **D - Aulcion**: is located on the eastern border of the central mountains. Aulcion is a small village, nestled on a cliff. It's cold and very hard living, yet the allure of breeding and training with the pegasi native to the mountains. The poplace are hardened pegasi breeders, their riders, and a militaristic staff keeping the village running.
 
 ---
 
@@ -252,6 +253,8 @@ Each kingdom in Callora is allowed to act on it's own accord, and bring a propos
 ### Culture & Social Classes
 
 The kingdoms vary slightly on laguz acceptance, but in general they have a neutral stance on laguz. While there's no outright segregation in the kingdoms, some kingdoms are less tolerant than others. Still, a crime is a crime so the worst Laguz usually have to put up with is insults or pranks. That said, there's currently a wave of sympathy going through the nation as laguz refugees from the southern pennisula work their way up to Callora. More people are accepting of laguz at the moment because of it, even those who have been residing in Callora all their lives. 
+
+Something common to all Callorian kingdoms is their symbol of alliance. Different in every kingdom these seals, objects, or crests are given to those who are vouched for by the royal family of a Callorian kingdom. Having one is enough to travel freely in Callora, and having multiple is a sign of someone whose done great service for the Alliance. Wynne's chieftain has one of each symbol; a symbolic sign of the bond between the Alliance and Wynne. It's common that royals that become close within the Alliance share their symbol of alliance, and anyone who married into a Callorian royal family will have that family's as well.
 
 ### Military
 
@@ -277,11 +280,11 @@ Callora exports horses, mined materials, fruit and vegetables from it's farms, a
 
 ### Settlements & Places of Interest
 
-* N1 - Village
-* **N2 - Etrina**: is the capital of the Kingdom the alliance gets it's name from. 
-* Q - Village
-* R - Town
-
+* **E - Inans**: The capital of the kingdom Shixa.
+* **F - Etrina**: is the capital of the Kingdom the alliance gets it's name from, Callora.
+* **G - Airte**: The capital of the kingdom Becin.
+* **H - Rosin**: The capital of the kingdom of Nonina.
+* **U - Laera**: The capital of the kingdomo of Laera.
 ---
 
 ## Nation 3: Eraia
@@ -348,11 +351,12 @@ Eraia exports worked metal, glass, and other practical items as well as minerals
 
 ### Settlements & Places of Interest
 
-* Y - Village
-* BB1 - Village
-* **FF - Lyall**: The grand capital of Eraia. Black and purple decorations adorn stain glass coated walls. Churches stand out as darker stone than the rest of the buildings. The grand cathedral is one of the largest buildngs in the world, with half a dozen wings covering every aspect of Eraian's religion and government. 
-* LL1 - Town
-* LL2 - Village
+* **I - Estad**: A small Eraian town. There's a fair bit of military presence in Town, Estad was a staging point back during the war with Callora. While no where near as much as there used to be, Estad gets by as the border town between the two countries, keeping the military installments functional just in case.
+* **J - Trisp**: is a town separated out from the rest of Eraia as a form of monestary. The village consists mainly of a large church complex where light magic, Lylalel, and all things in her light are studied. The rest of the village are farmers are other tradesmen who keep the complex running smoothly. It's a quiet place that rarely gets visitors. 
+* **K - Lyall**: The grand capital of Eraia. Black and purple decorations adorn stain glass coated walls. Churches stand out as darker stone than the rest of the buildings. The grand cathedral is one of the largest buildngs in the world, with half a dozen wings covering every aspect of Eraian's religion and government. 
+* **L - Lithis**: Orignally the capital of the rabbit laguz. Originally a city covered in grass, it was a strange yet wonderful feeling of being on a grassy knoll and yet in the city. That said after Eraia took over there are much more stone streets and buildings, the trademark black churches of Eraia in stark contrast to the prior buildngs. 
+* **M - Ebonary**: A fledging trade city for Eraia. Built like a smaller Lyall, the city was founded to faciitate trade between Theanovene and Eraia. The city is characterized by large wooden drydocks where Eraia is building ships. It's recently had an influx of Kissaelain residents, refugees from the conquered territories. The war is starting to affect the city, the miitary presence has increased drastically and the drydocks are starting to look towards naval ship designs.
+* **T - Effera**: is a small town that's mostly military. The town came up as a outpost at first to protect Eraia's trade route with Theanovene. It's inception was a wise move, Dreca quickly moving their area of influence. The outpost built up quickly into a town and also serves as a protection point for traders along the Drecian border. 
 
 ---
 
@@ -400,7 +404,7 @@ Trade capital of the world, due to it's central location. Theanovene is right in
 
 ### Settlements & Places of Interest
 
-* BB2 - City
+* **N - Theanovene** The sprawling trade city itself. 
 
 ---
 
@@ -454,11 +458,10 @@ Dreca has one export, mined precious metals from the mountain range stretching a
 
 ### Settlements & Places of Interest
 
-* JJ1 - Village
-* JJ2 - Village
-* NN - Town
-* TT - City
-* VV -  Village
+* **Q - Hestim**: Hestim is the only Drecian built town on the mainland. Characterized by two large towers with large openings for Wyverns to land. Hestim is a bare bones town, currently the offloading point for Drecian military assets on the mainland. There are very few non military residents in Hestim. 
+* **P - Seria**: The largest Kissaelain city before Dreca occupied it. Barely a city, the warm savannah and lack of large forests makes teracotta houses the norm. Most buildings are single story with roof access, though a few larger ones stand out against the rest. There are no paved streets, and furnishings are often sparse. When Dreca occupied it they took over what little comforts the city had for themselves, leaving the Kissaelain to scrap by with the bare minimum. 
+* **R - Haland**: One of the twin Drecian cities. Brick homes are common in Haland and the streets are tightly packed. The city as a whole feels tight and cramped. There are no parks and no open spaces, every inch of space is used for buildings. The only open area is the Grand Manor, the home of Dryn Wulfa.
+* **S -  Locta**: The older of the twin Drecian cities. Built before Dreca learned how to pack their limited space well, Locta's buildings are mismashed, the streets aren't consistantly sized, and the whole city feels dark. While Haland isn't a wonder of the world by any means, it's leagues better than the slum that is Locta. 
 
 ## Extra: Kissaelain Laguz Territories
 
@@ -499,6 +502,8 @@ Just as their efforts in the fishing villages came to fruitation, disaster struc
 Those who remained of Eblia had nothing. The fishing villages were barely up and running a few years, not stocked to rebuild a kingdom. The rivers that flowed from the mountain lakes dried up, dammed by the fallen mountain. The only surviving piece of the nation was abandoned, no longer fit for living. This was almost a century ago. 
 
 The remaining Eblians were welcomed to other nations, many moving to Theanovene and trying to live on. What little of their culture remains is preserved quietly in the home, though a grand statue to their nation resides in a Theanovene park. Their land has been left unsettled; not out of respect for the dead but due to it's seperation from current world powers and less than ideal resources. The mountains containing the ruins of the Eblia lie quietly, dangerous to anyone who tries to explore them. People do attempt to delve into the ruins every summer, trying to find the one piece of Elbian history that could make them rich.
+
+**O - Baygrove**: The last remnant of the kingdom to have inhabitants. That said, this village is merely a agreed upon base camp by explorers, archeaologists, and treasure hunters heading into Elbia.
 
 ---
 ---

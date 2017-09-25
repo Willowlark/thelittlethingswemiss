@@ -1,10 +1,25 @@
 ---
 title: Gameplay Breakdown
-categories: pbp
+categories: PbP
 excerpt: A run through on the game will look as it's played.
 ---
 
 This page serves as a reference for the game's format on our discord server. With as many players as we have organization is important to keeping the game moving, which as discussed in earlier post is very important for a slow paced game like ours. It'll also make our story easier to follow and read. 
+
+Something I want to emphasize. Much like in reality, if you don't show an interest in other people you won't get any interest your way. Take an interest in working with the other characters in the game and you'll have much more fun playing. 
+
+<!-- TOC -->
+
+- [The Gameplay Areas](#the-gameplay-areas)
+    - [IC (In Character)](#ic-in-character)
+        - [Breakdown](#breakdown)
+        - [Conflict](#conflict)
+    - [Asides](#asides)
+        - [Do's and Don'ts](#dos-and-donts)
+        - [Breakdown](#breakdown-1)
+- [Conclusion](#conclusion)
+
+<!-- /TOC -->
 
 # The Gameplay Areas
 
@@ -47,9 +62,23 @@ In this post you can see the response to Bob's questions are numbered. However r
 
 ![](https://i.imgur.com/7silgt2.png)
 
-![](https://i.imgur.com/mOrOOQ2.png)
+![](https://i.imgur.com/QecSlPD.png)
 
-Well Alice's actions certainly didn't make her any fans. The third round has started a *conflict* which needs to be resolved. The **entire conflict** has a score of 6. Any action taken to resolving the conflict that succeeds will reduce this number. This doesn't mean you have to knock out 6 ruffians. 
+![](https://i.imgur.com/zlCnTbB.png)
+
+### Conflict
+
+Well Alice's actions certainly didn't make her any fans. The third round has started a *conflict* which needs to be resolved (which is started by the third post above). The **entire conflict** has a score of 6. Any action taken to resolving the conflict that succeeds will reduce this number. This doesn't mean you have to knock out 6 ruffians. Be creative! 
+
+![](https://i.imgur.com/sFzoJ6y.png)
+
+Alice is decidedly not creative. Take note here, as the GM it was never said the door was left open. If you need a detail to add to how you made your action, add it! As long as it doesn't conflict with something someone else said that's okay. Now not pictured, the GM will react to your post with a number. This number will be up to the *dice pool* number on the conflict and is awarded based on the details in your post. The more dice you have, the more dice you dedicate to either trying to reduce the threat number or protect yourself.
+
+When you try to reduce the threat number, the GM will decide what the most relevant trait you have to the action you're doing is. The GM will roll as many dice as you dedicated to reducing it and for every die that comes up **under** your trait **number** you reduce the threat by one. 
+
+When you protect yourself, you use the **same** trait as the one used with reducing rolls. For every die rolled under the trait number you prevent one hit against you. There is **one automatic hit** against you by the threat itself every round. If there's an enemy character that's rolling dice, they can score hits against you the same way you can against them. You have three hit points (though you aren't out till you hit negative!). Those hit points reset every encounter.
+
+For the above example, The GM awards Alice 3 dice. Alice's player adds the bottom of the post `Attack: 2, Defense: 1`. The GM, before the next round, will roll the dice in the dice channel for Alice's attacks and defense against her most relevant trait. If Alice doesn't roll for her one defense, she gets hit once. For every hit she gets on her attacks, she reduces the threat number. At this point the rounds loop until the threat or players have no level/hp left. The winner gets to narrate their victory and regular rounds resume. 
 
 ## Asides
 
@@ -78,3 +107,7 @@ Location: <location>
 Coming from: <the location you were at before you asided>
 Characters: <list of characters>
 ```
+
+# Conclusion
+
+If you have any questions, refer to either the Wushu rulebook or post a question to the out of character channel. It will take some time to get used to, but I hope this gives you an idea of how we play the game. 
