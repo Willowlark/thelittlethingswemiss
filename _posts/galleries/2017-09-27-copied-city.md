@@ -7,7 +7,7 @@ categories: personal
 
 ### [Adam's Individual Shots]({% link _posts/galleries/2017-09-27-adam-east.md %}) 
 
-### [2B's Individual Shotss]({% link _posts/galleries/2017-09-27-2b-east.md %})
+### [2B's Individual Shots]({% link _posts/galleries/2017-09-27-2b-east.md %})
 
 Adam by Tomukuncosplay; find him on [Instagram](https://www.instagram.com/tomukuncosplay/)!
 
