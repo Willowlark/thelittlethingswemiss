@@ -1,7 +1,7 @@
 ---
-title: Character Building
+title: Character & Play Guide
 categories: PbP
-excerpt: How to make a character.
+excerpt: How to make a character and play the game. 
 ---
 
 <!-- TOC -->
@@ -14,7 +14,7 @@ excerpt: How to make a character.
     - [Side Goals](#side-goals)
         - [Walkthrough of Play](#walkthrough-of-play)
         - [Conflict](#conflict)
-    - [Conclusion](#conclusion)
+    - [[Wushu's Rule Book](http://danielbayn.com/wushu/)](#wushus-rule-bookhttpdanielbayncomwushu)
 - [The Gameplay Areas](#the-gameplay-areas)
     - [IC (In Character)](#ic-in-character)
     - [Asides](#asides)
@@ -134,10 +134,7 @@ When you protect yourself, you use the **same** trait as the one used with reduc
 
 For the above example, The GM awards Alice 3 dice. Alice's player adds the bottom of the post `Attack: 2, Defense: 1`. The GM, before the next round, will roll the dice in the dice channel for Alice's attacks and defense against her most relevant trait. If Alice doesn't roll for her one defense, she gets hit once. For every hit she gets on her attacks, she reduces the threat number. At this point the rounds loop until the threat or players have no level/hp left. The winner gets to narrate their victory and regular rounds resume. 
 
-## Conclusion
-
-That's it for the rules. [Here](http://danielbayn.com/wushu/) is the full Wushu rulebook if you're so inclined to read up on the system. Following this section is what you'll need to know to make a character for Wushu. 
-
+## [Wushu's Rule Book](http://danielbayn.com/wushu/)
 
 # The Gameplay Areas
 
@@ -172,8 +169,6 @@ Location: <location>
 Coming from: <the location you were at before you asided>
 Characters: <list of characters>
 ```
-
-
 
 # Character Generation
 
@@ -211,6 +206,10 @@ In addition, you don't want your aspects to overlap. Have them define different 
 * Write out 6 aspects and then sort them by how core they are to your character. Try to express different aspects of the character's personality via them.
 
 * An aspect can be referenced in many situations, it's something that sort of represents a way the character interacts with situations.
+
+* You don't want two aspects that say the same thing. Spread out, explore some other aspects (no pun intended) of their personality.
+
+* Make sure your aspect related to a conflict. Having an aspect that says you're always going to open the door for women is a great personality trait; but the odds of you needing to win a contest to do that are pretty low. (A particularly common example here is *I can/can't escape from things*. You don't need to roll to run away or stand your ground.)
 
 * **If you need help with aspects, I recommend crowd sourcing it to the channel.** It's hard to come up with them sometimes, in my opinion. 
 
@@ -285,4 +284,4 @@ What if you don't have that aspect? All three of your aspects relate to video ga
 * **Step two**: Decide what point assignment you'll be using. Stick your aspects into the template.
 * **Step three**: Give your character a name. 
 
-Your done! 
+You're done! 
