@@ -20,6 +20,16 @@ categories: unlisted
 
 ## References
 
+* ![](https://i.imgur.com/7LL0qtM.png)
+
+* ![](https://i.imgur.com/hRTr2hv.png)
+
+* ![](https://i.imgur.com/t1B3y5f.png)
+
+* ![](https://i.imgur.com/VgVojay.png)
+
+* ![](https://i.imgur.com/F5D84ol.png)
+
 * ![](http://i.imgur.com/ZewPOJi.png)
 
 * ![](http://i.imgur.com/3IFby9Z.png)

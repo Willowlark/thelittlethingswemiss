@@ -24,7 +24,11 @@ categories: unlisted
 
 * Pyrrha from behind, placing Milo across her back. 
 
+* Sword over shoulder, 3/4ths view with hilt side on the near shoulder.
+
 ## References
+
+* ![](https://i.imgur.com/tOlzF33.png)
 
 * ![](http://i.imgur.com/Z6wRmYX.png)
 
