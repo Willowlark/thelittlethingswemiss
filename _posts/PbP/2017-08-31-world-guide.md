@@ -21,6 +21,7 @@ This guide represents any setting information that is general knoweledge in the 
         - [Categories of Magic:](#categories-of-magic)
 - [The Kingdoms of the World](#the-kingdoms-of-the-world)
     - [International Relations](#international-relations)
+    - [Titles in the Realms](#titles-in-the-realms)
     - [Nation 1: Wynne](#nation-1-wynne)
         - [Ruling Class](#ruling-class)
         - [Culture & Social Classes](#culture--social-classes)
@@ -165,6 +166,66 @@ Key: *A: Allied; N: Neutral; T: Tension; H: Hostile*
 * **Theanovene**'s decision to stay neutral against the universally disliked **Eraia** is divisive.
 * **Eraia** conquered the southwestern island, it used to be it's own nation. 
 * The southern pennisula on the continent is in contention between **Eraia** and **Dreca**.  
+
+## Titles in Aurii
+
+Noble             | Wynne | Callora | Eraia | Theanovene | Dreca | Details
+------------------|-------|---------|-------|------------|-------|---------
+Emperor           |       |         |       |            |       |
+King              |       |         |       |            |       |
+Archduke          |       |         |       |            |       |
+Prince / Princess |       |         |       |            |       |
+Duke              |       |         |       |            |       |
+Marquess          |       |         |       |            |       |
+---------         |       |         |       |            |       |
+Count             |       |         |       |            |       |
+Baron             |       |         |       |            |       |
+Knight            |       |         |       |            |       |
+Esquire           |       |         |       |            |       |
+
+
+Military           | Wynne | Callora | Eraia | Theanovene | Dreca | Details
+-------------------|-------|---------|-------|------------|-------|---------
+Field Marshal      |       |         |       |            |       |
+General            |       |         |       |            |       |
+Lieutenant General |       |         |       |            |       |
+Colonel            |       |         |       |            |       |
+Lieutenant Colonel |       |         |       |            |       |
+Major              |       |         |       |            |       |
+Captain            |       |         |       |            |       |
+Lieutenant         |       |         |       |            |       |
+Officer Cadet      |       |         |       |            |       |
+-----------        |       |         |       |            |       |
+Sergeant           |       |         |       |            |       |
+Corporal           |       |         |       |            |       |
+Private            |       |         |       |            |       |
+
+Navy                 | Wynne | Callora | Eraia | Theanovene | Dreca | Details
+---------------------|-------|---------|-------|------------|-------|---------
+Fleet Admiral        |       |         |       |            |       |
+Admiral              |       |         |       |            |       |
+Vice Admiral         |       |         |       |            |       |
+Captain              |       |         |       |            |       |
+Commander            |       |         |       |            |       |
+Lieutenant Commander |       |         |       |            |       |
+Lieutenant           |       |         |       |            |       |
+Sub-Lieutenant       |       |         |       |            |       |
+Midshipman           |       |         |       |            |       |
+----------           |       |         |       |            |       |
+Petty Officer        |       |         |       |            |       |
+Leading Seaman       |       |         |       |            |       |
+Seaman               |       |         |       |            |       |
+
+Religious       | Wynne | Callora | Eraia | Theanovene | Dreca | Details
+----------------|-------|---------|-------|------------|-------|---------
+Pope            |       |         |       |            |       |
+Cardinal        |       |         |       |            |       |
+Cardianal       |       |         |       |            |       |
+Archbishop      |       |         |       |            |       |
+Bishop          |       |         |       |            |       |
+Head Priest     |       |         |       |            |       |
+Priest / Pastor |       |         |       |            |       |
+Deacon          |       |         |       |            |       |
 
 ---
 ---
