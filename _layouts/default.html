@@ -25,14 +25,7 @@
           <h1>{{ site.title | default: site.github.repository_name }}</h1>
           <h2>{{ site.description | default: site.github.project_tagline }}</h2>
           <hr>
-          <span class="credits left">
-              Social Media: 
-              <a href="https://www.flickr.com/photos/thelittlethingswemiss/albums"><img src="http://www.google.com/s2/favicons?domain=https://www.flickr.com/photos/thelittlethingswemiss/albums" /></a> 
-              <a href="https://www.facebook.com/TheLittleThingsWeMiss/"><img src="http://www.google.com/s2/favicons?domain=http://facebook.com/" /></a>
-              <a href="https://www.instagram.com/tlt_wm/"><img src="http://www.google.com/s2/favicons?domain=http://instagram.com/"/></a> 
-              <a href="https://twitter.com/tlt_wm"><img src="http://www.google.com/s2/favicons?domain=http://twitter.com/" /></a>
-          </span>
-          <span class="credits right">Hosted on GitHub Pages &mdash; Theme by <a href="https://twitter.com/michigangraham">mattgraham</a>; Flickr plugin by <a href="https://github.com/j0k3r/jekyll-flickr-photoset">j0k3r</a></span>
+          {% include credits.html %}
         </div>
 
         <div style="background-image:url({{site.baseurl}}/assets/images/Seal.png); background-repeat:no-repeat; background-size:100%; padding:15px; min-height:700px;" markdown="1">
