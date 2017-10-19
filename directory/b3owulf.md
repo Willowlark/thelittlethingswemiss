@@ -1,5 +1,6 @@
 ---
 title: B30wulf Cluster 
+permalink: /b30wulf/
 ---
 
 *This a secured area. Are you supposed to be here?*

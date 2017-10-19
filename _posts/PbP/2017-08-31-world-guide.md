@@ -21,7 +21,6 @@ This guide represents any setting information that is general knoweledge in the 
         - [Categories of Magic:](#categories-of-magic)
 - [The Kingdoms of the World](#the-kingdoms-of-the-world)
     - [International Relations](#international-relations)
-    - [Titles in the Realms](#titles-in-the-realms)
     - [Nation 1: Wynne](#nation-1-wynne)
         - [Ruling Class](#ruling-class)
         - [Culture & Social Classes](#culture--social-classes)
@@ -167,7 +166,7 @@ Key: *A: Allied; N: Neutral; T: Tension; H: Hostile*
 * **Eraia** conquered the southwestern island, it used to be it's own nation. 
 * The southern pennisula on the continent is in contention between **Eraia** and **Dreca**.  
 
-## Titles in Aurii
+<!-- ## Titles in Aurii
 
 Noble             | Wynne | Callora | Eraia | Theanovene | Dreca | Details
 ------------------|-------|---------|-------|------------|-------|---------
@@ -225,7 +224,7 @@ Archbishop      |       |         |       |            |       |
 Bishop          |       |         |       |            |       |
 Head Priest     |       |         |       |            |       |
 Priest / Pastor |       |         |       |            |       |
-Deacon          |       |         |       |            |       |
+Deacon          |       |         |       |            |       | -->
 
 ---
 ---

@@ -6,6 +6,14 @@ excerpt: This might not supposed to be public.
 
 # Appearances (lol)
 
+**2017**
+
+* *AnimeNYC (Saturday)*
+* *Cosplay Roller Skating*
+* Konkon Xmas Shoot
+
+**2018**
+
 * *Cosplay Ice Skating* 
 * Katsucon
 * Zenkaikon
@@ -16,12 +24,11 @@ excerpt: This might not supposed to be public.
 * *Kogarafest*
 * *Konkon Xmas*
 
-Potential: Kogaracon, Clovercon, Otakon (But probably not).
+Potential: Kogaracon, Clovercon, AnimeNYC, Otakon (But probably not).
 
 # Bookings
 
 Bolden People have already paid their share.
-
 
 ## Zenkaikon
 
@@ -36,8 +43,8 @@ Bolden People have already paid their share.
 
 ## AnimeNext
 
-* Total: $0
-* Split: $0
+* Total: $?
+* Split: $?
 
 1. **Bill Clark**
 2. 

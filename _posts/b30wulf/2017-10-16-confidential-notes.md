@@ -5,6 +5,8 @@ tags:
 
 ---
 
+GM Notes for the Play by Post.
+
 # National Persons
 
 ## Wynne
