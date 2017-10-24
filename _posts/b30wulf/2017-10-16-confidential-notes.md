@@ -7,6 +7,8 @@ tags:
 
 GM Notes for the Play by Post.
 
+**Healing magic (restorative) is Dark magic; curing magic is light.**
+
 # National Persons
 
 ## Wynne
