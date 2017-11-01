@@ -61,6 +61,10 @@ Call "Boop" at random times in the shoot.
 
 ## References
 
+* ![](https://i.imgur.com/wSx13Tk.jpg)
+
+* ![](https://i.imgur.com/jqdS9xo.png)
+
 * ![](http://i.imgur.com/Aw5rA4l.png)
 
 * ![](http://i.imgur.com/hhWze3W.png)

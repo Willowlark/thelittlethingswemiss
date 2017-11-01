@@ -18,7 +18,11 @@ categories: unlisted
 
 * Jaune imitating a Grimm at Pyrrha, whose impressed?
 
+* Heart hands together
+
 ## References
+
+* ![](https://i.imgur.com/7FBpk6g.png)
 
 * ![](https://i.imgur.com/7LL0qtM.png)
 
@@ -72,6 +76,10 @@ categories: unlisted
 
 * ![](http://i.imgur.com/Rgu20Dk.png)
 
+* ![](https://i.imgur.com/5sv6vOd.png)
+
+* ![](https://i.imgur.com/z6IOJ7z.jpg)
+
 ## Properly Shipping
 
 ### Poses
@@ -105,6 +113,14 @@ categories: unlisted
 * Pyrrha poking Jaune lightly in the face, he clearly didn't get something. 
 
 ### References
+
+* So not actually this, but a foot massage could be a thing. ![](https://i.imgur.com/y4x50BU.png)
+
+* Really pucker those lips Jaune. ![](https://i.imgur.com/yeszLOV.png)
+
+* ![](https://i.imgur.com/m74LFmc.jpg)
+
+* ![](https://i.imgur.com/Ayhp3N3.png)
 
 * ![](https://i.imgur.com/07G2y7K.png)
 
