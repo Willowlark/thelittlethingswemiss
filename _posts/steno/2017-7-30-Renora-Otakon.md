@@ -77,7 +77,7 @@ Call "Boop" at random times in the shoot.
 
 * Different camera angle, but that shot. ![](http://i.imgur.com/KgYUy9T.png)
 
-* A secret admirer. Who looooves. you. ![](http://i.imgur.com/gWYEnaJ.gifv)
+* A secret admirer. Who looooves. you. [gif](http://i.imgur.com/gWYEnaJ.gifv)
 
 * Have Nora look down, around, left, step in and bend back as she looks up at Ren. ![](http://i.imgur.com/zlJMDQk.png)
 
