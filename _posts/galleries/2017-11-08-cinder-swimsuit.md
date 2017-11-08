@@ -1,5 +1,5 @@
 ---
-title: Cinder by Dynamic Dutchess at Colossal East'17
+title: Cinder by Dynamic Duchess at Colossal East'17
 categories: personal
 tags: 
 
