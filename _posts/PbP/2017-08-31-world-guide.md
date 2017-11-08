@@ -169,32 +169,32 @@ Key: *A: Allied; N: Neutral; T: Tension; H: Hostile*
 
 ## Titles in Aurii
 
-<!-- Noble             | Wynne | Callora | Eraia | Theanovene | Dreca          | Details
-------------------|-------|---------|-------|------------|----------------|---------
-King / Emperor    |       |         |       |            | Lord Commander | Political Leader of the Country
-Archduke          |       |         |       |            |                | Lord of other land owners
-Prince / Princess |       |         |       |            |                | Royal Family. 
-Duke              |       |         |       |            |                | Owner of more than one area of land.
-Marquess          |       |         |       |            |                | Owner of one parcel of land. 
----------         |       |         |       |            |                | Below are honorary titles. 
-Count             |       |         |       |            |                |
-Baron             |       |         |       |            |                | -->
-
+Noble             | Wynne         | Callora           | Eraia     | Theanovene     | Dreca          | Details
+------------------|---------------|-------------------|-----------|----------------|----------------|---------------------------------
+King / Emperor    | The Chieftain | King              | Pope      | Council Chair  | Lord Commander | Political Leader of the Country
+Prince / Princess |               | Prince / Princess |           |                |                | Royal Family.
+<!-- Archduke     |               |                   |           |                | Sub Lord       | Lord of other land owners -->
+Duke              |               | Lord              | Lord      |                | Great Lord     | Lord over multiple Marquess
+Marquess          | Thane         | Marquess          | Chevalier |                | Lord           | Owner of land.
+---------         |               |                   |           |                |                | Below are honorary titles.
+Count             | Wizened       | Count             | Archduke  | Council Member | Praetor        |
+Baron             |               | Landgrave         | Duke      | Council Second | Baron          |
+*Notes: Eraia's nobles hold little effective power. Nobility is an honor bestowed on servants of the church and their families. Theanovene is controlled by the council of guilds, the equalivant powers are noted.*
 
 Military           | Wynne           | Callora     | Eraia              | Theanovene | Dreca          | Details
 -------------------|-----------------|-------------|--------------------|------------|----------------|-----------------------------------
-General            | The Wizened     | General     | Knight's Commander |            | Lord Commander | Military Commander.
-Lieutenant General | The Honor Guard | Royal Guard | Crusader           |            | Royal Guard    | The most powerful in the country.
-Colonel            | The Learned     | Crusader    | Inquistor          | Enforcers  | Retrubutionist | Specialists.
+General            | The Aesir       | General     | Knight's Commander |            | Lord Commander | Military Commander.
+Lieutenant General | The Hersire     | Royal Guard | Crusader           |            | Royal Guard    | The most powerful in the country.
+Colonel            | The Vanir       | Crusader    | Inquistor          | Enforcers  | Retrubutionist | Specialists.
 Major              |                 | Knight Lord | Knight Lord        |            | War Lord       | Highest rank most can achieve.
 Captain            | An Executor     | Commander   | Commander          |            | Commander      | Leaders of large groups.
-Lieutenant         | A Trusted       | Knight      | Knight Lieutenant  |            | War Hero       | Trusted warriors.
+Lieutenant         | Marauder        | Knight      | Knight Lieutenant  |            | War Hero       | Trusted warriors.
 -----------        |                 |             |                    |            |                | Below are enlisted ranks.
 Sergeant           |                 | Captain     | Knight             | Captain    | Sub Commander  | Leaders of small groups.
 Corporal           |                 | Defender    | Squire             |            | Ace            |
 Private            | A Warrior       | Ally        | Armsman            | Militiaman | Hero           | The basic soldier.
 
-*Notes: Wynne doesn't differentiate between enlisted soldiers, all warriors are equal on the field. Theanovene has no real military, so the roles it does have are more police roles.* 
+*Notes: Wynne doesn't differentiate between enlisted soldiers, all warriors are equal on the field. Theanovene has no real military, so the roles it does have are more police roles. For the sake of sanity, Navy titles follow the land faring titles.* 
 
 <!-- Navy                 | Wynne | Callora | Eraia | Theanovene | Dreca | Details
 ---------------------|-------|---------|-------|------------|-------|---------
