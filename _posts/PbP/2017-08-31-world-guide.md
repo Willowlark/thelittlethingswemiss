@@ -21,6 +21,7 @@ This guide represents any setting information that is general knoweledge in the 
         - [Categories of Magic:](#categories-of-magic)
 - [The Kingdoms of the World](#the-kingdoms-of-the-world)
     - [International Relations](#international-relations)
+    - [Titles in Aurii](#titles-in-aurii)
     - [Nation 1: Wynne](#nation-1-wynne)
         - [Ruling Class](#ruling-class)
         - [Culture & Social Classes](#culture--social-classes)
@@ -166,65 +167,57 @@ Key: *A: Allied; N: Neutral; T: Tension; H: Hostile*
 * **Eraia** conquered the southwestern island, it used to be it's own nation. 
 * The southern pennisula on the continent is in contention between **Eraia** and **Dreca**.  
 
-<!-- ## Titles in Aurii
+## Titles in Aurii
 
-Noble             | Wynne | Callora | Eraia | Theanovene | Dreca | Details
-------------------|-------|---------|-------|------------|-------|---------
-Emperor           |       |         |       |            |       |
-King              |       |         |       |            |       |
-Archduke          |       |         |       |            |       |
-Prince / Princess |       |         |       |            |       |
-Duke              |       |         |       |            |       |
-Marquess          |       |         |       |            |       |
----------         |       |         |       |            |       |
-Count             |       |         |       |            |       |
-Baron             |       |         |       |            |       |
-Knight            |       |         |       |            |       |
-Esquire           |       |         |       |            |       |
+<!-- Noble             | Wynne | Callora | Eraia | Theanovene | Dreca          | Details
+------------------|-------|---------|-------|------------|----------------|---------
+King / Emperor    |       |         |       |            | Lord Commander | Political Leader of the Country
+Archduke          |       |         |       |            |                | Lord of other land owners
+Prince / Princess |       |         |       |            |                | Royal Family. 
+Duke              |       |         |       |            |                | Owner of more than one area of land.
+Marquess          |       |         |       |            |                | Owner of one parcel of land. 
+---------         |       |         |       |            |                | Below are honorary titles. 
+Count             |       |         |       |            |                |
+Baron             |       |         |       |            |                | -->
 
 
-Military           | Wynne | Callora | Eraia | Theanovene | Dreca | Details
--------------------|-------|---------|-------|------------|-------|---------
-Field Marshal      |       |         |       |            |       |
-General            |       |         |       |            |       |
-Lieutenant General |       |         |       |            |       |
-Colonel            |       |         |       |            |       |
-Lieutenant Colonel |       |         |       |            |       |
-Major              |       |         |       |            |       |
-Captain            |       |         |       |            |       |
-Lieutenant         |       |         |       |            |       |
-Officer Cadet      |       |         |       |            |       |
------------        |       |         |       |            |       |
-Sergeant           |       |         |       |            |       |
-Corporal           |       |         |       |            |       |
-Private            |       |         |       |            |       |
+Military           | Wynne           | Callora     | Eraia              | Theanovene | Dreca          | Details
+-------------------|-----------------|-------------|--------------------|------------|----------------|-----------------------------------
+General            | The Wizened     | General     | Knight's Commander |            | Lord Commander | Military Commander.
+Lieutenant General | The Honor Guard | Royal Guard | Crusader           |            | Royal Guard    | The most powerful in the country.
+Colonel            | The Learned     | Crusader    | Inquistor          | Enforcers  | Retrubutionist | Specialists.
+Major              |                 | Knight Lord | Knight Lord        |            | War Lord       | Highest rank most can achieve.
+Captain            | An Executor     | Commander   | Commander          |            | Commander      | Leaders of large groups.
+Lieutenant         | A Trusted       | Knight      | Knight Lieutenant  |            | War Hero       | Trusted warriors.
+-----------        |                 |             |                    |            |                | Below are enlisted ranks.
+Sergeant           |                 | Captain     | Knight             | Captain    | Sub Commander  | Leaders of small groups.
+Corporal           |                 | Defender    | Squire             |            | Ace            |
+Private            | A Warrior       | Ally        | Armsman            | Militiaman | Hero           | The basic soldier.
 
-Navy                 | Wynne | Callora | Eraia | Theanovene | Dreca | Details
+*Notes: Wynne doesn't differentiate between enlisted soldiers, all warriors are equal on the field. Theanovene has no real military, so the roles it does have are more police roles.* 
+
+<!-- Navy                 | Wynne | Callora | Eraia | Theanovene | Dreca | Details
 ---------------------|-------|---------|-------|------------|-------|---------
-Fleet Admiral        |       |         |       |            |       |
 Admiral              |       |         |       |            |       |
 Vice Admiral         |       |         |       |            |       |
 Captain              |       |         |       |            |       |
 Commander            |       |         |       |            |       |
 Lieutenant Commander |       |         |       |            |       |
 Lieutenant           |       |         |       |            |       |
-Sub-Lieutenant       |       |         |       |            |       |
-Midshipman           |       |         |       |            |       |
 ----------           |       |         |       |            |       |
 Petty Officer        |       |         |       |            |       |
 Leading Seaman       |       |         |       |            |       |
-Seaman               |       |         |       |            |       |
+Seaman               |       |         |       |            |       | -->
 
-Religious       | Wynne | Callora | Eraia | Theanovene | Dreca | Details
-----------------|-------|---------|-------|------------|-------|---------
-Pope            |       |         |       |            |       |
-Cardinal        |       |         |       |            |       |
-Cardianal       |       |         |       |            |       |
-Archbishop      |       |         |       |            |       |
-Bishop          |       |         |       |            |       |
-Head Priest     |       |         |       |            |       |
-Priest / Pastor |       |         |       |            |       |
-Deacon          |       |         |       |            |       | -->
+Religious       | Wynne          | Callora  | Eraia          | Theanovene | Dreca | Details
+----------------|----------------|----------|----------------|------------|-------|-------------------------------------------------------
+Pope            | The Conversed  | Pope     | Grand Cardinal |            |       | The pope; primary religious leader.
+Cardinal        | The Listeners  | Cardinal | Cardinal       |            |       | The direct allies of the Cardinal. Advisors & Allies.
+Bishop          |                |          | Arch Bishop    |            |       | Representatives of the cardinals, honorary title.
+Head Priest     |                | Bishop   | Bishop         |            |       | Leader of a Town's churches.
+Priest / Pastor | Those who Hear | Priest   | Pastor         |            |       | Leader of a church.
+Deacon          |                |          | Enlightened    |            |       | Servant of Lylalel at a church
+*Notes: Theanovene has churches for pretty much every religion out there, and has no title system of it's own. It uses what the church has in it's home country. Dreca has no religion in the last 10 years, it was stamped out by Dryn Wulfa. ß
 
 ---
 ---
