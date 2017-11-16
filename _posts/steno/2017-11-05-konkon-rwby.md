@@ -35,6 +35,8 @@ Holy shiiiiit that's alot of Rubies
 
 * Kiss the Camera!
 
+* All the presents in Ruby's cape.
+
 ## References
 
 * ![](https://i.imgur.com/wp4v9BM.png)
