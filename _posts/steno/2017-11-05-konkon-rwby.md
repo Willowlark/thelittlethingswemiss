@@ -31,7 +31,9 @@ Holy shiiiiit that's alot of Rubies
 
 * Sit down with the group.
 
-* V shape formationg
+* V shape formation
+
+* Kiss the Camera!
 
 ## References
 
