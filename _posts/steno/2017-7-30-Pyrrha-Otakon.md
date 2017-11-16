@@ -46,6 +46,8 @@ categories: unlisted
 
 * ![](http://i.imgur.com/Q9boux2.png)
 
+* ![](https://i.imgur.com/tgkY0Ai.jpg)
+
 * This kind of action, sweeping ponytail back, but in normal outfit. ![](http://i.imgur.com/rwV2Ild.png)
 
 ---
