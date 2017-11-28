@@ -33,6 +33,8 @@ Lorawryn is not very happy Atalantia left. Lorawryn admired the older girl, stri
 
 lol.
 
+---
+
 ## Eraia
 
 ### Grand Cardinal Etrani Enthmor
@@ -57,13 +59,15 @@ Enera was actually from a Callorian border town and was spirited away by Eraia w
 
 
 
-## Rabbellion Leader Asl Iausti
+### Rabbellion Leader Asl Iausti
 
 Asl is a middle aged rabbit laguz with a large build. She has brown hair and eyes and is always dressed in the typical peasants clothing, her ears being the only thing that has her stand out in a crowd. She's not a fighter, but she's as skilled as Dryn at moving people and leading forces. Extremely driven and sensative to laguz rights. 
 
 Asl was a business woman before Eraian's took her store to build a new church. This sent her in a downward spiral that led to her first interaction with the Rabbellion. She joined up with them having no where else to go and a new found hatred for Eraia. She found herself sucked into the Rabbellion leadership, her business acumen and personality gaining her respect of the entire organization. The Rabbellion has been moving quickly since she took charge, so quickly they may soon be a threat to Eraia...
 
 ### Specialist Yuria Faun
+
+---
 
 ## Thenovene
 
@@ -97,6 +101,8 @@ Late 60's sage with grey eyes and brown hair. Tends to wear quirky outfits.
 
 Wizened and trusted by Theanovene as a whole, he's your go to for magical mishaps. His most recent apprentice has 'defected' to Dreca and it's killing the old man. 
 
+---
+
 ## Dreca
 
 ### Lord General Dryn Wulfa
@@ -111,6 +117,8 @@ Anis is a mid 20's male with blonde hair and blue eyes. He dresses in sage's gar
 
 A gifted user of anima magics, he's recently joined up with Dryn in a semi allied state. Anis shares research with Dryn in return for protection, a workshop, and the peace of mind knowing Anis is on the winning team. The contributions have been good thus far and are helping the Drecian war effort. If Anis is left alone soon Dreca will advance beyond Theanovene's best sages, much to Anis's tutor's chagin. **Osbury Nonim** is trying to take responsibility for his apprentice any way he can.
 
+---
+
 ## Unaligned
 
 ### Duren Pirates Captain Reaz Nupin
@@ -118,6 +126,9 @@ A gifted user of anima magics, he's recently joined up with Dryn in a semi allie
 Reaz is a man in his 50's, shaggy beard and slightly long hair with blue eyes. He wears no hat and has bandanas tied around the upper armors of his leather jacket. His jacket is his sole piece of armor, and he'll quickly shed it when fighting with his cutlass.
 
 Reaz is out for himself and no one else, be it crew or civilians, country or kingdom. The only reason he has a crew is his success rate in naval combat and raid planning. He's never been defeated from the helm of his ship and you can count on one hand the number of raids that failed under his lead. He's recently been a happy man, taking advantage of the Eraian focus on the war front to raid coastal towns in the country. 
+
+---
+---
 
 # Things in Motion
 

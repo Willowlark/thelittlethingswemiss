@@ -46,7 +46,7 @@ Sources in Eraia report that the military has had to deal extensive pirate activ
 
 ## The Armorer's Guild: Looking for Eraian trade secrets?
 
-Rumors are swirling about that the armorer's guild is making efforts at replicating or even copying Eraia's armor crafting techniques. Long known for their skill at the trade, Eraia refuses to share techniques with Theanovene artisans saying that their technique is "*A gift from Lylalel for her soldiers in the world*".  
+Rumors are swirling about that the armorer's guild is making efforts at replicating or even copying Eraia's armor crafting techniques. Long known for their skill at the trade, Eraia refuses to share techniques with Theanovene artisans saying that their technique is "*A gift from Lylalel for her soldiers in the world*".
 
 ## Feeding the fire: The infamous Influence Guild
 
