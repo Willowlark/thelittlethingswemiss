@@ -17,7 +17,7 @@ excerpt: This might not supposed to be public.
 * *Cosplay Ice Skating* 
 * Katsucon
 * Zenkaikon
-* *Castle Point Anime Convention (Saturday, if not conflicting with Zenkaikon)*
+* *Castle Point Anime Convention*
 * AnimeNext
 * *We Rise Mag Beach Shoot*
 * Colossalcon East
@@ -40,6 +40,8 @@ Bolden People have already paid their share.
 2. Andrew Weindel
 3. John G
 4. Aaron Hill
+5. Jess Garrity
+6. Tom Garrity
 
 ## AnimeNext
 
@@ -47,9 +49,9 @@ Bolden People have already paid their share.
 * Split: $?
 
 1. **Bill Clark**
-2. 
-3. 
-4. 
+2. Tom Garrity
+3. Jess Garrity
+4. Dave Cruz
 5. 
 6. 
 7. 
@@ -62,8 +64,8 @@ Bolden People have already paid their share.
 * [Breakdown](https://gist.github.com/anonymous/cb974f784deb9ba113eec1561889956c)
 
 1. **Bill Clark**
-2. Jess Garrity
-3. Tom Garrity
+2. Jess Garrity (paid half the down payment)
+3. Tom Garrity (paid half the down payment)
 4. Dave Cruz
 5. Jared Gropper
 6. Georgia Sandidge
