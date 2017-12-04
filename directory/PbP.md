@@ -1,9 +1,9 @@
 ---
 title: Play by Post GM Blog
-permalink: /playbypost/
+permalink: /aurii/
 ---
 
-{% for post in site.categories.PbP %}
+{% for post in site.categories.aurii %}
 * [{{ post.title }}]({{site.baseurl}}{{ post.url }}) *{{ post.date | date_to_string }}*
 > {{ post.excerpt }}
 {% endfor %}

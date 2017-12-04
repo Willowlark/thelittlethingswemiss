@@ -1,6 +1,6 @@
 ---
 title: Character & Play Guide
-categories: PbP
+categories: aurii
 excerpt: How to make a character and play the game. 
 ---
 

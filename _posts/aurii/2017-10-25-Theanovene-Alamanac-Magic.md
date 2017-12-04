@@ -1,6 +1,6 @@
 ---
 title: Theanovene Almanac Special Edition - Magic
-categories: PbP
+categories: aurii
 tags:
 excerpt: A special release of the newscrafting guild's guide to Aurii; Explaining the mystery around magecraft.
 ---

@@ -1,6 +1,6 @@
 ---
 title: Theanovene Almanac Volume 1
-categories: PbP
+categories: aurii
 excerpt: Volume one of the Theanovene Newscrafting Guild's guide to the world at large. (IC Article)
 ---
 
