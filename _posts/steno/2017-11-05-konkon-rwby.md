@@ -35,7 +35,16 @@ Holy shiiiiit that's alot of Rubies
 
 * Kiss the Camera!
 
+
+### Subsets
+
 * All the presents in Ruby's cape.
+
+* Cane fights
+
+* Conflicting characters
+
+* Cinder stealing all the presents
 
 ## References
 
