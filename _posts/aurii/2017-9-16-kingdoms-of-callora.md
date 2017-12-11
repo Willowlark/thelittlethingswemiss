@@ -53,6 +53,8 @@ The following nations can be found inside the Callora Alliance.
 
 ### Culture
 
+<!-- Hylley is a literally down to earth culture. They find nature and flowing water to be the most beautiful thing there is and built the city in such a way they preserve that.  -->
+
 ### Religion
 
 ### Military
@@ -60,6 +62,8 @@ The following nations can be found inside the Callora Alliance.
 ### Alliance Relations
 
 ### Places of Interest
+
+* Evard - The capital of Hylley. Evard is a beautiful city dominated by a massive tree in the center of town. The tree's roots occasionally appear in back corners or even on side walks, creating the illusion that the entire city was built upon it's root system. The buildings are made of a white stone that must be plentiful in the area, and while there are less buildings that one would expect in a capital they make up for it most buildings being multistory. The open space is often filled with manicured grassy lots, adding to the overall appeal of the city. The overall appearance is that of place where nature is prominent and respected.
 
 ---
 
