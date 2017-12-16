@@ -15,6 +15,23 @@ Holy shiiiiit that's alot of Rubies
 
 - Group actions.
 
+## Members
+
+|                   |                  |                  |                |
+|-------------------|------------------|------------------|----------------|
+| Ruby Rose         | Weiss Schnee     | Blake Belladonna | Yang Xiao Long |
+| Jaune Arc         | Nora Valkyrie    | Pyrrha Nikos     | Lie Ren        |
+| Sun Wukong        | Neptune Vasilias |                  |                |
+| Velvet Scarlatina |                  |                  |                |
+| Winter Schnee     | Qrow Branwen     | Taiyang          |                |
+| Oscar Pine        | Professor Ozpin  |                  |                |
+| Cinder Fall       | Salem            |                  |                |
+
+* Rose Family
+* Teaching Staff
+* Arch Enemies
+* Students
+
 ## Locations
 
 - Bridge
