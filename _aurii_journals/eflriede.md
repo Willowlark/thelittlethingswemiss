@@ -1,7 +1,8 @@
 ---
 title: Journal of Elfriede Faun
-categories: aurii_journal
-tags: 
-
 ---
 
+{% for post in site.tags.elfriede %}
+* [{{ post.title }}]({{site.baseurl}}{{ post.url }}) *{{ post.date | date_to_string }}*
+> {{ post.excerpt }}
+{% endfor %}
