@@ -2,7 +2,7 @@
 title: Introduction to Journaling
 categories: aurii
 tags: 
-
+excerpt: How to make journal entries for the site.
 ---
 
 # Rules
