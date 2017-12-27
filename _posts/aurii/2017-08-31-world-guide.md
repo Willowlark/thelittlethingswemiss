@@ -173,7 +173,6 @@ Noble             | Wynne         | Callora           | Eraia     | Theanovene  
 ------------------|---------------|-------------------|-----------|----------------|----------------|---------------------------------
 King / Emperor    | The Chieftain | King              | Pope      | Council Chair  | Lord Commander | Political Leader of the Country
 Prince / Princess |               | Prince / Princess |           |                |                | Royal Family.
-<!-- Archduke     |               |                   |           |                | Sub Lord       | Lord of other land owners -->
 Duke              |               | Lord              | Lord      |                | Great Lord     | Lord over multiple Marquess
 Marquess          | Thane         | Marquess          | Chevalier |                | Lord           | Owner of land.
 ---------         |               |                   |           |                |                | Below are honorary titles.
