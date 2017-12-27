@@ -3,7 +3,7 @@ show_downloads: false
 title: The Little Things We Miss
 baseurl: 
 collections:
-  padpages:
+  aurii_journals:
     output: true
 defaults:
   - scope:
@@ -24,6 +24,20 @@ defaults:
       path: "directory"
     values:
       layout: titled
+  - scope:
+      path: "aurii_directory"
+    values:
+      layout: aurii
+  - scope:
+      path: "_posts/aurii_posts"
+      type: posts
+    values:
+      layout: aurii
+  - scope:
+      path: ""
+      type: aurii_journals
+    values:
+      layout: aurii
 flickr:
   cache_dir: "./_cache/flickr"
   api_key: 6b3911916a3253512d800718fb1d088b
