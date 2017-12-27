@@ -23,7 +23,7 @@ Inside your file you will need the following at the very top of the page:
 ```
 ---
 title: {Fill_me_in}
-categories: aurii_jounrals
+categories: aurii_jounral_entry
 tags: {Character_first_name_here}
 excerpt: {}
 ---
