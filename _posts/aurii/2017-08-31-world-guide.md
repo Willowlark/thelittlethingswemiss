@@ -179,6 +179,7 @@ Marquess          | Thane         | Marquess          | Chevalier |             
 ---------         |               |                   |           |                |                | Below are honorary titles.
 Count             | Wizened       | Count             | Archduke  | Council Member | Praetor        |
 Baron             |               | Landgrave         | Duke      | Council Second | Baron          |
+
 *Notes: Eraia's nobles hold little effective power. Nobility is an honor bestowed on servants of the church and their families. Theanovene is controlled by the council of guilds, the equalivant powers are noted.*
 
 Military           | Wynne           | Callora     | Eraia              | Theanovene | Dreca          | Details
@@ -217,6 +218,7 @@ Bishop          |                |          | Arch Bishop    |            |     
 Head Priest     |                | Bishop   | Bishop         |            |       | Leader of a Town's churches.
 Priest / Pastor | Those who Hear | Priest   | Pastor         |            |       | Leader of a church.
 Deacon          |                |          | Enlightened    |            |       | Servant of Lylalel at a church
+
 *Notes: Theanovene has churches for pretty much every religion out there, and has no title system of it's own. It uses what the church has in it's home country. Dreca has no religion in the last 10 years, it was stamped out by Dryn Wulfa. ß
 
 ---
