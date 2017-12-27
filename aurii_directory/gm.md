@@ -1,6 +1,6 @@
 ---
-title: Play by Post GM Blog
-permalink: /aurii/
+title: Aurii Game Master Blog
+permalink: /aurii_gm/
 ---
 
 {% for post in site.categories.aurii %}
