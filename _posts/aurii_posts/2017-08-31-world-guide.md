@@ -73,12 +73,12 @@ This guide represents any setting information that is general knoweledge in the 
 
 <!-- /TOC -->
 
-![Map!](https://i.imgur.com/nDfB0x6.png)
-
 
 # The World of Aurii 
 
 *Our-rii* 
+
+[The World of Aurii Map]({% link _posts/aurii_posts/2017-09-01-aurii-map.md %})
 
 ## Races
 
