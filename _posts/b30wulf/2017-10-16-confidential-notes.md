@@ -7,7 +7,15 @@ tags:
 
 GM Notes for the Play by Post.
 
-**Healing magic (restorative) is Dark magic; curing magic is light.**
+# Magic
+
+Healing magic (restorative) is Dark magic; curing magic is light. 
+
+When you have the right intent and say the right words with the ritual components (in most cases the Tome) the spell works. The cost of spell craft is mental fatigue which builts up over time. Intention can be as simple as 'the fire growing' or as wild as 'thinking lovingly about taco salad'. The incantation tends to be longer and the intention is harder to imagine as the spell gets stronger.
+
+If you mess up either the intention or the encantation, you take the same mental fatigue you would when you cast the spell, but no spell. So it's a fizzle kind of situation.
+
+> There is no such thing as a too high level spell, particularly in terms of Tomes. Tomes are rather straight forward, you pronounce it right and have the right intent in mind and the spell happens. More powerful spells do tend to be longer and require a more focused frame of mind, but with practice anyone can cast anything from a Tome. That's why Tomes are such a big deal, you don't need the decades of magical theory practice to make the ritual involved in the spell. 
 
 # National Persons
 
