@@ -13,6 +13,6 @@ You've reached the landing page of The Little Things We Miss. Featured on this s
 * **Gatherings**: Photo galleries from Gathering photoshoots at conventions. Specifically anyone from the same series gets up front and strikes a pose.
 * **Personal**: A poor name for them, but shoots in which I'm working one on one with the model(s) and spend time with them. 
 
-<div style="text-align:center" markdown="1">
-![]({{site.baseurl}}/assets/images/me.jpeg)
-</div>
+<!-- <div style="text-align:center" markdown="1"> -->
+<!-- ![]({{site.baseurl}}/assets/images/me.jpg) -->
+<!-- </div> -->
