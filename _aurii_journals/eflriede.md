@@ -1,5 +1,6 @@
 ---
 title: Journal of Elfriede Faun
+excerpt: The Journal of Elfriede Faun
 ---
 
 ---

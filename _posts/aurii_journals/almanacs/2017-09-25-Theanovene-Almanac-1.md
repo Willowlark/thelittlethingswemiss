@@ -1,6 +1,7 @@
 ---
 title: Theanovene Almanac Volume 1
-categories: aurii
+categories: aurii_journal_entry
+tags: theanovene-almanac
 excerpt: Volume one of the Theanovene Newscrafting Guild's guide to the world at large. (IC Article)
 ---
 

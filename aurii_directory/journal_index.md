@@ -9,5 +9,6 @@ Listed below are the player written journals for their respective characters. Ea
 
 
 {% for item in site.aurii_journals %}
-* [{{ item.title }}]({{site.baseurl}}{{item.url}})
+# [{{ item.title }}]({{site.baseurl}}{{item.url}})
+> {{ item.excerpt }}
 {% endfor %}

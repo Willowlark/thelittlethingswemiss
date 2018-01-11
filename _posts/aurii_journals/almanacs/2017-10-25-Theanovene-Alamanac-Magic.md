@@ -1,7 +1,7 @@
 ---
 title: Theanovene Almanac Special Edition - Magic
-categories: aurii
-tags:
+categories: aurii_journal_entry
+tags: theanovene-almanac
 excerpt: A special release of the newscrafting guild's guide to Aurii; Explaining the mystery around magecraft.
 ---
 
