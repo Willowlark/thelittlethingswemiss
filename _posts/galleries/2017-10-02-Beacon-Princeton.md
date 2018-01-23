@@ -1,6 +1,7 @@
 ---
 title: Beacon Princeton Coop at Princeton University
 categories: personal
+tags: rss-gallery
 ---
 
 ### [Pyrrha's Individual Gallery]({% link _posts/galleries/2017-09-21-Pyrrha-Princeton.md %})

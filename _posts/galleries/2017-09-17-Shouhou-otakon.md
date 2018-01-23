@@ -1,6 +1,7 @@
 ---
 title: Shouhou by Flora at Otakon
 categories: personal
+tags: rss-gallery
 ---
 
 Find Flora on [Instagram](https://www.instagram.com/sunfloradesuu/)!

@@ -1,6 +1,7 @@
 ---
 title: RWBY at Zenkaikon'17 Saturday Shoot
 categories: gathering
+tags: rss-gallery
 ---
 
 This shoot is, as far as I can tell, my most well known work. 

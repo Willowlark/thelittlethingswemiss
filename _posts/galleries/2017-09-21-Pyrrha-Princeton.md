@@ -1,6 +1,7 @@
 ---
 title: Pyrrha By Wezrez at Princeton University
 categories: personal
+tags: rss-gallery
 ---
 
 Find Wezrez cosplay on [Instagram](https://www.instagram.com/wezrez/)!

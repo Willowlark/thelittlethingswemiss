@@ -1,6 +1,7 @@
 ---
 title: Glynda By Mak at Princeton University
 categories: personal
+tags: rss-gallery
 ---
 
 *Neither of us go to Princeton. That's what make it fun.*

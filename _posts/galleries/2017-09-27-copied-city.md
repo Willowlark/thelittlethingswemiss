@@ -1,6 +1,7 @@
 ---
 title: Copied City 
 categories: personal
+tags: rss-gallery
 ---
 
 *Watching these two do a hate ship is personally very amusing to me. Context: I was in their wedding party.*
