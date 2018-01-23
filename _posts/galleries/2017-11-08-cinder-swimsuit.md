@@ -1,7 +1,7 @@
 ---
 title: Cinder by Dynamic Duchess at Colossal East'17
 categories: personal
-tags: 
+tags: rss-gallery
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Nia by Kasei Cosplay at Kogarafest
 categories: personal
-tags: 
+tags: rss-gallery
 
 ---
 

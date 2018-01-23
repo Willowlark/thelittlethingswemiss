@@ -1,7 +1,7 @@
 ---
 title: Colossalcon East'17
 categories: gathering
-tags: 
+tags: rss-gallery
 
 ---
 

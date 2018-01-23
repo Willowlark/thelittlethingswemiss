@@ -1,7 +1,7 @@
 ---
 title: Schnee-bilings at Kogarafest
 categories: personal
-tags: 
+tags: rss-gallery
 
 ---
 

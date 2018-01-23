@@ -1,7 +1,7 @@
 ---
 title: RWBY (Unofficial) at Otakon
 categories: gathering
-tags: 
+tags: rss-gallery
 
 ---
 

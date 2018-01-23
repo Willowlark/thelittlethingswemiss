@@ -1,7 +1,7 @@
 ---
 title: Druncle Dad - Emerling & Mercenary Cosplay
 categories: personal
-tags: 
+tags: rss-gallery
 
 ---
 

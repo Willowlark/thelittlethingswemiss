@@ -32,9 +32,17 @@ Bolden People have already paid their share.
 
 ## Zenkaikon
 
-* Total: $466.20
-* Split: $?
-* Reminder, you got another room booked. 
+_            | _
+-------------|---------
+Total:       | $466.20
+Total/Night: | $155.4
+Room/Night:  | $140
+Tax/Night:   | 11%
+Rooms:       | 1
+Nights:      | 3
+Per Night:   | $26
+Full Con:    | $78
+
 
 1. **Bill Clark**
 2. Andrew Weindel
@@ -45,29 +53,51 @@ Bolden People have already paid their share.
 
 ## AnimeNext
 
-* Total: $?
-* Split: $?
+_            | _
+-------------|--------
+Total:       | $756
+Total/Night: | $252
+Room/Night:  | $219
+Tax/Night:   | 14.88%
+Rooms:       | 2
+Nights:      | 3
+Per Night:   |
+Full Con:    |
 
 1. **Bill Clark**
 2. Tom Garrity
 3. Jess Garrity
-4. Dave Cruz
-5. 
-6. 
-7. 
-8. 
+4. Justin Smith
+5. Rayna
+6. Andrew Weindel
+7. John G
+8. Aaron Hill
+9. Georgia Sandidge
+10. Halim Hamroun
+11. 
+12.  
 
 ## Colossal East
 
-* Total: $1496
-* Split: $?
-* [Breakdown](https://gist.github.com/anonymous/cb974f784deb9ba113eec1561889956c)
+_            |
+-------------|
+Total:       | $743.43 ($1496)
+Total/Night: | $247.81
+Room/Night:  | $209
+Tax/Night:   | 9% + $20
+Additional:  | +$35/night for 5th and 6th slots
+Rooms:       | 2
+Nights:      | 3
+Per Night:   | 
+Full Con:    | 
+
+[Breakdown](https://gist.github.com/anonymous/cb974f784deb9ba113eec1561889956c)
 
 1. **Bill Clark**
 2. Jess Garrity (paid half the down payment)
 3. Tom Garrity (paid half the down payment)
 4. Dave Cruz
-5. Jared Gropper
+5. Joe?
 6. Georgia Sandidge
 7. Halim Hamroun
 8. 

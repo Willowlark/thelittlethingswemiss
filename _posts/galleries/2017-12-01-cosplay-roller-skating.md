@@ -1,7 +1,7 @@
 ---
 title: Cosplay Roller Skating
 categories: gathering
-tags: 
+tags: rss-gallery
 
 ---
 

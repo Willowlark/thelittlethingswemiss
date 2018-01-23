@@ -1,7 +1,7 @@
 ---
 title: Persona at Animenext'17 (Friday)
 categories: gathering
-tags: 
+tags: rss-gallery
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 title: Konkon Christmas Photoshoot (Night Photos)
 categories: gathering
-tags: 
+tags: rss-gallery
 
 ---
 
 This is effectively a rwby shoot, but there were other things there. I think. There are also so many I'm splitting them by the time frame they were taken in. Look for the day photos as well!
 
-*There are photos here. Just scroll past all the tags. Then go follow everyone.*
+*There are photos here. Just scroll past all the tags: rss-gallery
 
 Ruby cosplayed by kaseicosplay; Follow them on [Instagram](https://www.instagram.com/kaseicosplay)!
 

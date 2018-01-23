@@ -1,7 +1,7 @@
 ---
 title: Hoodie _NPR by Wezrez, Raining_Jellyfish, & IamtheDark
 categories: personal
-tags: 
+tags: rss-gallery
 
 ---
 

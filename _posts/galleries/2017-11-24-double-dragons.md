@@ -1,7 +1,7 @@
 ---
 title: Double Dragons by Wezrez and Mobiusmelt 
 categories: personal
-tags: 
+tags: rss-gallery
 
 ---
 

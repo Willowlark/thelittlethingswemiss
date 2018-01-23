@@ -1,7 +1,7 @@
 ---
 title: Pyrrha Nikos - Fall Maiden
 categories: personal
-tags: 
+tags: rss-gallery
 
 ---
 
