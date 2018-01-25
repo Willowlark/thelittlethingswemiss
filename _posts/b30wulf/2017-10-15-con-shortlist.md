@@ -61,7 +61,7 @@ Room/Night:  | $219
 Tax/Night:   | 14.88%
 Rooms:       | 2
 Nights:      | 3
-Per Night:   |
+Per Night:   | 
 Full Con:    |
 
 1. **Bill Clark**
@@ -75,7 +75,7 @@ Full Con:    |
 9. Georgia Sandidge
 10. Halim Hamroun
 11. 
-12.  
+12. 
 
 ## Colossal East
 
@@ -105,3 +105,19 @@ Full Con:    |
 10. 
 11. 
 12. 
+
+## Katsu
+
+_            |
+-------------|
+Total:       | 
+Total/Night: | $269.8
+Room/Night:  | $210
+Tax/Night:   | 18% + $22
+Additional:  | +$35/night for 3rd & 4th slots
+Rooms:       | 1
+Nights:      | 2
+Per Night:   | $45
+Full Con:    | $90
+
+Additionally room on my tab. Fuck this noise, really.
