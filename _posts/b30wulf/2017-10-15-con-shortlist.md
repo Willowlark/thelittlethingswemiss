@@ -4,35 +4,32 @@ categories: b30wulf
 excerpt: This might not supposed to be public.
 ---
 
-# Appearances (lol)
-
-**2017**
-
-* *AnimeNYC (Saturday)*
-* *Cosplay Roller Skating*
-* Konkon Xmas Shoot
-
-**2018**
+# Circuit List 
 
 * *Cosplay Ice Skating* 
 * Katsucon
 * Zenkaikon
 * *Castle Point Anime Convention*
 * AnimeNext
+* Connecticon
 * *We Rise Mag Beach Shoot*
 * Colossalcon East
 * *Kogarafest*
+* *AnimeNYC*
+* *Cosplay Roller Skating*
 * *Konkon Xmas*
 
-Potential: Kogaracon, Clovercon, AnimeNYC, Otakon (But probably not).
+Potential: Kogaracon, Kindacon, Clovercon, Otakon (But probably not).
 
 # Bookings
 
 Bolden People have already paid their share.
 
+The per night is the the nightly by the number of people that night. Do that for each night if people are attending different timeframes in the room, it'll all add up the same way.
+
 ## Zenkaikon
 
-_            | _
+_            | Single
 -------------|---------
 Total:       | $466.20
 Total/Night: | $155.4
@@ -53,16 +50,16 @@ Full Con:    | $78
 
 ## AnimeNext
 
-_            | _
--------------|--------
-Total:       | $756
-Total/Night: | $252
-Room/Night:  | $219
-Tax/Night:   | 14.88%
-Rooms:       | 2
-Nights:      | 3
-Per Night:   | 
-Full Con:    |
+_            | Single             | Double
+-------------|--------------------|--------
+Total:       | $756               | $1512
+Total/Night: | $252               | $504
+Room/Night:  | $219               | $438
+Tax/Night:   | 14.88%             | 14.88%
+Rooms:       | 1                  | 2
+Nights:      | 3                  | 3
+Per Night:   | 8 - $31 ; 10 - $25 | 8 - $63 ; 10 - $50
+Full Con:    | 8 - $93 ; 10 - $75 | 8 -  $189 ; 10 - $151
 
 1. **Bill Clark**
 2. Tom Garrity
@@ -79,17 +76,17 @@ Full Con:    |
 
 ## Colossal East
 
-_            |
--------------|
-Total:       | $743.43 ($1496)
-Total/Night: | $247.81
-Room/Night:  | $209
-Tax/Night:   | 9% + $20
-Additional:  | +$35/night for 5th and 6th slots
-Rooms:       | 2
-Nights:      | 3
-Per Night:   | 
-Full Con:    | 
+_            | Single                           | Double
+-------------|----------------------------------|--------
+Total:       | $743.43                          | 1497.66 ($1496)
+Total/Night: | $247.81                          | $499.22
+Room/Night:  | $209 + $20                       | $418 + $40
+Tax/Night:   | 9%                               | 9%
+Additional:  | +$35/night for 5th and 6th slots | ditto
+Rooms:       | 1                                | 2
+Nights:      | 3                                | 3
+Per Night:   |                                  |
+Full Con:    |                                  |
 
 [Breakdown](https://gist.github.com/anonymous/cb974f784deb9ba113eec1561889956c)
 
@@ -108,16 +105,16 @@ Full Con:    |
 
 ## Katsu
 
-_            |
--------------|
+_            | Single
+-------------| -------
 Total:       | 
-Total/Night: | $269.8
-Room/Night:  | $210
-Tax/Night:   | 18% + $22
+Total/Night: | $273.76
+Room/Night:  | $210 + $22
+Tax/Night:   | 18%
 Additional:  | +$35/night for 3rd & 4th slots
 Rooms:       | 1
 Nights:      | 2
-Per Night:   | $45
-Full Con:    | $90
+Per Night:   | $46
+Full Con:    | $92
 
 Additionally room on my tab. Fuck this noise, really.
