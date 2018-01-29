@@ -27,7 +27,7 @@ module Jekyll
       @photoset       = params[0]
       @photoThumbnail = params[1] || "Large Square"
       @reversed = params[2] || 0
-      @photoEmbeded   = params[3] || "Medium 800"
+      @photoEmbeded   = params[3] || "Original"
       @photoOpened    = params[4] || "Large"
       @video          = params[5] || "Site MP4"
     end
@@ -83,10 +83,10 @@ module Jekyll
             # output += "      </li>\n"
           else
             if !flag
-                output += "      <div id=\"lead\" class=\"responsive\"><div class=\"gallery\"><a href=\"#{photo['urlOpened']}\"><img src=\"#{photo['urlThumb']}\" alt=\"#{photo['title']}\" title=\"#{photo['title']}\"></a></div></div>\n"
+                output += "      <div id=\"lead\" class=\"responsive\"><div class=\"gallery\"><a href=\"#{photo['urlEmbeded']}\"><img src=\"#{photo['urlThumb']}\" alt=\"#{photo['title']}\" title=\"#{photo['title']}\"></a></div></div>\n"
                 flag = true
             else
-                output += "      <div class=\"responsive\"><div class=\"gallery\"><a href=\"#{photo['urlOpened']}\"><img src=\"#{photo['urlThumb']}\" alt=\"#{photo['title']}\" title=\"#{photo['title']}\"></a></div></div>"
+                output += "      <div class=\"responsive\"><div class=\"gallery\"><a href=\"#{photo['urlEmbeded']}\"><img src=\"#{photo['urlThumb']}\" alt=\"#{photo['title']}\" title=\"#{photo['title']}\"></a></div></div>"
                 output += "\n"
             end
           end
