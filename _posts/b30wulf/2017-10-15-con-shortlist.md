@@ -88,8 +88,6 @@ Nights:      | 3                                | 3
 Per Night:   |                                  |
 Full Con:    |                                  |
 
-[Breakdown](https://gist.github.com/anonymous/cb974f784deb9ba113eec1561889956c)
-
 1. **Bill Clark**
 2. Jess Garrity (paid half the down payment)
 3. Tom Garrity (paid half the down payment)
