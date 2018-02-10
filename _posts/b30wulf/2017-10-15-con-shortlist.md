@@ -101,18 +101,30 @@ Full Con:    |                                  |
 11. 
 12. 
 
-## Katsu
+## Katsu (Georgia)
 
 _            | Single
 -------------| -------
-Total:       | 
-Total/Night: | $273.76
-Room/Night:  | $210 + $22
+Total:       | $446.6
+Total/Night: | $247.8
+Room/Night:  | $210
+Tax/Night:   | 18%
+Additional:  | +$35/night for 3rd & 4th slots : -50 from Eva.
+Rooms:       | 1
+Nights:      | 2
+Per Night:   | $38
+Full Con:    | $75
+
+## Katsu (Hal)
+
+_            | Single
+-------------| -------
+Total:       | $743.4
+Total/Night: | $247.8
+Room/Night:  | $210
 Tax/Night:   | 18%
 Additional:  | +$35/night for 3rd & 4th slots
 Rooms:       | 1
-Nights:      | 2
-Per Night:   | $46
-Full Con:    | $92
-
-Additionally room on my tab. Fuck this noise, really.
+Nights:      | 3
+Per Night:   | $41
+Full Con:    | $124
