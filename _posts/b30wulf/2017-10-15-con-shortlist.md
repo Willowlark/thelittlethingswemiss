@@ -29,16 +29,16 @@ The per night is the the nightly by the number of people that night. Do that for
 
 ## Zenkaikon
 
-_            | Single
--------------|---------
-Total:       | $466.20
-Total/Night: | $155.4
-Room/Night:  | $140
-Tax/Night:   | 11%
-Rooms:       | 1
-Nights:      | 3
-Per Night:   | $26
-Full Con:    | $78
+_            | Single  | Double
+-------------|---------|-------
+Total:       | $466.20 | $932.4
+Total/Night: | $155.4  | $310.8
+Room/Night:  | $140    | $140
+Tax/Night:   | 11%     | 11%
+Rooms:       | 1       | 2
+Nights:      | 3       | 3
+Per Night:   | $26     | $38.85
+Full Con:    | $78     | $116.5
 
 
 1. **Bill Clark**
@@ -47,6 +47,8 @@ Full Con:    | $78
 4. Aaron Hill
 5. Jess Garrity
 6. Tom Garrity
+7. Georgia Sandidge
+8. Halim Hamroun
 
 ## AnimeNext
 
@@ -100,31 +102,3 @@ Full Con:    |                                  |
 10. 
 11. 
 12. 
-
-## Katsu (Georgia)
-
-_            | Single
--------------| -------
-Total:       | $446.6
-Total/Night: | $247.8
-Room/Night:  | $210
-Tax/Night:   | 18%
-Additional:  | +$35/night for 3rd & 4th slots : -50 from Eva.
-Rooms:       | 1
-Nights:      | 2
-Per Night:   | $38
-Full Con:    | $75
-
-## Katsu (Hal)
-
-_            | Single
--------------| -------
-Total:       | $743.4
-Total/Night: | $247.8
-Room/Night:  | $210
-Tax/Night:   | 18%
-Additional:  | +$35/night for 3rd & 4th slots
-Rooms:       | 1
-Nights:      | 3
-Per Night:   | $41
-Full Con:    | $124
