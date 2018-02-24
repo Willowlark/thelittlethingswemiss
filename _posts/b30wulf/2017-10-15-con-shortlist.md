@@ -29,16 +29,17 @@ The per night is the the nightly by the number of people that night. Do that for
 
 ## Zenkaikon
 
-_            | Single  | Double
--------------|---------|-------
-Total:       | $466.20 | $932.4
-Total/Night: | $155.4  | $310.8
-Room/Night:  | $140    | $140
-Tax/Night:   | 11%     | 11%
-Rooms:       | 1       | 2
-Nights:      | 3       | 3
-Per Night:   | $26     | $38.85
-Full Con:    | $78     | $116.5
+_            | One Room | Two room
+-------------|----------|----------
+Total:       | $466.20  | $932.4
+Total/Night: | $155.4   | $310.8
+Room/Night:  | $140     | $140
+Tax/Night:   | 11%      | 11%
+Rooms:       | 1        | 2
+Nights:      | 3        | 3
+Split:       | 6        | 8
+Per Night:   | $26      | $38.85
+Full Con:    | $78      | $116.5
 
 
 1. **Bill Clark**
