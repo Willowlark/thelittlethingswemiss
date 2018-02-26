@@ -29,18 +29,28 @@ The per night is the the nightly by the number of people that night. Do that for
 
 ## Zenkaikon
 
-_            | One Room | Two room
--------------|----------|----------
-Total:       | $466.20  | $932.4
-Total/Night: | $155.4   | $310.8
-Room/Night:  | $140     | $140
-Tax/Night:   | 11%      | 11%
-Rooms:       | 1        | 2
-Nights:      | 3        | 3
-Split:       | 6        | 8
-Per Night:   | $26      | $38.85
-Full Con:    | $78      | $116.5
+Base Info    | One Room | Two Rooms
+-------------|----------|--------
+Total:       | $466.20  | $932.4 
+Total/Night: | $155.4   | $310.8 
+Room/Night:  | $140     | $140   
+Tax/Night:   | 11%      | 11%    
+Rooms:       | 1        | 2      
+Nights:      | 3        | 3      
 
+Room | Split | Per Night | Applies
+-----|-------|-----------|--------
+1    | 4     | $39       | 
+1    | 5     | $31       |
+1    | 6     | $26       | Thurs?
+2    | 6     | $52       | Thurs?
+2    | 7     | $44       |
+2    | 8     | $39       | Fri, Sat
+
+Number... | Staying | Grand Total | Formula
+----------|---------|-------------|----------
+6         | 3       | 130         | 52+39+39
+2         | 2       | 78          | 39*2
 
 1. **Bill Clark**
 2. Andrew Weindel
