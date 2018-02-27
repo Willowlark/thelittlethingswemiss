@@ -2,7 +2,7 @@
 title: Photoshoot Map
 categories: blog
 tags: 
-
+excerpt: Map of on location shoot ideas. 
 ---
 
 # [Map](https://drive.google.com/open?id=1HVDEpKSmRWukN61k0H4cyFQOPP7u_ynT&usp=sharing)
