@@ -626,3 +626,5 @@ After the dust settled, the Alliance was left without it's unifying purpose. Ano
 * **Kissa**: Slang for a Cat/Tiger Laguz. Often derogatory. 
 
 * **Naissankari**: Traditional name of the wolf laguz.
+
+* **Kouneli**: Traditional name for Rabbit Laguz
