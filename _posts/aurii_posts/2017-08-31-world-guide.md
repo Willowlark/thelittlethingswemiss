@@ -18,6 +18,7 @@ This guide represents any setting information that is general knoweledge in the 
             - [Wolf](#wolf)
             - [Tiger](#tiger)
             - [Rabbit](#rabbit)
+    - [Languages](#languages)
     - [Magic](#magic)
         - [Categories of Magic:](#categories-of-magic)
 - [The Kingdoms of the World](#the-kingdoms-of-the-world)
@@ -131,6 +132,16 @@ Native to the southern pennisula Now scattered to Theanovene and Eraia. The most
 #### Rabbit 
 
 Rabbit laguz originally had full claim of the south western continent before it was annexed by Eraia. The rabbit laguz split evenly down the middle, some joining Eraia as second class citizens, some heading out to other countries. However there's rumors of a rebellion <!--Rabb-ellion--> in the back alleys of the island. Rabbit laguz, unlike the other races, aren't the same size as their animal counterpart. Rabbit laguz are large, almost the size of tigers. The have long, powerful front and back legs. 
+
+## Languages
+
+* **Veen** *V-een*: Originally starting as a trading language, Veen was formalized and backed by Theanovene as a way to communicate with every region when Theanovene secured it's role as the central trade hub in Aurii. 
+
+* **Erain** *Eh-rain*: The language of tradition and the clergy. It's a flowing language and sounds beautiful when spoken. Songs sung in Erain are much beloved in other nations. The language is still in use in Eraia, most writing in the realm (asides from things meant for visitors and travellers) is Erain. The clergy has a variant written form of Eraia called "High Erain". It is heretical to read High Erain outside of a church and only the clergy may read it. 
+
+* **Drel** *Dre-ll**: The language of the Drecan people before they made contact with the mainland years ago. It's a easy to speak language, every word seems shorter than it's equivilant in another language. It can make Drel sound clipped and rushed when natives speak it. Drel is still very much in use in Dreca.
+
+* **Wynnish**: A dead language used by the Wynne people long before they started their relationship with Callorian Kingdoms. Long words define the language and speaking Wynnish is an art form. The words are unique and seem to carry a power to them. The language fell out of use and things that didn't exist back in the time it was used have no words in Wynnish. Wynnites use the occasional word from Wynnish day to day, but as accents rather than a way of communicating. 
 
 ## Magic
 
