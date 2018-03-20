@@ -81,7 +81,7 @@ This guide represents any setting information that is general knoweledge in the 
 
 *Our-rii* 
 
-[The World of Aurii Map]({% link _posts/aurii_posts/2017-09-01-aurii-map.md %})
+[The World of Aurii Map]({% link _posts/aurii/posts/2017-09-01-aurii-map.md %})
 
 ## Races
 
@@ -308,7 +308,7 @@ Wynne's primary exports are furs, plants that only grow in the cold weather and 
 
 ### Kingdoms of Callora
 
-**[Kingdoms of Callora]({% link _posts/aurii_posts/2017-9-16-kingdoms-of-callora.md  %})** The details of the individual kingdoms that make up Callora can be found here. The below information describes the alliance as a whole. 
+**[Kingdoms of Callora]({% link _posts/aurii/posts/2017-9-16-kingdoms-of-callora.md  %})** The details of the individual kingdoms that make up Callora can be found here. The below information describes the alliance as a whole. 
 
 *Game Note: Callora is by nature, a little vague. If you decide you want to be the heir to a particular kingdom with X trait and Y city, throw it into Callora. If I need a quick kingdom to cause trouble, I can throw it into Callora. Anyone who wants to work within Callora's slice of the world can do so, talk to me about it when you'd like to.*
 
