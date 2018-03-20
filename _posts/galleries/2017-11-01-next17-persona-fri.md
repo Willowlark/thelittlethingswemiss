@@ -1,6 +1,6 @@
 ---
 title: Persona at Animenext'17 (Friday)
-categories: gathering
+categories: group, cosplay, photoshoot
 tags: rss-gallery
 
 ---

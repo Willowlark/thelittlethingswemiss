@@ -1,6 +1,6 @@
 ---
 title: Pyrrha By Wezrez at Princeton University
-categories: personal
+categories: private, cosplay, photoshoot
 tags: rss-gallery
 ---
 

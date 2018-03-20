@@ -1,6 +1,6 @@
 ---
 title: Overwatch at AnimeNext'17
-categories: gathering
+categories: group, cosplay, photoshoot
 tags: rss-gallery
 ---
 

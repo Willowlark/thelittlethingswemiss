@@ -1,6 +1,6 @@
 ---
 title: Cheongsam Salem
-categories: personal
+categories: private, cosplay, photoshoot
 tags: 
 
 ---

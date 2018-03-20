@@ -1,6 +1,6 @@
 ---
 title: Gumshoe by Andrew Weindel at Zenkaikon'17
-categories: personal
+categories: private, cosplay, photoshoot
 tags: rss-gallery
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Shouhou by Flora at Otakon
-categories: personal
+categories: private, cosplay, photoshoot
 tags: rss-gallery
 ---
 

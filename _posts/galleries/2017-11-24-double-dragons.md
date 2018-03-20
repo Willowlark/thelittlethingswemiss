@@ -1,6 +1,6 @@
 ---
 title: Double Dragons by Wezrez and Mobiusmelt 
-categories: personal
+categories: private, cosplay, photoshoot
 tags: rss-gallery
 
 ---

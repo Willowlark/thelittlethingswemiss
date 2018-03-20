@@ -1,6 +1,6 @@
 ---
 title: Arkos 
-categories: personal
+categories: private, cosplay, photoshoot
 tags: 
 
 ---

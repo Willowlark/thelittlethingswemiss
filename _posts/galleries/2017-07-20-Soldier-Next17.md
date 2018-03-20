@@ -1,6 +1,6 @@
 ---
 title: Soldier76 by Andrew Weindel at AnimeNext'17
-categories: personal
+categories: private, cosplay, photoshoot
 tags: rss-gallery
 ---
 

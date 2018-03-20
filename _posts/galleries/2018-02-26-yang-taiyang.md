@@ -1,6 +1,6 @@
 ---
 title: Yang & Taiyang
-categories: personal
+categories: private, cosplay, photoshoot
 tags: 
 
 ---

@@ -1,6 +1,6 @@
 ---
 title: Beacon Princeton Coop at Princeton University
-categories: personal
+categories: private, cosplay, photoshoot
 tags: rss-gallery
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Rwby at Zenkaikon'17 Friday Shoot
-categories: gathering
+categories: group, cosplay, photoshoot
 tags: rss-gallery
 ---
 

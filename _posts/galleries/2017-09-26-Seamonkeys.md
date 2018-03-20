@@ -1,6 +1,6 @@
 ---
 title: Seamonkeys By Emerlingcosplay & Dudedoescos at Otakon
-categories: personal
+categories: private, cosplay, photoshoot
 tags: rss-gallery
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Schneesters & an Old Bird
-categories: personal
+categories: private, cosplay, photoshoot
 tags: 
 
 ---

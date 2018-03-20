@@ -1,6 +1,6 @@
 ---
 title: RWBY - Otakon Friday
-categories: gathering
+categories: group, cosplay, photoshoot
 tags: rss-gallery
 
 ---

@@ -1,6 +1,6 @@
 ---
 title: Glynda By Mak at Princeton University
-categories: personal
+categories: private, cosplay, photoshoot
 tags: rss-gallery
 ---
 

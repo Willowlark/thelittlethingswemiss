@@ -1,6 +1,6 @@
 ---
 title: Konkon Christmas Photoshoot (Night Photos)
-categories: gathering
+categories: group, cosplay, photoshoot
 tags: rss-gallery
 
 ---

@@ -1,6 +1,6 @@
 ---
 title: Fem!Dante by Rayna at AnimeNext'17
-categories: personal
+categories: private, cosplay, photoshoot
 tags: rss-gallery
 ---
 

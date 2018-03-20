@@ -6,7 +6,7 @@ Photoshoots in which I was the lead/only/etc photographer. I get to take my time
 
 You can also view them directly on [Flickr](https://www.flickr.com/photos/thelittlethingswemiss/collections/72157683275096381/).
 
-{% for post in site.categories.personal %}
+{% for post in site.categories.private %}
 * [{{ post.title }}]({{site.baseurl}}{{ post.url }}) *{{ post.date | date_to_string }}*
 {% assign images = post.content | split:"<img " %}
 {% for image in images %}

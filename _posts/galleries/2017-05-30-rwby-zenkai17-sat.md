@@ -1,6 +1,6 @@
 ---
 title: RWBY at Zenkaikon'17 Saturday Shoot
-categories: gathering
+categories: group, cosplay, photoshoot
 tags: rss-gallery
 ---
 
