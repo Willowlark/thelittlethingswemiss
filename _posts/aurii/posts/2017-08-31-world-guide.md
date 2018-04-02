@@ -1,7 +1,7 @@
 ---
 title: World Guide
-categories: aurii
-tags: aurii_key
+categories: article
+tags: aurii-pin aurii gm-blog
 excerpt: Information about the world.
 ---
 

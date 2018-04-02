@@ -1,7 +1,7 @@
 ---
 title: Introduction to Journaling
-categories: aurii
-tags: 
+categories: article
+tags: gm-blog aurii
 excerpt: How to make journal entries for the site.
 ---
 

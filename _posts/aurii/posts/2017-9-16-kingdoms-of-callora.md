@@ -1,6 +1,7 @@
 ---
 title: Kingdoms of Callora
-categories: unlisted
+categories: article
+tags: aurii 
 ---
 
 The following nations can be found inside the Callora Alliance. 

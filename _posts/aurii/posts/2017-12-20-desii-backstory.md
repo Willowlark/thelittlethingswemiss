@@ -1,7 +1,7 @@
 ---
 title: Desii Manette
-categories: unlisted
-tags: 
+categories: article
+tags: aurii desii
 
 ---
 

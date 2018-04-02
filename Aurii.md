@@ -12,7 +12,7 @@ Find below the key posts from the DM blog.
 
 ---
 
-{% for post in site.tags.aurii_key reversed %}
+{% for post in site.tags.aurii-pin reversed %}
 * [{{ post.title }}]({{site.baseurl}}{{ post.url }})
 > {{ post.excerpt }}
 {% endfor %}

@@ -1,7 +1,7 @@
 ---
 title: Tyndall Tower
-categories: aurii
-tags: 
+categories: article
+tags: gm-blog aurii
 
 ---
 
