@@ -1,6 +1,6 @@
 ---
 title: Renora Otakon
-categories: unlisted
+categories: steno
 ---
 
 Nora is clingy, Ren is accommodating. 

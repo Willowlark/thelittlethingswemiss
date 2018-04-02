@@ -1,6 +1,7 @@
 ---
 title: Spring Robin & Spring Lucina
 categories: steno
+tags: steno
 ---
 
 Andrew & Marisa - TBD & Kasei

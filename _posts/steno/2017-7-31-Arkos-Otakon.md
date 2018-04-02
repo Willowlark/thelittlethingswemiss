@@ -1,6 +1,6 @@
 ---
 title: Arkos
-categories: unlisted
+categories: steno
 ---
 
 

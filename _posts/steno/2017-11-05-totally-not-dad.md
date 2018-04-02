@@ -1,7 +1,7 @@
 ---
 title: Rwby & Qrow (Plus Taiyang)
-categories: unlisted
-tags: 
+categories: steno
+tags:  
 
 ---
 

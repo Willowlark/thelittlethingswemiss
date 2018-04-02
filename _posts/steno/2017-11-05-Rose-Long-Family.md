@@ -1,7 +1,7 @@
 ---
 title: Rose Long Family Photos
 categories: steno
-tags: 
+tags: steno 
 
 ---
 

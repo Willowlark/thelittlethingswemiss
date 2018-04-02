@@ -1,6 +1,6 @@
 ---
-title: 
-categories: unlisted
+title: Nora Otakon
+categories: steno
 ---
 
 Nora skips around alot. More bounce in her step is always a good idea.

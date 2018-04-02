@@ -1,6 +1,7 @@
 ---
 title: Swimsuits.Poses
 categories: steno
+tags: steno
 ---
 
 

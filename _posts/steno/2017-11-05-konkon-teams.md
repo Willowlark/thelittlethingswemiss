@@ -1,7 +1,7 @@
 ---
 title: Team Shots for Konkon
-categories: unlisted
-tags: 
+categories: steno
+tags:  
 
 ---
 

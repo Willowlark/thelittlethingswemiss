@@ -1,7 +1,7 @@
 ---
 title: Qrow & Taiyang
-categories: unlisted
-tags: 
+categories: steno
+tags:  
 
 ---
 
