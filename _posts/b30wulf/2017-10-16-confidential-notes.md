@@ -1,7 +1,7 @@
 ---
 title: Confidential Files of Important People
-categories: b30wulf
-tags: 
+categories: article
+tags: B30wulf
 
 ---
 
