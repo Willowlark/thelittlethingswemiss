@@ -1,7 +1,8 @@
 ---
 title: Rwby Saturday Photoshoot at Katsucon'18
-categories: group, cosplay, photoshoot
-tags: 
+categories: gallery
+tags: rss cosplay photoshoot group
+
 
 ---
 

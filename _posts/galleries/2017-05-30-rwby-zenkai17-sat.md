@@ -1,7 +1,8 @@
 ---
 title: RWBY at Zenkaikon'17 Saturday Shoot
-categories: group, cosplay, photoshoot
-tags: rss-gallery
+categories: gallery
+tags: rss cosplay photoshoot group
+
 ---
 
 This shoot is, as far as I can tell, my most well known work. 

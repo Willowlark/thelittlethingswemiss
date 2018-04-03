@@ -1,7 +1,8 @@
 ---
 title: Glynda By Mak at Princeton University
-categories: private, cosplay, photoshoot
-tags: rss-gallery
+categories: gallery
+tags: rss cosplay photoshoot private
+
 ---
 
 *Neither of us go to Princeton. That's what make it fun.*

@@ -1,7 +1,8 @@
 ---
 title: Shouhou by Flora at Otakon
-categories: private, cosplay, photoshoot
-tags: rss-gallery
+categories: gallery
+tags: rss cosplay photoshoot private
+
 ---
 
 Find Flora on [Instagram](https://www.instagram.com/sunfloradesuu/)!

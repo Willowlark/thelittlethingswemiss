@@ -1,7 +1,8 @@
 ---
 title: Schneesters & an Old Bird
-categories: private, cosplay, photoshoot
-tags: 
+categories: gallery
+tags: rss cosplay photoshoot private
+
 
 ---
 

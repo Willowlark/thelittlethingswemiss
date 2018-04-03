@@ -1,7 +1,8 @@
 ---
 title: Ozpin By MobiusMelt at Princeton University
-categories: private, cosplay, photoshoot
-tags: rss-gallery
+categories: gallery
+tags: rss cosplay photoshoot private
+
 ---
 
 Find MobiusMelt cosplay on [Instagram](https://www.instagram.com/mobiusmelt/)!

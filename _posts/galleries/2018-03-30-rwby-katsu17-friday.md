@@ -1,7 +1,8 @@
 ---
 title: Rwby Friday at Katsucon'17
-categories: group, cosplay, photoshoot
-tags: 
+categories: gallery
+tags: rss cosplay photoshoot group
+
 
 ---
 

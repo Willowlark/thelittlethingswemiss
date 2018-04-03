@@ -1,7 +1,8 @@
 ---
 title: Seamonkeys By Emerlingcosplay & Dudedoescos at Otakon
-categories: private, cosplay, photoshoot
-tags: rss-gallery
+categories: gallery
+tags: rss cosplay photoshoot private
+
 ---
 
 I've taken photos of Emerling cosplay quite a few times now. Just recently as Jaune in our [Team JNPR]({% link _posts/galleries/2017-09-16-Team-JNPR.md %}) photoshoot. During said shoot, I had told him multiple times to be "less Neptune". This photo shoot is exactly why. He's got Neptune's cool dialed in so well I *really* can't picture him as anything else. (No pun intended.) 

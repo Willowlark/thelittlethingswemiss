@@ -1,7 +1,8 @@
 ---
 title: Breakdance Miraculous Ladybug
-categories: private, cosplay, photoshoot
-tags: 
+categories: gallery
+tags: rss cosplay photoshoot private
+
 
 ---
 

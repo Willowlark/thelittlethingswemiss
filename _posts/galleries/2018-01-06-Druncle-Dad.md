@@ -1,7 +1,8 @@
 ---
 title: Druncle Dad - Emerling & Mercenary Cosplay
-categories: private, cosplay, photoshoot
-tags: rss-gallery
+categories: gallery
+tags: rss cosplay photoshoot private
+
 
 ---
 

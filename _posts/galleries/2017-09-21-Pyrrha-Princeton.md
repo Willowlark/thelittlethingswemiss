@@ -1,7 +1,8 @@
 ---
 title: Pyrrha By Wezrez at Princeton University
-categories: private, cosplay, photoshoot
-tags: rss-gallery
+categories: gallery
+tags: rss cosplay photoshoot private
+
 ---
 
 Find Wezrez cosplay on [Instagram](https://www.instagram.com/wezrez/)!

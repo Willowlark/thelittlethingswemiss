@@ -1,7 +1,8 @@
 ---
 title: Ranke Lee by Flora at AnimeNext'17
-categories: private, cosplay, photoshoot
-tags: rss-gallery
+categories: gallery
+tags: rss cosplay photoshoot private
+
 ---
 
 Find Flora on [Instagram](https://www.instagram.com/sunfloradesuu/) !

@@ -1,7 +1,7 @@
 ---
 title: Weiss by Wezrez at Kogarafest
 categories: unlisted
-tags: rss-gallery
+
 
 ---
 

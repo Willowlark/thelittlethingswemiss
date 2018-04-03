@@ -1,7 +1,8 @@
 ---
 title: RWBY at Otakon (Saturday Night)
-categories: group, cosplay, photoshoot
-tags: rss-gallery
+categories: gallery
+tags: rss cosplay photoshoot group
+
 
 ---
 

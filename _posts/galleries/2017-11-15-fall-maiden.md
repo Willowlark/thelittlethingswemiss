@@ -1,7 +1,8 @@
 ---
 title: Pyrrha Nikos - Fall Maiden
-categories: private, cosplay, photoshoot
-tags: rss-gallery
+categories: gallery
+tags: rss cosplay photoshoot private
+
 
 ---
 

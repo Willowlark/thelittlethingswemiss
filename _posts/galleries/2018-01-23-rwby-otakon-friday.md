@@ -1,7 +1,8 @@
 ---
 title: RWBY - Otakon Friday
-categories: group, cosplay, photoshoot
-tags: rss-gallery
+categories: gallery
+tags: rss cosplay photoshoot group
+
 
 ---
 

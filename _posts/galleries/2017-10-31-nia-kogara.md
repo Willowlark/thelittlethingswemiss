@@ -1,7 +1,8 @@
 ---
 title: Nia by Kasei Cosplay at Kogarafest
-categories: private, cosplay, photoshoot
-tags: rss-gallery
+categories: gallery
+tags: rss cosplay photoshoot private
+
 
 ---
 

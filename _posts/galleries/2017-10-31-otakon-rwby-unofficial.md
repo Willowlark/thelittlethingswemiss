@@ -1,7 +1,8 @@
 ---
 title: RWBY (Unofficial) at Otakon
-categories: group, cosplay, photoshoot
-tags: rss-gallery
+categories: gallery
+tags: rss cosplay photoshoot group
+
 
 ---
 

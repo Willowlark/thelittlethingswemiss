@@ -6,7 +6,7 @@ The series which is also my namesake. There are five galleries, each covering a 
 
 You can also view them directly on [Flickr](https://www.flickr.com/photos/thelittlethingswemiss/collections/72157682809997653/).
 
-{% for post in site.categories.tlt %}
+{% for post in site.tags.tlt %}
 * [{{ post.title }}]({{site.baseurl}}{{ post.url }}) *{{ post.date | date_to_string }}*
 {% assign images = post.content | split:"<img " %}
 {% for image in images %}

@@ -1,7 +1,8 @@
 ---
 title: Schnee-bilings at Kogarafest
-categories: private, cosplay, photoshoot
-tags: rss-gallery
+categories: gallery
+tags: rss cosplay photoshoot private
+
 
 ---
 

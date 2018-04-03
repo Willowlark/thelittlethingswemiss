@@ -1,7 +1,8 @@
 ---
 title: Copied City 
-categories: private, cosplay, photoshoot
-tags: rss-gallery
+categories: gallery
+tags: rss cosplay photoshoot private
+
 ---
 
 *Watching these two do a hate ship is personally very amusing to me. Context: I was in their wedding party.*

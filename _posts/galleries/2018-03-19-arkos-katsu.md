@@ -1,7 +1,8 @@
 ---
 title: Arkos 
-categories: private, cosplay, photoshoot
-tags: 
+categories: gallery
+tags: rss cosplay photoshoot private
+
 
 ---
 

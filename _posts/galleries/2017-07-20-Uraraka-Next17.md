@@ -1,7 +1,8 @@
 ---
 title: Uraraka by Kasei Cosplay at AnimeNext'17
-categories: private, cosplay, photoshoot
-tags: rss-gallery
+categories: gallery
+tags: rss cosplay photoshoot private
+
 ---
 
 Find Kasei cosplay on [Instagram](https://www.instagram.com/kaseicosplay/) or on [Facebook](https://www.facebook.com/KaseiCosplay/)! 

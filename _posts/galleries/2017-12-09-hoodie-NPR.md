@@ -1,7 +1,8 @@
 ---
 title: Hoodie _NPR by Wezrez, Raining_Jellyfish, & IamtheDark
-categories: private, cosplay, photoshoot
-tags: rss-gallery
+categories: gallery
+tags: rss cosplay photoshoot private
+
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Whitley by Mercenary Cosplay at Kogarafest
 categories: unlisted
-tags: rss-gallery
+
 
 ---
 

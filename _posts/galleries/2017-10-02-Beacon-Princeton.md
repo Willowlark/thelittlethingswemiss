@@ -1,7 +1,8 @@
 ---
 title: Beacon Princeton Coop at Princeton University
-categories: private, cosplay, photoshoot
-tags: rss-gallery
+categories: gallery
+tags: rss cosplay photoshoot private
+
 ---
 
 ### [Pyrrha's Individual Gallery]({% link _posts/galleries/2017-09-21-Pyrrha-Princeton.md %})

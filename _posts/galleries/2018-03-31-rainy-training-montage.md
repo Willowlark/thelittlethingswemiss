@@ -1,8 +1,7 @@
 ---
 title: Rainy Training
-categories: private, portrait, photoshoot
-tags: 
-
+categories: gallery
+tags: rss portraiture photoshoot private
 ---
 
 Practicing with your buddy isn't supposed to turn out good photos, and YET my girl Georgia makes test shots look amazing. Truly the best model, and more importantly friend a guy can ask for. 
