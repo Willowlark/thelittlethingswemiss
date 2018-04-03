@@ -2,7 +2,7 @@
 title: Theanovene Almanac Volume 1
 categories: issue
 tags: theanovene-almanac aurii
-excerpt: Volume one of the Theanovene Newscrafting Guild's guide to the world at large. (IC Article)
+excerpt: Volume one of the Theanovene Newscrafting Guild's guide to the world at large.
 ---
 
 Welcome to the 47th volume of the Theanovene Almanac. As always, we at the Theanovene Newscrafting Guild strive to bring you all the information we can about the world at large. The information published here is everything a fledging caravaneer may want to know going out into Aurii. 
