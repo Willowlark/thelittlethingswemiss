@@ -15,6 +15,7 @@ defaults:
       type: posts
     values:
       layout: titled
+
   - scope:
       path: "_posts/galleries"
       type: posts
