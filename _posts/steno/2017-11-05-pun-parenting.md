@@ -1,7 +1,7 @@
 ---
 title: Yang & Taiyang
 categories: steno
-tags:  
+tags: steno
 
 ---
 

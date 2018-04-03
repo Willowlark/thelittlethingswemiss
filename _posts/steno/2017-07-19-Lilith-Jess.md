@@ -1,7 +1,7 @@
 ---
 title: Lilith
 categories: steno
-tags: steno
+tags: steno rss
 ---
 
 Jess

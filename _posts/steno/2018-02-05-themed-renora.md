@@ -1,7 +1,7 @@
 ---
 title: Renora
 categories: steno
-tags: steno 
+tags: steno rss 
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: 
 categories: steno
-tags: 
+tags: steno
 ---
 
 The shield makes for the best Jaune poses. he's a shield bash kind of guy.

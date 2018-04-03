@@ -1,7 +1,7 @@
 ---
 title: Team JNPR Group shoot
 categories: steno
-tags: steno
+tags: steno rss
 ---
 
 Georgia, Ryan, Gen & Rob of Wezrez, ?, Azure Valkyire & skilletwolf.

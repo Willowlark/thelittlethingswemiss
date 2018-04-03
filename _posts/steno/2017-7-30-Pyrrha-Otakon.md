@@ -1,6 +1,7 @@
 ---
 title: Pyrrha Otakon
 categories: steno
+tags: steno
 ---
 
 [AnimeNext]({% link _posts/steno/2017-07-19-Pyrrha-Georgia.md %})

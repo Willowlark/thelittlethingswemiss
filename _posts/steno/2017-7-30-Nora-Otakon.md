@@ -1,6 +1,7 @@
 ---
 title: Nora Otakon
 categories: steno
+tags: steno
 ---
 
 Nora skips around alot. More bounce in her step is always a good idea.

@@ -1,7 +1,7 @@
 ---
 title: Miraculous Ladybug and Chat Noir
 categories: steno
-tags: steno 
+tags: steno rss 
 
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: Arkos
 categories: steno
+tags: steno
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 title: Copied City
 categories: steno
-tags: steno
+tags: steno rss
 ---
 
 [2B]({% link _posts/steno/2017-09-07-2b.md %})

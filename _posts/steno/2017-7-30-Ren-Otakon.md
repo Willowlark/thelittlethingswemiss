@@ -1,6 +1,7 @@
 ---
 title: Ren Otakon   
 categories: steno
+tags: steno
 ---
 
 
