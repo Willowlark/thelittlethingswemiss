@@ -1,7 +1,7 @@
 ---
 title: Weiss by Wezrez at Kogarafest
-categories: unlisted
-
+categories: gallery
+tags: cosplay photoshoot private
 
 ---
 
