@@ -1,7 +1,7 @@
 ---
 title: Cosplay Photography!
-categories: blog
-tags: 
+categories: article
+tags: main-blog
 excerpt: All the compiled notes and tips I've found for doing cosplay photography.
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Photoshoot Map
-categories: blog
-tags: 
+categories: article
+tags: main-blog
 excerpt: Map of on location shoot ideas. 
 ---
 

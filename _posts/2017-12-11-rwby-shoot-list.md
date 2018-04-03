@@ -1,7 +1,7 @@
 ---
 title: RWBY Group Photoshoot List
-categories: blog
-tags: 
+categories: article
+tags: main-blog
 
 ---
 
