@@ -13,8 +13,6 @@ excerpt: How to make a character and play the game.
     - [NPCs](#npcs)
     - [Damage](#damage)
     - [Side Goals](#side-goals)
-        - [Walkthrough of Play](#walkthrough-of-play)
-        - [Conflict](#conflict)
     - [[Wushu's Rule Book](http://danielbayn.com/wushu/)](#wushus-rule-bookhttpdanielbayncomwushu)
 - [The Gameplay Areas](#the-gameplay-areas)
     - [IC (In Character)](#ic-in-character)
@@ -24,12 +22,15 @@ excerpt: How to make a character and play the game.
 - [Character Generation](#character-generation)
     - [Aspects](#aspects)
         - [Assorted thoughts on aspects from me:](#assorted-thoughts-on-aspects-from-me)
-        - [Special Aspects](#special-aspects)
+    - [Approaches](#approaches)
     - [Points assignments](#points-assignments)
-        - [The Default Trait:](#the-default-trait)
-    - [Building a character:](#building-a-character)
+    - [Fate Points](#fate-points)
+        - [Invoking](#invoking)
+        - [Compels](#compels)
 
 <!-- /TOC -->
+
+* **UNDER CONSTRUCTION**
 
 # Rules
 
@@ -56,16 +57,6 @@ When you need to do something in Wushu, and there's an *obstacle* in your way, y
 4. Decide how many dice that, if rolled as hits, will reduce the *threat level* (attack dice) and how many dice will protect you from damage (defense dice). 
 5. Roll all the attack dice and then all the defense dice. For every die that comes out **less than or equal to** your *target number*, you succeed. Every success on an attack die reduces the threat level by one, every success on a defense die prevents on damage done to you. 
 
-How this is going to work in post format:
-
-1. You'll write up a post covering part number 1 above.
-2. I'll read your post, and *discord react* the number of dice you'll get for your post. 
-3. You'll *edit your post* and add to the bottom "Attack: X, Defense: Y" where X and Y are how many of your pool you are putting into each group. 
-4. I'll post with the results of your rolls and the NPCs reactions to your actions. 
-  > For the sake of speed, I'm following a recommendation in Wushu's book to roll the dice for the players in a play by post environment. I'll be using the dice roller bot and you'll be able to see the rolls in the dice channel. 
-
-5. Rinse and Repeat.
-
 ## NPCs
 
 You are allowed to introduce a new NPC to scene, if that NPC makes sense to be there. Don't put the pope in the sewers, but a priest being in a church makes sense. This NPC can't give you plot relevant information, but can hold a short conversation with your character. If you want to buy beer from the bar for example, the GM doesn't need to write in the innkeeper for that. You can also introduce the character as someone your about to talk to, with an opening line or wave or the like. If you do that, the DM can take over the character you popped into the scene. 
@@ -74,66 +65,13 @@ The only exception to using NPCs is ones that the GM is *voicing*, or controllin
 
 ## Damage 
 
-At the start of a fight, every player character receives 3 hit points. You aren't defeated until you can't lose anymore hit points. (Till you take damage at 0 hit points.) Every round the threat you're fighting deals *one automatic hit* to every player. If you rolled defense dice, any successes you rolled with them are used before your hit points. 
+At the start of a fight, every player character receives 4 hit points. Every round the threat you're fighting deals *one automatic hit* to every player. If you rolled defense dice, any successes you rolled with them are used before your hit points. 
 
 Enemies that are more than just mooks have their own hit points and rather than a single automatic hit they get to roll their own attack and defense dice. You'll be informed when a *Nemesis* appears in a scene.  
 
 ## Side Goals
 
 Often you will do something in a turn that is unrelated to defeating the threat or objective of the action. These side goals in the scenario also have a threat number to be defeated. The only difference is that a side goal does not get an automatic hit against the players. These side goals do not have to be completed, though it's almost always in your benefit to complete them. 
-
-### Walkthrough of Play
-
-A scene will start with a post looking like this:
-
-![](https://i.imgur.com/vwWfQEQ.png)
-
-While the NPC section may be skipped if there are no NPCs, the other sections are always going to be there to give you a reference point. That said, this block represents the **start** of the scene. If an NPC or character enters the scene later, that's not going to be reflected in the above post. 
-
-Following the scene setting post, the GM will have an opening post for the round. To continue off the scene set above, we have this post:
-
-![](https://i.imgur.com/hfhClrV.png)
-
-Once the GM has started the round, each player gets to post once. (For the sake of brevity only Alice and Bob will have posts in the example.)
-
-![](https://i.imgur.com/JOsoxhW.png)
-
-![](https://i.imgur.com/znLcVNz.png)
-
-Alice's post is fairly standard. It describes her thoughts and and actions. Bob's is a little more complicated. When you want to ask a handful of quick questions to an NPC (The kind that have quick responses) you can put a list of questions in a *quote block* like below. (Note those are the **backtick** symbol, located on the same key as **~**.) If you only have one question, you don't have to do this whole thing. The goal is to do a few rounds of question, answer; question, answer; all at once. If you'd like to have a more in depth, personal conversation, you can start an Aside, detailed in the next section.
-
-<pre>
-```
-1.
-2.
-```
-</pre>
-
-When the time on the round has expired, the GM will post again, responding to what everyone's doing in the scene.
-
-![](https://i.imgur.com/PIPhmEZ.png)
-
-In this post you can see the response to Bob's questions are numbered. However rather than dig into more conversation, some action is afoot! Alice and Bob could certainly leave Larry to his fate, but what self respecting hero would do that? (We're skipping Bob too now, because we're trying to keep the example short.)
-
-![](https://i.imgur.com/7silgt2.png)
-
-![](https://i.imgur.com/QecSlPD.png)
-
-![](https://i.imgur.com/zlCnTbB.png)
-
-### Conflict
-
-Well Alice's actions certainly didn't make her any fans. The third round has started a *conflict* which needs to be resolved (which is started by the third post above). The **entire conflict** has a score of 6. Any action taken to resolving the conflict that succeeds will reduce this number. This doesn't mean you have to knock out 6 ruffians. Be creative! 
-
-![](https://i.imgur.com/sFzoJ6y.png)
-
-Alice is decidedly not creative. Take note here, as the GM it was never said the door was left open. If you need a detail to add to how you made your action, add it! As long as it doesn't conflict with something someone else said that's okay. Now not pictured, the GM will react to your post with a number. This number will be up to the *dice pool* number on the conflict and is awarded based on the details in your post. The more dice you have, the more dice you dedicate to either trying to reduce the threat number or protect yourself.
-
-When you try to reduce the threat number, the GM will decide what the most relevant trait you have to the action you're doing is. The GM will roll as many dice as you dedicated to reducing it and for every die that comes up **under** your trait **number** you reduce the threat by one. 
-
-When you protect yourself, you use the **same** trait as the one used with reducing rolls. For every die rolled under the trait number you prevent one hit against you. There is **one automatic hit** against you by the threat itself every round. If there's an enemy character that's rolling dice, they can score hits against you the same way you can against them. You have three hit points (though you aren't out till you hit negative!). Those hit points reset every encounter.
-
-For the above example, The GM awards Alice 3 dice. Alice's player adds the bottom of the post `Attack: 2, Defense: 1`. The GM, before the next round, will roll the dice in the dice channel for Alice's attacks and defense against her most relevant trait. If Alice doesn't roll for her one defense, she gets hit once. For every hit she gets on her attacks, she reduces the threat number. At this point the rounds loop until the threat or players have no level/hp left. The winner gets to narrate their victory and regular rounds resume. 
 
 ## [Wushu's Rule Book](http://danielbayn.com/wushu/)
 
@@ -210,79 +148,28 @@ In addition, you don't want your aspects to overlap. Have them define different 
 
 * You don't want two aspects that say the same thing. Spread out, explore some other aspects (no pun intended) of their personality.
 
-* Make sure your aspect related to a conflict. Having an aspect that says you're always going to open the door for women is a great personality trait; but the odds of you needing to win a contest to do that are pretty low. (A particularly common example here is *I can/can't escape from things*. You don't need to roll to run away or stand your ground.)
-
 * **If you need help with aspects, I recommend crowd sourcing it to the channel.** It's hard to come up with them sometimes, in my opinion. 
 
-### Special Aspects
-
-The following are two special styles of traits in Wushu. If you so desire, we can discuss using them with your character. 
-
-> **Milestone Traits** - To really get Campbellian on their asses, you should plan out a series of three milestones for any new Trait. Each time the player meets one of these challenges, or makes a milestone choice, the Trait increases by one. For example, a hero trying to master an ancient and cursed weapon might have the following milestones ahead:
-
-> 1. Use the weapon to defeat an enemy in combat.
-> 2. Use the weapon to defend an enemy from harm.
-> 3. Use the weapon to prevent a fight you want to win.
-
-> At first, using this weapon would mean rolling against the default target number of 2. After their first combat victory, the relevant Trait increases to 3. After successfully defending a hated enemy, the Trait increases to 4. Finally, after learning the true value of human life (awww), the Trait increases to 5. Only those who do not seek power are fit to wield it.
-
-> **Two-Sided Traits** - If you want to drive home a character’s dramatic arc, consider giving them a pair of opposed Traits like Occult Power and Sanity, Honor and Freedom, or Loved and Feared. These two Traits always have 6 points between them; increasing one means decreasing the other. You could have Occult Power 4 and Sanity 2 (4+2=6), but never Occult Power 4 and Sanity 3 (4+3=7). Pushing either Trait to level 5 means turning the other into a Weakness.
-
-> Unlike normal Traits, these are meant to be adjusted during play. Any time the player makes a choice that pushes in one direction, increase/decrease the Trait ratings accordingly. Do this before the dice are rolled, so the player is always faced with the temptation of quick power. Never let them adjust it back in the other direction right away, though. Choices mean little without consequence.
+## Approaches
 
 ## Points assignments
 
-You can choose any one of these you'd like to define your character. Your best bet is to list the aspects you want to define for your character *before* you assign them numbers. 
+6 point spread, each approach starts at 2. Can't have a 6 in an approach, range is 1-5.
 
-```
-5 - Trait 1
-4 - Trait 2
-3 - Trait 3
-1 - Weakness
-```
+## Fate Points
 
-```
-4 - Trait 1
-4 - Trait 2
-4 - Trait 3
-1 - Weakness
-```
+Each player begins with 3 Fate points. Fate points are used to *invoke* aspects and are rewarded/spent when being *compelled* by an aspect. 
 
-```
-5 - Trait 1
-3 - Trait 2
-3 - Trait 3
-3 - Trait 4
-1 - Weakness
-```
+### Invoking
 
-```
-5 - Trait 1
-5 - Trait 2
-1 - Weakness
-```
+When an aspect of the character feels relevant to a challenge the character is facing, a character can *invoke* that aspect by spending a Fate point. This translates to an additional 2 dice in your dice pool, and these dice can *exceed* the dice pool limit. 
 
-```
-3 - Trait 1
-3 - Trait 2
-3 - Trait 3
-3 - Trait 4
-3 - Trait 5
-3 - Trait 6
-1 - Weakness
-```
+One can also invoke an aspect on *another aspect in the scene*. That aspect could belong to another character involved, a situation that's occurred, or it could be even tied to the location the scene is in. An example of this could be you are facing off against a person with the Aspect "Hard to Calm Down". You say that because he is hard to calm down, he won't be able to avoid your attack because he's raging too much. You can get an invocation bonus in that scenario for *making use of the world around you.*
 
-### The Default Trait:
+### Compels
 
-If you do not have a relevant trait to an action, you use what's called the *everything else* trait. Quite simply, everyone gets a a free trait called *everything else* with a number of 2. If you don't have trait related to what you're doing, use 2. 
+A compel will usually come from the GM side. A compel is a challenge to a character, saying "Because of your Aspect X, you would do this action." Usually, the action being compelled is a negative one that will cause more trouble for the character and the people around them. The exact details of the action can be discussed between the compeler and compelee, but the core of the action will remain the same. Because of this, when you do the action you're being compelled to do, you are *rewarded one Fate point*. If you decide your character will not do the action in the compel, you must *spend one Fate point* to resist the compulsion. 
 
-Example: You want to sing in a musical. You have the "theatre is my life" aspect at 5. Because the musical relates to your "theatre is my life" aspect, you get to use 5 as your difficulty. (It's a roll under system, higher is better.)
-What if you don't have that aspect? All three of your aspects relate to video games? Then you're difficulty number is 2.
+Sometimes compels will be less about a character's decisions and just about how they are. If a character has an Aspect "Strange Luck", sometimes that Aspect will be compelled against when something strange happens around the character. Since the strange thing was going to happen anyway, you get a free Fate point. 
 
-## Building a character:
-
-* **Step one:**: Write up aspects for your character. Come up with a bunch, it can't hurt to explain your character more. Don't forget to give them a weakness as well.
-* **Step two**: Decide what point assignment you'll be using. Stick your aspects into the template.
-* **Step three**: Give your character a name. 
-
-You're done! 
+It is possible for a player to compel against an opponent in combat. If the "peg legged pirate" is chasing you across his ship, you might point out that he's got a peg leg and can't run that fast. If the GM agrees, you can spend a Fate point to give a penalty to the opponent because of their aspect. 
