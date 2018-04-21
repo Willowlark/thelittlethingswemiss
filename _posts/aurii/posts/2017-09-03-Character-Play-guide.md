@@ -7,6 +7,7 @@ excerpt: How to make a character and play the game.
 
 <!-- TOC -->
 
+- [**UNDER CONSTRUCTION**](#under-construction)
 - [Rules](#rules)
     - [Narrative Truth](#narrative-truth)
     - [Conflict Resolution](#conflict-resolution)
@@ -30,7 +31,7 @@ excerpt: How to make a character and play the game.
 
 <!-- /TOC -->
 
-* **UNDER CONSTRUCTION**
+# **UNDER CONSTRUCTION**
 
 # Rules
 
