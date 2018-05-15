@@ -7,23 +7,27 @@ excerpt: This might not supposed to be public.
 
 # Circuit List 
 
-Month | Name                          | Overnight | Length
-------|-------------------------------|-----------|-------
-Jan   | Cosplay Ice Skating           | ☀️        |
-Feb   | Katsucon                      | 🛏        |
-Apr   | Kinda!con                     | ☀️        |
-Apr   | Sakura Sunday                 | ☀️        |
-May   | Zenkaikon                     | 🛏        |
-May   | Castle Point Anime Convention | ☀️        |
-Jun   | AnimeNext                     | 🛏        |
-Jul   | Connecticon                   | 🛏        |
-Jul   | We Rise Mag Beach Shoot       | ☀️        |
-Aug   | Otakon                        | 🛏        |
-Sep   | Colossalcon East              | 🛏        |
-Nov   | Kogarafest                    | ☀️        |
-Nov   | AnimeNYC                      | ☀️        |
-Nov   | Cosplay Roller Skating        | ☀️        |
-Dec   | Konkon Xmas                   | ☀️        |
+*Tier: higher tier, more days off required to enjoy full con. Tier 1, one day, Tier 2, two days...*
+
+Month | Name                          | Overnight | Length | Tier
+------|-------------------------------|-----------|--------|-----
+Jan   | Cosplay Ice Skating           | ☀️        |        | 0
+Jan   | Magfest                       | 🛏        | 4      | 2
+Feb   | Katsucon                      | 🛏        |        | 2
+Mar   | Zenkaikon                     | 🛏        |        | 1
+Apr   | Kinda!con                     | ☀️        |        | 0
+Apr   | Sakura Sunday                 | ☀️        |        | 0
+Apr   | Anime Boston                  | 🛏        |        | 2
+May   | Castle Point Anime Convention | ☀️        |        | 0
+Jun   | AnimeNext                     | 🛏        |        | 1
+Jul   | Connecticon                   | 🛏        |        | 2
+Jul   | We Rise Mag Beach Shoot       | ☀️        |        | 0
+Aug   | Otakon                        | 🛏        |        | 2
+Sep   | Colossalcon East              | 🛏        |        | 1
+Nov   | Kogarafest                    | ☀️        |        | 0
+Nov   | AnimeNYC                      | ☀️        |        | 0
+Nov   | Cosplay Roller Skating        | ☀️        |        | 0
+Dec   | Konkon Xmas                   | ☀️        |        | 0
 
 # Bookings
 
@@ -31,7 +35,47 @@ Dec   | Konkon Xmas                   | ☀️        |
 
 The per night is the the nightly by the number of people that night. Do that for each night if people are attending different timeframes in the room, it'll all add up the same way.
 
-## Zenkaikon
+## Katsucon'19
+
+Base Info    | One Room  | Two Rooms
+-------------|-----------|-----------
+Total:       | $969.76   | $1939.52
+Total/Night: | $273.76   | $547.52
+Room/Night:  | $210 + 22 | $210 + 22
+Tax/Night:   | 18%       | 18%
+Rooms:       | 1         | 2
+Nights:      | 4         | 4
+
+Room | Split | Per Night | Applies
+-----|-------|-----------|-----------
+1    | 4     | $68.44  |
+1    | 5     | $54.75  |
+1    | 6     | $45.62  |
+2    | 6     | $91.25  |
+2    | 7     | $78.21  | 
+2    | 8     | $68.44  | 
+2    | 9     | $60.83  |
+2    | 10    | $54.75  | 
+2    | 11    | $49.77  |
+2    | 12    | $45.62  | 
+
+Number... | Staying | Grand Total | Formula
+----------|---------|-------------|----------
+9         | 4       | 243.32      | 60.83*4
+
+1. **Bill Clark**
+2. Andrew Weindel
+3. Jess Garrity
+4. Tom Garrity
+5. Dave Cruz
+
+1. Georgia Sandidge
+2. Halim Hamroun
+3. Mac
+4. Ryan Emerling
+
+
+## Zenkaikon'18
 
 Base Info    | One Room | Two Rooms
 -------------|----------|--------
@@ -46,15 +90,15 @@ Room | Split | Per Night | Applies
 -----|-------|-----------|--------
 1    | 4     | $39       | 
 1    | 5     | $31       |
-1    | 6     | $26       | Thurs?
-2    | 6     | $52       | Thurs?
-2    | 7     | $44       |
-2    | 8     | $39       | Fri, Sat
+1    | 6     | $26       | 
+2    | 6     | $52       | 
+2    | 7     | $44       | Sat, Thurs
+2    | 8     | $39       | Fri
 
 Number... | Staying | Grand Total | Formula
 ----------|---------|-------------|----------
-6         | 3       | 140         | 52+44+44
-1         | 2       | 88          | 44*2
+7         | 3       | 128         | 44+40+44
+1         | 1       | 40          | 40
 
 1. **Bill Clark**
 2. Andrew Weindel
@@ -65,7 +109,7 @@ Number... | Staying | Grand Total | Formula
 7. Georgia Sandidge
 8. 
 
-## AnimeNext
+## AnimeNext'18
 
 Base Info    | One Room | Two Rooms
 -------------|----------|-----------
@@ -86,61 +130,23 @@ Room | Split | Per Night | Applies
 
 Number... | Staying | Grand Total | Formula
 ----------|---------|-------------|----------
-10        | 3       | $150         | 50*3
+10        | 3       | $145        | 50+45+50
+1         | 1       | $45         | 45
 
 1. **Bill Clark**
-2. Tom Garrity
-3. Jess Garrity
-4. Justin Smith
-5. Rayna
-6. Andrew Weindel
-7. John G
-8. Aaron Hill
-9. Georgia Sandidge
-10. Halim Hamroun
-11. 
-12. 
+2. Andrew Weindel
+3. John G
+4. Aaron Hill
+5. Dave Cruz
 
-<!-- ## Otakon
-
-### Grand Hyatt
-
-Base Info    | One Room | Two Rooms
--------------|----------|--------
-Total:       | $702.58  | $1405.16 
-Total/Night: | $234     | $468 
-Room/Night:  | $204     | $204   
-Tax:         | 90.58    | 90.58    
-Rooms:       | 1        | 2      
-Nights:      | 3        | 3      
-
-Room | Split | Per Night | Applies
------|-------|-----------|--------
-1    | 3     | $78       | 
-1    | 4     | $58       | 
-1    | 5     | $46       |
-1    | 6     | $39       | 
-2    | 6     | $78       | 
-2    | 7     | $66       |
-2    | 8     | $58       | 
-
-Number... | Staying | Grand Total | Formula
-----------|---------|-------------|----------
-3         | 3       | $234         | 46*3
-4         | 3       | $174         | 46*3
-5         | 3       | $138         | 46*3
-6         | 3       | $117         | 39*3
-
-
-1. **Bill Clark**
-2. Andrew Weindel 
-3. Jess Garrity
-4. Tom Garrity
+1. Tom Garrity
+2. Jess Garrity
+3. Justin 
+4. Rayna
 5. Georgia Sandidge
-6. Halim Hamroun
-7. Marisa Ditkoff -->
+6. Halim Hamroun 
 
-## Colossal East
+## Colossal East'18
 
 _            | One Room                         | Two Rooms
 -------------|----------------------------------|--------
