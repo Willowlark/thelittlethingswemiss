@@ -62,6 +62,7 @@ Room | Split | Per Night | Applies
 Number... | Staying | Grand Total | Formula
 ----------|---------|-------------|----------
 9         | 4       | 243.32      | 60.83*4
+9         | 3       | 182.49      | 60.83*3
 
 1. **Bill Clark**
 2. Andrew Weindel
