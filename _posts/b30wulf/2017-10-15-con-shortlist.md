@@ -75,6 +75,46 @@ Number... | Staying | Grand Total | Formula
 3. Mac
 4. Ryan Emerling
 
+## Katsucon'19 ATRIUM
+
+Base Info    | One Room  | Two Rooms
+-------------|-----------|-----------
+Total:       | $1260.24  | $2520.48
+Total/Night: | $315.06   | $630.12
+Room/Night:  | $245 + 22 | $245 + 22
+Tax/Night:   | 18%       | 18%
+Rooms:       | 1         | 2
+Nights:      | 4         | 4
+
+Room | Split | Per Night | Applies
+-----|-------|-----------|-----------
+1    | 4     | $78.76   |
+1    | 5     | $63.01   |
+1    | 6     | $52.51   |
+2    | 6     | $105.02  |
+2    | 7     | $90.01   | 
+2    | 8     | $78.76   | 
+2    | 9     | $70.01   |
+2    | 10    | $63.01   | 
+2    | 11    | $57.28   |
+2    | 12    | $52.51   |
+
+Number... | Staying | Grand Total | Formula
+----------|---------|-------------|----------
+9         | 4       | 280.04      | 70.01*4
+9         | 3       | 210.03      | 70.01*3
+
+1. **Bill Clark**
+2. Andrew Weindel
+3. Jess Garrity
+4. Tom Garrity
+5. Dave Cruz
+
+1. Georgia Sandidge
+2. Halim Hamroun
+3. Mac
+4. Ryan Emerling
+
 
 ## Zenkaikon'18
 
@@ -161,14 +201,16 @@ Nights:      | 3                                | 3
 
 Room | Split | Per Night | Applies
 -----|-------|-----------|--------
-1    | 4     | $62       | 
-1    | 5     | $70       |
-1    | 6     | $76       | 
-2    | 6     | $83       | 
-2    | 7     | $71       |
-2    | 8     | $62       | 
-2    | 9     | $67       | 
-2    | 10    | $71       | 
+1    | 4     | $62       |
+1    | 5     | $71       |
+1    | 6     | $76       |
+2    | 6     | $84       |
+2    | 7     | $72       |
+2    | 8     | $62       |
+2    | 9     | $67       |
+2    | 10    | $71       |
+2    | 11    | $74       |
+2    | 12    | $84       |
 
 Number... | Staying | Rooms... | Grand Total | Formula
 ----------|---------|----------|-------------|---------
