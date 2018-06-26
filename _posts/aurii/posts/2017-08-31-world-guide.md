@@ -407,6 +407,10 @@ Eraia has the largest military on the continent. As part of the church, soldiers
 
 Occasionally enthusiasm is taken for skill in Eraia. While Eraia has plenty of ace units whose careers are highly decorated, there are just as many soldiers out to do their part in the name of the Goddess with no concept of what fighting on the battlefield means. Because of this an army fighting Eraia's may occasionally defeat one man and rout a regiment. At the same time, single men in Eraia's military can take out an entire regiment on their own. It's best to never underestimate the Eraia crusaders.
 
+Lyall's Lighthouse is actually a military building. Loranrowe lighthouse was built as Eraia built up it's navy to spread the word of Lylalel to the other continents. While it's primary purpose was as a lighthouse, it has held many military conferences and entire floors of the tower are dedicated to supplies for the crusades. In modern times, some of the lower floors have been dedicated to a museum of the Kouneli island's conquest in the name of Lylalel.
+
+The top of the lighthouse is not open air. It's very hard to tell from the distance a ship usually sees Loranrowe from but the light is surrounded by stained glass, depicting Lylalel's soldiers sailing out in her name. On rare nights the setting sun illuminates the panes and projects them onto a part in central Lyall. It's a beautiful sight. 
+
 ### Trade & Economy
 
 Eraia exports worked metal, glass, and other practical items as well as minerals mined in the desert. The primary imports of Eraia are wax, furs, and foreign meats. It's trade routes aren't short, travelling south from Theanovene, across the southern pennisula, and then across the water to the capital. It would be faster for Eraia to work with Callora, but the tension between the country makes structured trade between them impossible. 
