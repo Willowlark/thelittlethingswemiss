@@ -8,6 +8,9 @@ excerpt: All the compiled notes and tips I've found for doing cosplay photograph
 <!-- TOC -->
 
 - [Marisa's Photoshoot Guide!](#marisas-photoshoot-guide)
+- [On set Checklist](#on-set-checklist)
+    - [Grooming](#grooming)
+    - [Posing](#posing)
 - [Posing Tips](#posing-tips)
     - [Group photoshoots](#group-photoshoots)
 - [Things to watch for](#things-to-watch-for)
@@ -38,6 +41,18 @@ excerpt: All the compiled notes and tips I've found for doing cosplay photograph
 
 > There’s probably a ton of other stuff but yeah that’s all I can think of probably for now maybe. please rate/ask questions/provide criticism and don't forget to subscribe
 
+## On set Checklist
+
+### Grooming
+
+* Con badge
+* Weapon check tags/zipties
+* Push up glasses if any
+
+### Posing
+
+* Lean on back leg to look slimmer 
+* Shoulders back
 
 ## Posing Tips
 
