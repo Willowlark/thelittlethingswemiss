@@ -52,6 +52,7 @@ plugins:
 
 name: The Little Things We Miss
 url: thelittlethingswemiss.us
+description: Photography by William Raymond Clark of the Little Things We Miss
 
 pagination:
   enabled: true

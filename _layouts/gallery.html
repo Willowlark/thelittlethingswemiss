@@ -12,6 +12,16 @@
     {% include analytics.html %}
     {% endif %}
     <title>{{ page.title | default: site.title }}</title>
+    <meta name="author" content="Bill Clark" />
+    <meta property="og:title"
+    content="{% if page.title %}{{ page.title | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.title }}{% endif %}">
+    <meta property="og:description" content="{{ site.description }}"/>
+    <meta property="og:image" content="{% assign images = page.content | split:'<img ' %}{% for image in images %}{% if image contains 'src=' %}{% assign imageMarkup = image | split:'"' %}{{ imageMarkup[1] }}{% break %}{% endif %}{% endfor %}"/>'
+    <meta property="og:url" content="{{site.baseurl}}{{ page.url }}" />
+    <meta property="og:site_name" content="{{ site.title }}" />
+    <meta property="og:locale" content="en_US" />
+
+    
   </head>
 
   <body>
@@ -26,7 +36,7 @@
       <section>
         <div id="title">
           <h1>{{ site.title | default: site.github.repository_name }}</h1>
-          <h2>{{ site.description | default: site.github.project_tagline }}</h2>
+          
           <hr>
           {% include credits.html %}
         </div>
