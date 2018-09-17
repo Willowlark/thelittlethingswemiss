@@ -202,31 +202,35 @@ Nights:      | 3                                | 3
 
 Room | Split | Per Night | Applies
 -----|-------|-----------|--------
-1    | 4     | $62       |
-1    | 5     | $71       |
-1    | 6     | $76       |
-2    | 6     | $84       |
+2    | 6     | $83.2     |
 2    | 7     | $72       |
-2    | 8     | $62       |
-2    | 9     | $67       |
-2    | 10    | $71       |
-2    | 11    | $74       |
-2    | 12    | $84       |
+2    | 8     | $63       |
+2    | 9     | $60       |
+2    | 10    | $57       |
+2    | 11    | $55       |
+2    | 12    | $54       |
 
 Number... | Staying | Rooms... | Grand Total | Formula
 ----------|---------|----------|-------------|---------
-6         | 3       | 1        | $228        | 76*3
-6         | 3       | 2        | $249        | 83*3
+8         | 3       | 2        | $175        | 63+57+57
+2         | 2       | 2        | $112        | 00+57+57
+1         | 1       | 2        | $55         | 00+00+55
 
-1. **Bill Clark**
-2. Jess Garrity <!--(paid half the down payment) -->
-3. Tom Garrity <!-- (paid half the down payment) -->
-4. Dave Cruz
-5. Joe
-6. Georgia Sandidge
-7. Halim Hamroun
-8. Andrew?
-9. 
-10. 
-11. 
-12. 
+Bed  | Name               | T   | F   | S   | Total |
+-----|--------------------|-----|-----|-----|-------|--------------------------------------
+1.1  | **Bill Clark**     | Y   | Y   | Y   |   3   |
+1.1  | Kurtis             | Y   | Y   | Y   |   3   |
+1.2  | **Dave Cruz**      | Y   | Y   | Y   |   3   |
+1.2  | Joe                | Y   | Y   | Y   |   3   |
+1.s  | Justin             | N   | Y   | Y   |   2   |
+1.s  | Rayna              | N   | Y   | Y   |   2   |
+2.1  | **Jess Garrity**   | Y   | Y   | Y   |   3   |
+2.1  | **Tom Garrity**    | Y   | Y   | Y   |   3   |
+2.2  | Georgia Sandidge   | Y   | Y   | Y   |   3   |
+2.2  | **Halim Hamroun**  | N   | N   | Y   |   1   |
+2.s  | **Leanna**         | Y   | Y   | Y   |   3   |
+2.s  |                    |     |     |     |       |
+---  | ------------------ | --- | --- | --- | ---   | ---
+Sum  |                    | 8   | 10  | 11  |       |
+
+*Bed notation: room.bed, s is sofabed, f is floor*
