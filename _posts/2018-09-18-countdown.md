@@ -1,5 +1,5 @@
 ---
-title: Countdown to Colossalcon
+title: Countdown to Colossalcon East
 categories: article
 tags: main-blog
 excerpt: We all know I mean swim and drink con.
@@ -9,7 +9,7 @@ excerpt: We all know I mean swim and drink con.
 
 <script>
 // Set the date we're counting down to
-var countDownDate = new Date("Sep 6, 2018 5:00:00").getTime();
+var countDownDate = new Date("Sep 12, 2019 12:00:00").getTime();
 
 // Update the count down every 1 second
 var x = setInterval(function() {
