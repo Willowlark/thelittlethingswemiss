@@ -132,5 +132,13 @@ excerpt: All the compiled notes and tips I've found for doing cosplay photograph
 ![](https://i0.wp.com/digital-photography-school.com/wp-content/uploads/2012/09/1265290_10151718816568049_1522393560_o.jpg?resize=600%2C600&ssl=1)
 ![](https://i2.wp.com/digital-photography-school.com/wp-content/uploads/2012/04/posing-guide-men.jpg?resize=600%2C600&ssl=1)
 ![](https://i0.wp.com/digital-photography-school.com/wp-content/uploads/2012/05/Posing-Guide-for-Photographing-Couples.jpg?resize=600%2C600&ssl=1)
+![](https://66.media.tumblr.com/07170bce34fc05bb4c01e47de2a157ae/tumblr_inline_o35176zPxY1tyn0tw_500.jpg)
+![](https://66.media.tumblr.com/c10f904795e22a52c1fc0bc731f8af2f/tumblr_inline_o35193MFH21tyn0tw_500.jpg)
+![](https://66.media.tumblr.com/152094bcb989a7c7ab9a93e5ea06c6ca/tumblr_inline_o3528gy7mf1tyn0tw_500.jpg)
+![](https://66.media.tumblr.com/c70b4cb15cb646e6c65af419e7183628/tumblr_inline_o351avCLvD1tyn0tw_500.jpg)
+![](https://66.media.tumblr.com/086decba3ef4038f7ad6bf89cf8c7143/tumblr_inline_o351egp3JR1tyn0tw_500.jpg)
+![](https://66.media.tumblr.com/0583e9683e9bc656ba39efbc8cd4a7e4/tumblr_inline_o351fjMj8i1tyn0tw_500.jpg)
+![](https://66.media.tumblr.com/e4e507af1189da44532af300a95ac57b/tumblr_inline_o351ggzQ1h1tyn0tw_500.jpg)
+![](https://66.media.tumblr.com/0759957f58b68ff2739922e7f6eefa8e/tumblr_inline_o351hoi23w1tyn0tw_500.jpg)
 
 *Moar* [Digital Photography School](https://digital-photography-school.com/8-posing-guides-to-inspire-your-portraiture/)
