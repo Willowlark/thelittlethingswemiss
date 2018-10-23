@@ -35,46 +35,6 @@ Dec   | Konkon Xmas                   | ☀️        |        | 0
 
 The per night is the the nightly by the number of people that night. Do that for each night if people are attending different timeframes in the room, it'll all add up the same way.
 
-## Katsucon'19
-
-Base Info    | One Room  | Two Rooms
--------------|-----------|-----------
-Total:       | $969.76   | $1939.52
-Total/Night: | $273.76   | $547.52
-Room/Night:  | $210 + 22 | $210 + 22
-Tax/Night:   | 18%       | 18%
-Rooms:       | 1         | 2
-Nights:      | 4         | 4
-
-Room | Split | Per Night | Applies
------|-------|-----------|-----------
-1    | 4     | $68.44  |
-1    | 5     | $54.75  |
-1    | 6     | $45.62  |
-2    | 6     | $91.25  |
-2    | 7     | $78.21  | 
-2    | 8     | $68.44  | 
-2    | 9     | $60.83  |
-2    | 10    | $54.75  | 
-2    | 11    | $49.77  |
-2    | 12    | $45.62  | 
-
-Number... | Staying | Grand Total | Formula
-----------|---------|-------------|----------
-9         | 4       | 243.32      | 60.83*4
-9         | 3       | 182.49      | 60.83*3
-
-1. **Bill Clark**
-2. Andrew Weindel
-3. Jess Garrity
-4. Tom Garrity
-5. Dave Cruz
-
-1. Georgia Sandidge
-2. Halim Hamroun
-3. Mac
-4. Ryan Emerling
-
 ## Katsucon'19 ATRIUM
 
 Base Info    | One Room  | Two Rooms
@@ -101,19 +61,18 @@ Room | Split | Per Night | Applies
 
 Number... | Staying | Grand Total | Formula
 ----------|---------|-------------|----------
-9         | 4       | 280.04      | 70.01*4
-9         | 3       | 210.03      | 70.01*3
+4         | 4       | 288.79      | 78.76+70.01*3
+5         | 3       | 210.03      | 70.01*3
 
 1. **Bill Clark**
 2. Andrew Weindel
 3. Jess Garrity
 4. Tom Garrity
 5. Dave Cruz
-
-1. Georgia Sandidge
-2. Halim Hamroun
-3. Mac
-4. Ryan Emerling
+6. Georgia Sandidge
+7. Halim Hamroun
+8. Mac
+9. Marisa Ditkoff
 
 
 ## Zenkaikon'18
