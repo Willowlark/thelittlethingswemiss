@@ -49,6 +49,7 @@ flickr:
 google_analytics: UA-109921332-1
 plugins:
   - jekyll-paginate-v2
+  - jekyll-sitemap
 
 name: The Little Things We Miss
 url: thelittlethingswemiss.us
