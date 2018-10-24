@@ -18,6 +18,7 @@ layout: null
 		{% for post in site.tags.rss limit:20 %}
         {% if post.tags contains "cosplay" %}
 			<item>
+                <title>{{post.title}}</title>
 				<description></description>
 				<pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
 				<link>{{site.url}}{{ post.url }}</link>
