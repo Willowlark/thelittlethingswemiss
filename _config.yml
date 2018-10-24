@@ -50,9 +50,10 @@ google_analytics: UA-109921332-1
 plugins:
   - jekyll-paginate-v2
   - jekyll-sitemap
+  - jekyll-seo-tag
 
 name: The Little Things We Miss
-url: thelittlethingswemiss.us
+url: http://thelittlethingswemiss.us
 description: Photography by William Raymond Clark of the Little Things We Miss
 
 pagination:

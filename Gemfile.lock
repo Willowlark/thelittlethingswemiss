@@ -28,6 +28,8 @@ GEM
       jekyll (~> 3.0)
     jekyll-sass-converter (1.5.0)
       sass (~> 3.4)
+    jekyll-seo-tag (2.5.0)
+      jekyll (~> 3.3)
     jekyll-sitemap (1.2.0)
       jekyll (~> 3.3)
     jekyll-watch (1.5.0)
@@ -58,6 +60,7 @@ PLATFORMS
 DEPENDENCIES
   flickraw
   jekyll-paginate-v2
+  jekyll-seo-tag
   jekyll-sitemap
   jekyll-theme-midnight!
 
