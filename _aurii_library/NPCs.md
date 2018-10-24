@@ -2,7 +2,7 @@
 title: NPC Directory
 categories: article
 tags: aurii-pin gm-blog aurii
-excerpt: A directory of all the NPCs encounters in Aurii
+excerpt: A running list of important names and faces a certain group of adventurers have crossed path with in their travels. While it is certainly not all to the men and women listed, it's not a poor summary either. 
 ---
 
 <!-- TOC -->

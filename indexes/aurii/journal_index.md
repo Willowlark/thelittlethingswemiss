@@ -3,7 +3,7 @@ title: Aurii Library
 permalink: /aurii_library/index.html
 ---
 
-Listed below are in character collections of character journals and world writings. Each player has leeway with their character's journal beyond that it must remain **canon only**, and **in character**. The details of how these journals are made technically can be found [here]({% link _posts/aurii/posts/2017-12-27-journaling.md  %}). The index page for each character is also an in character section.
+The Aurii Library (Located in Theanovene, for anyone curious) is a collection of documents that chronicle the world as a whole, it's people, the events, and stories that take place with in it. Find below Aurii's history, people, and current events. 
 
 ---
 

@@ -1,11 +1,9 @@
 ---
 title: World Guide
-categories: article
-tags: aurii-pin aurii gm-blog
-excerpt: Information about the world.
+excerpt: The following is the international primer on the Nations and people of Aurii. Additionally covered is a short history of the nations and their interaction, including the First Eraian Crusade and The Drecian Conflict. This document, while large, is well regarded all the greatest introduction to world at large for one of any age.
 ---
 
-This guide represents any setting information that is general knoweledge in the game. It will always be available, but read up and familiarize yourself with the realm. 
+This guide represents any setting information that is general knowledge in the game. It will always be available, but read up and familiarize yourself with the realm. 
 
 <!-- TOC -->
 
