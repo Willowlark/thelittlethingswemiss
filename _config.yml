@@ -1,10 +1,16 @@
+name: The Little Things We Miss
+url: http://thelittlethingswemiss.us
+baseurl: 
+title: The Little Things We Miss
+description: Photography by William Raymond Clark of the Little Things We Miss
+
 theme: jekyll-theme-midnight
 show_downloads: false
-title: The Little Things We Miss
-baseurl: 
+
 collections:
-  aurii_journals:
+  aurii_library:
     output: true
+
 defaults:
   - scope:
       path: ""
@@ -15,7 +21,6 @@ defaults:
       type: posts
     values:
       layout: titled
-
   - scope:
       path: "_posts/galleries"
       type: posts
@@ -25,7 +30,6 @@ defaults:
       path: "indexes"
     values:
       layout: titled
-
   - scope:
       path: "indexes/aurii"
     values:
@@ -37,28 +41,28 @@ defaults:
       layout: aurii
   - scope:
       path: ""
-      type: aurii_journals
+      type: aurii_library
     values:
       layout: aurii
+
 flickr:
   cache_dir: "./_cache/flickr"
   api_key: 6b3911916a3253512d800718fb1d088b
   shared_secret: 4b1f75ac49facdc2
   access_token: 72157686481612465-4a910c3f2740549d
   access_secret: 5394c7951808871d
+
 google_analytics: UA-109921332-1
+
 plugins:
   - jekyll-paginate-v2
   - jekyll-sitemap
   - jekyll-seo-tag
 
-name: The Little Things We Miss
-url: http://thelittlethingswemiss.us
-description: Photography by William Raymond Clark of the Little Things We Miss
 
 pagination:
   enabled: true
-  per_page: 5
+  per_page: 10
   permalink: '/page/:num/'
   title: ':title - page :num'
   limit: 0
