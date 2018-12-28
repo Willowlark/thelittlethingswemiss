@@ -78,8 +78,8 @@ Room | Split | Per Night | Applies
 
 Number... | Staying | Grand Total | Formula
 ----------|---------|-------------|----------
-6         | 4       | 262.54      | 52.51+70.01*3
-3         | 3       | 210.03      | 70.01*3
+6         | 4       | 288.79      | 52.51+70.01*3
+2         | 3       | 236.28      | 70.01*3
 
 1. **Bill Clark**
 2. Andrew Weindel
@@ -88,6 +88,7 @@ Number... | Staying | Grand Total | Formula
 5. Dave Cruz
 6. Georgia Sandidge
 7. Marisa Ditkoff
+8. Tristan Fink
 
 ## Zenkaikon'19
 
