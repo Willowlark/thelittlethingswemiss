@@ -29,7 +29,7 @@ tags: B30wulf
 **Approaches**
 Careful: `+2`
 Clever: `+1`
-Flashy: `+1`
+Flashy: `0`
 Forceful: `+3`
 Quick: `+1`
 Sneaky: `+2`
