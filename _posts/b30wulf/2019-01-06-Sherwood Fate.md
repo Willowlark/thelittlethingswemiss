@@ -19,17 +19,24 @@ tags: B30wulf
 6  Severe: 
 
 **Aspects**
+* Hunter of Man’s greatest predator
+* Oswald's son want Tristram to display in his museum
+* To destroy the Grimm the Grimm must be understood, like any other prey 
+* There is beauty in simplicity
+* Stone and steel do not make for good forests
 
 
 **Approaches**
-Careful: 
-Clever:
-Flashy: 
-Forceful: 
-Quick: 
-Sneaky: 
+Careful: `+2`
+Clever: `+1`
+Flashy: `+1`
+Forceful: `+3`
+Quick: `+1`
+Sneaky: `+2`
 
 **Stunt:**
+
+Because I've trained with Tristram and can handle the full strength of the bow, I get a +2 when I act pick one: Carefully over pull the bow by taking an extra turn to shoot.
 ```
 # Vitals
 
@@ -61,7 +68,17 @@ Sherwood's combat apparel starts with a [hip bag](https://i.pinimg.com/564x/35/8
 
 # History
 
+Sherwood was born to a family of hunters in a small village on the western border of Vale. He grew up there, one of very few children in his age bracket. Sherwood never bonded with the others in his age group, preferring to spend as much time as possible learning his father's trade. Sherwood began hunting as soon as he was old enough to, starting on squirrels and rabbits outside the village walls before moving on to proper game. He was taught carefully how to avoid attracting Grimm while stalking game. He was also taught that Grimm are the apex predator out in the woods; they will overpower the unsuspecting hunter and kill them outright. 
+
+In his early teens, Sherwood went deeper in the woods than usual and was caught by a surprise rain storm. He slid down an embankment by accident, ending up outside a den of Beowolves. Lamenting his mistakes he braced to end up in pieces, but an iron arrow head flew over his shoulder, killing the lead beowolf in a single shot. An older man approached from the deep woods, wielding a massive bow that had no bowstring. The man fired his whole quiver as Sherwood got away from the cave mouth, killing one if not two Grimm with every arrow. With the last arrow the man leans into the nearest tree, clearly exhausted. A single beowolf remains, and stalks towards the man. Sherwood takes aim, waiting patiently for his shot and taking it just in time. The arrow doesn't kill the beowolf, but slows it enough for the man to knife the beowolf. 
+
+Sherwood takes the exhausted man back to the village, after reclaiming his unique arrows from the once Grimm corpses. The man's name is Oswald Noir, of the Noir family. He is a legendary huntsman, though long past his prime. Oswald takes a liking to Sherwood, offering to teach the boy combat archery techniques. Sherwood accepts, and is a quick study. Time passes and Sherwood gains a drive from Oswald, a drive to hunt the apex predator of humans. Unfortunately Oswald's health starts to get worse. Sherwood and his family take care of the man in his last days, as he refuses to return to his family to squabbles with his son, who relinquished the role of huntsman to run a museum of huntsman paraphernalia for profit. Oswald's last gift to Sherwood is his custom weapon, Tristram. Oswald asked Sherwood to carry on in his footsteps, to be the hunter of Grimm his own son failed to be. Sherwood accepts, enticed by the same drive the man himself had. 
+
+Sherwood trains further with Tristram, focusing entirely on his archery. It gets him through Beacon practicals, and between his own work and a recommendation written by Oswald he got past the written exams. He leaves for Beacon to learn about the Grimm, because to know thine enemy is necessary for their destruction. 
+
 # Personality
+
+Sherwood is a simplistic person. He sees the beauty in simplicity, relishing in silence and his tasks. He enjoys hunting because it is both solitary and something that requires focus. Sherwood is very observant and in touch with his surroundings due to his skills as a hunter. He is a good student when he has an interest in the subject; he otherwise finds book learning dull. He is primarily a learn by doing type. Sherwood has personal drive to become powerful enough to hunt Grimm, who he considers predators of man. Sherwood can be very independent in his planning process, a hold over from being a hunter. Sherwood is occasionally naive, as he tends to be narrow minded in his learning. 
 
 # Combat Ability
 
