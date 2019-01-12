@@ -65,30 +65,33 @@ Nights:      | 4         | 4
 
 Room | Split | Per Night | Applies
 -----|-------|-----------|-----------
-1    | 4     | $78.76    |
+1    | 4     | $78.76    | Su
 1    | 5     | $63.01    |
 1    | 6     | $52.51    |
 2    | 6     | $105.02   |
 2    | 7     | $90.01    | 
 2    | 8     | $78.76    | 
-2    | 9     | $70.01    |
-2    | 10    | $63.01    | 
+2    | 9     | $70.01    | Th
+2    | 10    | $63.01    | F Sa
 2    | 11    | $57.28    |
 2    | 12    | $52.51    |
 
 Number... | Staying | Grand Total | Formula
 ----------|---------|-------------|----------
-6         | 4       | 288.79      | 52.51+70.01*3
-2         | 3       | 236.28      | 70.01*3
+4         | 4       | 274.79      | 70.01+63.01*2+78.76
+5         | 3       | 196.03      | 70.01+63.01*2
+1         | 2 F Sa  | 126.02      | 63.01*2
 
 1. **Bill Clark**
-2. Andrew Weindel
-3. Jess Garrity
-4. Tom Garrity
-5. Dave Cruz
-6. Georgia Sandidge
-7. Marisa Ditkoff
-8. Tristan Fink
+2. Jess Garrity
+3. Tom Garrity
+4. Dave Cruz
+5. Georgia Sandidge
+6. Marisa Ditkoff
+7. Tristan Fink
+8. Scott 
+9. Anna Kern
+10. Pasquale 
 
 ## Zenkaikon'19
 
