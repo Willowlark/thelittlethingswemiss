@@ -30,20 +30,6 @@ defaults:
       path: "indexes"
     values:
       layout: titled
-  - scope:
-      path: "indexes/aurii"
-    values:
-      layout: aurii
-  - scope:
-      path: "_posts/aurii"
-      type: posts
-    values:
-      layout: aurii
-  - scope:
-      path: ""
-      type: aurii_library
-    values:
-      layout: aurii
 
 flickr:
   cache_dir: "./_cache/flickr"
