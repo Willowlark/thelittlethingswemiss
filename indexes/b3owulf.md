@@ -5,7 +5,7 @@ permalink: /b30wulf/
 
 *This a secured area. Are you supposed to be here?*
 
-{% for post in site.tags.B30wulf %}
-* [{{ post.title }}]({{site.baseurl}}{{ post.url }}) *{{ post.date | date_to_string }}*
-> {{ post.excerpt }}
+{% for item in site.b30wulf %}
+# [{{ item.title }}]({{site.baseurl}}{{item.url}})
+> {{ item.excerpt }}
 {% endfor %}

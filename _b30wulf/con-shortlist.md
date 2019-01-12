@@ -1,7 +1,5 @@
 ---
 title: Convention Shortlist
-categories: article
-tags: B30wulf
 excerpt: This might not supposed to be public.
 ---
 

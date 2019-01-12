@@ -1,8 +1,5 @@
 ---
 title: Confidential Files of Important People
-categories: article
-tags: B30wulf
-
 ---
 
 GM Notes for the Play by Post.
