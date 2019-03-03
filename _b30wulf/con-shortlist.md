@@ -13,36 +13,55 @@ def mid(tn, r, s1, s2):
 
 # Circuit List 
 
-Month | Name                          | Length | Days
-------|-------------------------------|--------|-----
-Jan   | Kotoricon                     | 2      | F-Sa
-Jan   | Cosplay Ice Skating           | 1      | Sat
-Jan   | Magfest                       | 4      | ?
-Feb   | Katsucon                      | 3      | Th-M
-Mar   | Zenkaikon                     | 3      | Th-S
-Apr   | Sakura Sunday                 | 1      | Sun
-Apr   | Anime Boston                  | 3      | ?
-Apr   | Castle Point Anime Convention | 2      | Sat
-Jun   | AnimeNext                     | 3      | Th-S
-Jul   | Connecticon                   | 3      | ?
-?     | We Rise Mag Beach Shoot       | 1      | Sat
-Jul   | Otakon                        | 3      | Th-S
-Sep   | Colossalcon East              | 3      | Th-S
-Nov   | AnimeNYC                      | 3      | Sat?
-?     | Cosplay Roller Skating        | 1      | ?
-Dec   | Konkon Xmas                   | 1      | Sat
+Month | Name                          |Going | Length | Days
+------|-------------------------------|------|--------|-----
+Jan   | Kotoricon                     |X     | 2      | F-Sa
+Jan   | Cosplay Ice Skating           |      | 1      | Sat
+Jan   | Magfest                       |      | 4      | ?
+Feb   | Katsucon                      |X     | 3      | Th-M
+Mar   | Zenkaikon                     |X     | 3      | Th-S
+Apr   | Kogaracon                     |X     | 1      | Sa
+Apr   | Sakura Sunday                 |X     | 1      | Sun
+Apr   | Anime Boston                  |      | 3      | ?
+Apr   | Castle Point Anime Convention |      | 2      | Sat
+May   | Geekdom                       |?     | 3      | F-S
+Jun   | AnimeNext                     |X     | 3      | Th-S
+Jul   | Connecticon                   |      | 3      | ?
+?     | We Rise Mag Beach Shoot       |      | 1      | Sat
+Jul   | Otakon                        |X     | 3      | Th-S
+Sep   | Colossalcon East              |X     | 3      | Th-S
+Nov   | AnimeNYC                      |X     | 3      | Sat?
+?     | Cosplay Roller Skating        |      | 1      | ?
+Dec   | Konkon Xmas                   |      | 1      | Sat
 
 ## My Circuit
 
 Con    | Badge | Hotel | Count
 -------|-------|-------|------
-Kotori | Y     | N     | -
-Katsu  | Y     | Y     | 7
-Zenkai | Y     | Y     | 
+Kotori | Y     |       | -
+Katsu  | Y     | N     | 
+Zenkai | Y     | Y     | 11
 Next   | Y     | Y     | 12
 Ota    |       | Y     | 
-CCE    |       | Y     |
-ANYC   | Y     | Y     |
+CCE    |       | Y     | 
+ANYC   | Y     | Y     | 
+
+<!-- ## Con Squad
+
+1. Bill Clark
+2. Jess Garrity
+3. Tom Garrity
+4. Andrew Weindel
+5. John G
+6. Aaron Hill
+7. Justin Smisko
+8. Rayna Smith
+9. Georgia Sandidge
+10. Dave Cruz
+11. Kurtis Whritenour
+12. Marisa Ditkoff
+13. Leanna Malure
+14. Erik Bjorken -->
 
 # Bookings
 
@@ -118,6 +137,19 @@ Room | Split | Per Night | Applies
 Number... | Staying | Grand Total | Formula
 ----------|---------|-------------|--------
           |         |             |
+          
+1. Bill Clark
+2. Andrew Weindel
+3. John G
+4. Jess Garrity
+5. Tom Garrity
+6. Georgia Sandidge
+7. Rayna Smith
+8. Justin Smisko
+9. Leanna Malure
+10. Erik Bjorken
+11. Kurtis Whritenour
+12. 
 
 ## AnimeNext'19
 
@@ -142,6 +174,19 @@ Number... | Staying | Grand Total | Formula
 ----------|---------|-------------|--------
           |         |             |
 
+1. Bill Clark
+2. Jess Garrity
+3. Tom Garrity
+4. Andrew Weindel
+5. John G
+6. Aaron Hill
+7. Justin Smisko
+8. Rayna Smith
+9. Georgia Sandidge
+10. Dave Cruz
+11. Kurtis Whritenour
+12. Marisa Ditkoff
+<!-- Would love to add Erik, Leanna to group but lol -->
 
 ## Otakon'19
 
@@ -170,6 +215,18 @@ Room | Split | Per Night | Applies
 Number... | Staying | Grand Total | Formula
 ----------|---------|-------------|--------
           |         |             |
+
+1. Bill Clark
+2. Jess Garrity
+3. Tom Garrity
+4. Dave Cruz
+5. Georgia Sandidge
+6. Andrew Weindel
+7. Marisa Ditkoff
+8. 
+
+9. 
+10. 
 
 ## Colossal East'18 2 Deserts
 
@@ -203,6 +260,18 @@ Number... | Staying | Grand Total | Formula
 ----------|---------|-------------|--------
 12        | 3       | 158.91      | 52.97*3
 
+1. Bill Clark
+2. Jess Garrity
+3. Tom Garrity
+4. Dave Cruz
+5. Georgia Sandidge
+6. Justin Smisko
+7. Rayna Smith
+8. Leanna Malure
+9. Erik Bjorken
+10. Kurtis Whritenour
+11. Marisa Ditkoff
+12. Andrew Weindel
 
 ## AnimeNYC'19
 
@@ -226,3 +295,10 @@ Room | Split | Per Night | Applies
 Number... | Staying | Grand Total | Formula
 ----------|---------|-------------|--------
           |         |             |
+          
+<!-- 1. Bill Clark
+2. Jess Garrity
+3. Tom Garrity
+4. Erik Bjorken
+5. Rebecca Smith
+6. Georgia Sandidge -->
