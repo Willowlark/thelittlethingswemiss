@@ -1,5 +1,5 @@
 ---
-title: Nier:Automata Shoot List
+title: Nier:Automata Call List
 categories: article
 tags: main-blog
 excerpt: Call list for a Nier Automata Photoshoot

@@ -1,5 +1,5 @@
 ---
-title: RWBY Group Photoshoot List
+title: RWBY Call List
 categories: article
 tags: main-blog
 
@@ -27,15 +27,23 @@ tags: main-blog
 * Team FNKI 
 * *LAST CALL FOR TEAMS*
 
-## FAMILY GROUP SHOTS:
+## FAMILY / GROUP SHOTS:
 
 * Rose/Branwen/Xiao Long Family
 * Schnee Family
 * Belladonna Family
 * All Faunus 
-* Genderbends
-* AU Costumes
+* Ozpin variants
 * LAST CALL FOR FAMILY *(GROUP SHOTS)*
+
+## AUs
+
+* Genderbends
+* Grimm AU
+* RWBY 3.0
+* Henceforward
+* RWBYwatch
+* RWBYlands
 
 ## WEAPONS SHOT
 
@@ -61,17 +69,29 @@ tags: main-blog
 * Velvet Scarlatina
 * Yatsuhashi Daichi
 
-* Oscar Pine
+* Flynt Coal 
+* Neon Katt
+
 * Professor Ozpin 
+* Oscar Pine
+* Ozma
 * Professor Goodwitch
 * Professor Oobleck
 * Professor Port
+* Leonardo Lionheart
 
 * James Ironwood
 * Penny Polendina
 * Winter Schnee
 * Whitley Schnee
 * Jacques Schnee
+* Klein 
+
+* Summer Rose
+* Taiyang Xiao Long
+* Qrow Branwen
+* Raven Branwen
+* Vernal 
 
 * Salem
 * Cinder Fall
@@ -90,24 +110,20 @@ tags: main-blog
 * White Fang Members
 * Ilya
 
-* Summer Rose
-* Taiyang Xiao Long
-* Raven Branwen
-* Qrow Branwen
-
-* Flynt Coal 
-* Neon Katt
-
-* White Knight
-* Klein 
-* Pilot Boi
-* Vernal 
-
 * Ghira Belladona
 * Kali Belladona
 * Corsac/Fennec
 
-* Leonardo Lionheart
+<!-- Season 6 -->
+
+* God of Light
+* God of Darkness
+* Jinn
+* Maria Calavera
+* Terra Cotta
+* Saffron Arc
+
+* Pilot Boi
 
 * Grimm
 * LAST CALL FOR INDIVIDUAL SHOTS
@@ -117,7 +133,7 @@ tags: main-blog
 * White Rose *(RubyxWeiss)*
 * Freezerburn *(YangxWeiss)*
 * Monochrome *(WeissxBlake)*
-* Bumbleby *(YangxBlake)*
+* Bumblebee *(YangxBlake)*
 * Ladybug *(BlakexRuby)*
 * White Knight *(JaunexWeiss)*
 * Arkos *(JaunexPyrrha)*
