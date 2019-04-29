@@ -38,9 +38,9 @@ Dec   | Konkon Xmas                   |      | 1      | Sat
 
 Con    | Badge | Hotel | Count
 -------|-------|-------|------
-Kotori | Y     |       | -
-Katsu  | Y     | N     | 
-Zenkai | Y     | Y     | 11
+Kotori |       |       | -
+Katsu  | N     | Y     | 10
+Zenkai | N     | N     | 12
 Next   | Y     | Y     | 12
 Ota    |       | Y     | 
 CCE    |       | Y     | 
@@ -69,11 +69,12 @@ ANYC   | Y     | Y     |
 
 The per night is the the nightly by the number of people that night. Do that for each night if people are attending different timeframes in the room, it'll all add up the same way.
 
-## Katsucon'19 ATRIUM
+## Katsucon'20 ATRIUM
 
+**Out of Date**
 Base Info    | One Room  | Two Rooms
 -------------|-----------|-----------
-Total:       | $1260.24  | $2520.48
+Total:       | $1180.24  | $2520.48
 Total/Night: | $315.06   | $630.12
 Room/Night:  | $245 + 22 | $245 + 22
 Tax/Night:   | 18%       | 18%
@@ -104,10 +105,10 @@ Number... | Staying | Grand Total | Formula
 4. Georgia Sandidge
 5. Marisa Ditkoff
 6. Dave Cruz
-7. Tristan Fink
-8. Scott
-9. Anna Kern
-10. Pasquale
+7. 
+8. Andrew Weindel
+9. Erik Bjorken
+10. 
 
 ## Zenkaikon'19
 
