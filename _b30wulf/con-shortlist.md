@@ -171,9 +171,11 @@ Room | Split | Per Night | Applies
 2    | 11    | 45.43     |
 2    | 12    | 41.64     |
 
-Number... | Staying | Grand Total | Formula
-----------|---------|-------------|--------
-          |         |             |
+Number... | Staying  | Grand Total | Formula
+----------|----------|-------------|--------
+9         | 3 nights | 147         | 45.43*2+55.52
+2         | 2 nights | 91          | 45.43*2
+
 
 1. Bill Clark
 2. Jess Garrity
@@ -185,9 +187,8 @@ Number... | Staying | Grand Total | Formula
 8. Rayna Smith
 9. Georgia Sandidge
 10. Dave Cruz
-11. Kurtis Whritenour
-12. Marisa Ditkoff
-<!-- Would love to add Erik, Leanna to group but lol -->
+11. Marisa Ditkoff
+12. 
 
 ## Otakon'19
 
