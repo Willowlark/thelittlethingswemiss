@@ -194,49 +194,42 @@ Number... | Staying  | Grand Total | Formula
 
 Base Info    | One Room | Two Rooms
 -------------|----------|-----------
-Total:       | $748.77  | $1497.54
-Total/Night: | $249.44  | $499.7
-Room/Night:  | $217     | $434
-Tax/Night:   | 14.95%   | 14.95%
-Rooms:       | 1        | 2
-Nights:      | 3        | 3
+Total:       | $748.77  | 
+Total/Night: | $249.44  | 
+Room/Night:  | $217     | 
+Tax/Night:   | 14.95%   | 
+Rooms:       | 1        | 
+Nights:      | 3        | 
 
 Room | Split | Per Night | Applies
 -----|-------|-----------|--------
-1    | 4     | 62.36     |
-1    | 5     | 49.89     |
-1    | 6     | 41.57     |
-2    | 6     | 83.15     |
-2    | 7     | 71.27     |
-2    | 8     | 62.36     |
-2    | 9     | 55.43     |
-2    | 10    | 49.89     |
-2    | 11    | 45.35     |
-2    | 12    | 41.57     |
+1    | 4     | 62.25     |
+1    | 5     | 49.80     |
+1    | 6     | 41.50     |
+1    | 7     | 35.57     |
+
 
 Number... | Staying | Grand Total | Formula
-----------|---------|-------------|--------
-          |         |             |
+----------|---------|-------------|--------------
+6         | 3       | 118.57      | 41.50*2+35.57
+1         | 1       | 35.57       | 35.57
 
 1. Bill Clark
 2. Jess Garrity
 3. Tom Garrity
-4. Dave Cruz
-5. Georgia Sandidge
+4. Kurtis Whritenour
+5. Erik Bjorken
 6. Andrew Weindel
 7. Marisa Ditkoff
-8. 
 
-9. 
-10. 
 
-## Colossal East'18 2 Deserts
+## Colossal East'19 2 Deserts
 
 _            | One Room                         | Two Rooms
 -------------|----------------------------------|--------
 Total:       | $743.43, 848.43, 953.43          | $1907.46
 Total/Night: | $247.81, 282.81, 317.81          | $495.62, 530.62, 595.62, 600.62, 635.63
-Room/Night:  | $209 +35 for 5,6                 | $418 + 35 for 9+
+Room/Night:  | $209 + 35 for 5,6                | $418 + 35 for 9+
 Tax/Night:   | 20 + 9%                          | 40 + 9% 
 Rooms:       | 1                                | 2
 Nights:      | 3                                | 3
@@ -265,8 +258,8 @@ Number... | Staying | Grand Total | Formula
 1. Bill Clark
 2. Jess Garrity
 3. Tom Garrity
-4. Dave Cruz
-5. Georgia Sandidge
+4. Allison 
+5. Nick
 6. Justin Smisko
 7. Rayna Smith
 8. Leanna Malure
@@ -275,7 +268,7 @@ Number... | Staying | Grand Total | Formula
 11. Marisa Ditkoff
 12. Andrew Weindel
 
-## AnimeNYC'19
+<!-- ## AnimeNYC'19
 
 Base Info    | One Room     | Two Rooms
 -------------|--------------|-----------
@@ -298,9 +291,9 @@ Number... | Staying | Grand Total | Formula
 ----------|---------|-------------|--------
           |         |             |
           
-<!-- 1. Bill Clark
+1. Bill Clark
 2. Jess Garrity
 3. Tom Garrity
 4. Erik Bjorken
 5. Rebecca Smith
-6. Georgia Sandidge -->
+6. Georgia Sandidge --> 
