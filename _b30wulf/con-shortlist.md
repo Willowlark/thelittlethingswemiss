@@ -253,7 +253,9 @@ Total/Night | Room | Split | Per Night | Applies
 
 Number... | Staying | Grand Total | Formula
 ----------|---------|-------------|--------
-12        | 3       | 158.91      | 52.97*3
+8         | 3       | 167.79      | 59.56+52.97*2
+4         | 2       | 105.95      | 52.97*2
+<!-- 12        | 3       | 158.91      | 52.97*3 -->
 
 1. Bill Clark
 2. Jess Garrity
