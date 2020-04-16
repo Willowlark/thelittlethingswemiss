@@ -1,5 +1,6 @@
 ---
 title: Photography Blog
+permalink: /indexes/blog/
 ---
 
 {% for post in site.tags.main-blog %}
