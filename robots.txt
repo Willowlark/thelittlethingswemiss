@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+sitemap: http://www.thelittlethingswemiss.us/sitemap.xml

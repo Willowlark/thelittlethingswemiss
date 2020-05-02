@@ -1,0 +1,15 @@
+_site
+.sass-cache
+Gemfile.lock
+*.gem
+_drafts
+.DS_Store
+_jekyll-rss-feeds
+
+# Bill's workspace additions
+\[*\].*
+\[*\]/
+.vscode
+**/.DS_Store
+.idea
+**/*.pyc

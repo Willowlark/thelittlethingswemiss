@@ -1,0 +1,85 @@
+---
+---
+
+@import "jekyll-theme-midnight";
+
+.wrapper {
+    max-width: 800px;
+}
+
+#header nav {
+    max-width: 800px;
+}
+
+section {
+    max-width: 800px;
+}
+
+li.fork {
+    margin-right: 6px;
+}
+
+@media print, screen and (max-width: 700px) {
+
+  #header {
+    margin-top: 0px;
+    height: auto;
+    position: static;
+  }
+
+  section {
+    margin-top: 0px;
+  }
+  #header nav 
+  {
+      background: url(../images/nav-bg.gif) #353535;
+      display: block;
+  }
+
+  #header nav li.fork 
+  {
+    float: none;
+  }
+}
+
+.gallery {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+}
+.gallery:after {
+    display: inline-block;
+    font-size: 0;
+    line-height: 0;
+    content: '';
+}
+
+.gallery img {
+    width: 100%;
+    height: auto;
+}
+
+.gallery:hover {
+    box-shadow: 0 0 2px 4px #ffcc00;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.responsive {
+    padding: 0 6px;
+    float: left;
+    width: 50%;
+    margin: 6px 0;
+}
+
+@media only screen and (max-width: 600px){
+    .responsive {
+        width: 100%;
+    }
+}
+
+#lead {
+    width: 100%;
+}
