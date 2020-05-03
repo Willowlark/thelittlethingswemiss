@@ -1,6 +1,6 @@
 ---
 title: Rhen 5 Year Anniversary
-categories: article
+layout: post
 tags: portraiture
 
 ---
