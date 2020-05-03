@@ -1,17 +1,37 @@
 ---
-title: Intro
-cover-photo: assets/images/banner.jpg
+title: Hello!
+cover-photo: assets/images/slides2.jpg
 cover-photo-alt: example cover photo
 auto-header: none
-icon: fa-comment
+icon: fa-image
 order: 1
 ---
-<header>
-  <h2 class="alt">Hi! I'm <strong>Prologue</strong>, a <a href="http://html5up.net/license">free</a> responsive<br />
-  site template designed by <a href="http://html5up.net/prologue">HTML5 UP</a>.</h2>
-  <p>Adapted for Jekyll by <a href=https://chrisbobbe.github.io/>Chris Bobbe</a>. Get started on <a href="https://github.com/chrisbobbe/jekyll-theme-prologue">GitHub!</a></p>
-</header>
+<script>
+var slideIndex = 0;
+showSlides();
 
+function showSlides() {
+  var i;
+  var slideshow;
+  var slide = document.getElementsByClassName('back');
+  for (i = 0; i < slide.length; i++) {
+    if(slide[i].src.includes("slides")) {slideshow = slide[i]}
+  }
+  var slides = ["{{ 'assets/images/slides2.jpg' | relative_url }}", 
+  "{{ 'assets/images/slides3.jpg' | relative_url }}", 
+  "{{ 'assets/images/slides1.jpg' | relative_url }}"]; 
+  
+  slideIndex++;
+  if (slideIndex > slides.length) {slideIndex = 1}
+  slideshow.src = slides[slideIndex-1];
+  setTimeout(showSlides, 2000); // Change image every 2 seconds
+} 
+</script>
+
+<header>
+  <h2 class="alt">Welcome to The Little Things We Miss</h2>
+  <p>Photography by William Clark</p>
+</header>
 <footer>
   <a href="#portfolio" class="button scrolly">Magna Aliquam</a>
 </footer>

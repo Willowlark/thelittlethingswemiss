@@ -70,5 +70,5 @@ flickr:
 google_analytics: UA-109921332-1
 
 # The following settings are NECESSARY for the Prologue theme to run:
-emote_theme: chrisbobbe/jekyll-theme-prologue
+remote_theme: chrisbobbe/jekyll-theme-prologue
 collections: [sections]
