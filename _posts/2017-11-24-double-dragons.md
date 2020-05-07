@@ -1,6 +1,7 @@
 ---
 title: Double Dragons by Wezrez and Mobiusmelt 
-layout: gallery
+layout: gallery_local
+shoot_id: Bad_Parenting
 tags: cosplay
 
 
@@ -12,4 +13,3 @@ Taiyang cosplayed by mobiusmelt; Follow them on [Instagram](https://www.instagra
 
 Yang cosplayed by wezrez; Follow them on [Instagram](https://www.instagram.com/wezrez)!
 
-{% flickr_photoset 72157689606139554 "Medium" %}
