@@ -2,6 +2,6 @@
 *.gem
 .sass-cache
 Gemfile.lock
-**/.DS_Store
+**/*.DS_Store
 /_photography
 /photography
