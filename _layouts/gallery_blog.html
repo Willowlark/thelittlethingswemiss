@@ -20,13 +20,23 @@ layout: default
 		{%- capture _excerpt -%}<p>{{- _post.excerpt | strip_html | truncatewords: 100 -}}</p>{%- endcapture -%}
 		{%- capture _link -%}<a href="{{- _post.url | absolute_url -}}">read more</a>{%- endcapture -%}
         {%- assign _content = _excerpt | append: _link -%}
-        {% assign images = _post.content | split:"<img " %}
-        {% for image in images %}
-            {% if image contains "src=" %}
-                    {% assign src = image | split: 'src="' | last | split: '"' | first %}
+        
+        
+        {%- assign _src = nil -%}
+        {%- assign _alt = nil -%}
+        {% for row in site.data.photo_index %}
+            {% if row.SHOOT contains _post.shoot_id and row.COVER == "True" %}
+                {%- assign _src = row.FULL_2K -%}
+                {%- assign _alt = row.FNAME -%}
+                
                 {% break %}
             {% endif %}
         {% endfor %}
-		{%- include section.html title=_title subtitle=_subtitle photo=src photo-alt=src -%}
+        
+        {% if _src %}
+            {%- include section.html title=_title subtitle=_subtitle photo=_src photo-alt=_alt -%}
+        {% else %}
+            {%- include section.html title=_title subtitle=_subtitle -%}
+        {% endif %}
 	{%- endfor -%}
 </div>
