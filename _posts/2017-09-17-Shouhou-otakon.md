@@ -1,10 +1,10 @@
 ---
 title: Shouhou by Flora at Otakon
-layout: gallery
+layout: gallery_local
+shoot_id: Otakon17.Shouhou
 tags: cosplay
 
 ---
 
 Find Flora on [Instagram](https://www.instagram.com/sunfloradesuu/)!
 
-{% flickr_photoset 72157686044011211 "Medium" %}

@@ -1,10 +1,10 @@
 ---
 title: Tohru at Kotoricon'19
-layout: gallery
+layout: gallery_local
+shoot_id: Kotori19.Tohru
 tags: cosplay
 
 ---
 
 Tohru cosplayed by sunfloradesuu; Follow them on [Instagram](https://www.instagram.com/sunfloradesuu)!
 
-{% flickr_photoset 72157675554984637 "Medium" %}

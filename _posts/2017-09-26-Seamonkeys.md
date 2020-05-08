@@ -1,6 +1,7 @@
 ---
 title: Seamonkeys By Emerlingcosplay & Dudedoescos at Otakon
-layout: gallery
+layout: gallery_local
+shoot_id: Otakon17.Seamonkeys
 tags: cosplay
 
 ---
@@ -15,4 +16,3 @@ Find Dudedoescos on [Instagram](https://www.instagram.com/dudedoescos/)!
 
 Guest starring [Columncosplay](https://www.instagram.com/columncosplay/) and [Mercenaryscum](https://www.instagram.com/mercenaryscum/) as our second Sun and Scarlet respectively. [Wezrez](https://www.instagram.com/wezrez/) plays the role of Sunyatta's last pair of arms. 
 
-{% flickr_photoset 72157685580533812 "Medium" %}

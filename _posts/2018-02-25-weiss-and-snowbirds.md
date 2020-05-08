@@ -1,6 +1,7 @@
 ---
 title: Schneesters & an Old Bird
-layout: gallery
+layout: gallery_local
+shoot_id: Katsu18.Weiss
 tags: cosplay
 
 
@@ -12,4 +13,3 @@ Winter cosplayed by katheryne_knight; Follow them on [Instagram](https://www.ins
 
 Qrow cosplayed by general_onyx; Follow them on [Instagram](https://www.instagram.com/general_onyx)!
 
-{% flickr_photoset 72157693851093255 "Medium" %}

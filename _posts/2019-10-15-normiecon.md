@@ -1,6 +1,7 @@
 ---
 title: Normiecon
-layout: gallery
+layout: gallery_local
+shoot_id: 100_Portraiture.Normiecon
 tags: portraiture
 
 ---
@@ -13,4 +14,3 @@ Follow lipstickgiraffe on [Instagram](https://www.instagram.com/lipstickgiraffe)
 
 Follow slendergiantcosplay on [Instagram](https://www.instagram.com/slendergiantcosplay)!
 
-{% flickr_photoset 72157711355279821 "Medium" %}

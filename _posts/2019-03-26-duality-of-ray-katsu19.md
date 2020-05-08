@@ -1,6 +1,7 @@
 ---
 title: Duality of Ray
-layout: gallery
+layout: gallery_local
+shoot_id: Katsu19.Duality_of_Husbandos
 tags: cosplay
 
 ---
@@ -11,4 +12,3 @@ Unknown cosplayed by tomukuncosplay; Follow them on [Instagram](https://www.inst
 
 MC cosplayed by whoozica; Follow them on [Instagram](https://www.instagram.com/whoozica)!
 
-{% flickr_photoset 72157677413722237 "Medium" %}

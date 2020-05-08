@@ -1,10 +1,10 @@
 ---
 title: Lilith by Whoozica
-layout: gallery
+layout: gallery_local
+shoot_id: Zenkai18.Lilith
 tags: cosplay
 
 ---
 
 Follow Whoozica on [Instagram](https://www.instagram.com/Whoozica)!
 
-{% flickr_photoset 72157691049553190 "Medium" %}

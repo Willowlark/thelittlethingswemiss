@@ -1,6 +1,7 @@
 ---
 title: Persona 5 at Katsucon'19
-layout: gallery
+layout: gallery_local
+shoot_id: Katsu19.Persona_5
 tags: cosplay
 
 ---
@@ -21,4 +22,3 @@ Haru cosplayed by mochizoubear; Follow them on [Instagram](https://www.instagram
 
 Akechi cosplayed by zoethehobbit; Follow them on [Instagram](https://www.instagram.com/zoethehobbit)!
 
-{% flickr_photoset 72157705884075891 "Medium" %}

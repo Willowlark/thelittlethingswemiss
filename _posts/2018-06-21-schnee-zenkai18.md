@@ -1,6 +1,7 @@
 ---
 title: Schnee Family Photos at Zenkaikon'18
-layout: gallery
+layout: gallery_local
+shoot_id: Zenkai18.Schnees
 tags: cosplay
 
 ---
@@ -19,4 +20,3 @@ Ironwood cosplayed by atlastinman; Follow them on [Instagram](https://www.instag
 
 Penny cosplayed by cabagbecosplay; Follow them on [Instagram](https://www.instagram.com/cabagbecosplay)!
 
-{% flickr_photoset 72157695071231312 "Medium" %}

@@ -1,6 +1,7 @@
 ---
 title: Funeral of Pyrrha Nikos
-layout: gallery
+layout: gallery_local
+shoot_id: Zenkai18.Funeral
 tags: cosplay
 
 ---
@@ -21,4 +22,3 @@ Nora's arm cosplayed by whoozica; Follow them on [Instagram](https://www.instagr
 
 *I can't believe I just credited a bunch of arms.*
 
-{% flickr_photoset 72157691228572820 "Medium" %}

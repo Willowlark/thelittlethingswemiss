@@ -1,6 +1,7 @@
 ---
 title: Yang & Taiyang
-layout: gallery
+layout: gallery_local
+shoot_id: Katsu18.Double_Dragons
 tags: cosplay
 
 
@@ -10,4 +11,3 @@ Yang cosplayed by khalissycosplays; Follow them on [Instagram](https://www.insta
 
 Taiyang cosplayed by khalissy's Dad; how cool is that?
 
-{% flickr_photoset 72157666182804888 "Medium" %}

@@ -1,6 +1,7 @@
 ---
 title: Death Flags at Katsucon'19
-layout: gallery
+layout: gallery_local
+shoot_id: Katsu19.Dead_Red_Heads
 tags: cosplay
 
 ---
@@ -11,5 +12,5 @@ Penny cosplayed by lipstickgiraffe; Follow them on [Instagram](https://www.insta
 
 Ruby cosplayed by wishcircuit; Follow them on [Instagram](https://www.instagram.com/wishcircuit)!
 
-{% flickr_photoset 72157677108044417 "Medium" %}
+
 

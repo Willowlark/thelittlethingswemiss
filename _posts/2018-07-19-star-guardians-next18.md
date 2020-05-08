@@ -1,6 +1,7 @@
 ---
 title: Star Guardians at Next'18
-layout: gallery
+layout: gallery_local
+shoot_id: Next18.Star_Guardians
 tags: cosplay
 
 ---
@@ -19,4 +20,3 @@ Syndra cosplayed by no_cosplay_xok; Follow them on [Instagram](https://www.insta
 
 Soraka cosplayed by ?; Follow them on [Instagram](https://www.instagram.com/?)!
 
-{% flickr_photoset 72157669293836757 "Medium" %}

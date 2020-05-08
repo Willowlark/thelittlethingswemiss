@@ -1,6 +1,7 @@
 ---
 title: Deep and Deeper Route at Zenkaikon'19
-layout: gallery
+layout: gallery_local
+shoot_id: Zenkai19.Mystic_Mess_-_Georgia
 tags: cosplay
 
 ---
@@ -13,6 +14,5 @@ Seven cosplayed by tomukuncosplay; Follow them on [Instagram](https://www.instag
 
 V cosplayed by tlt_wm; Follow them on [Instagram](https://www.instagram.com/tlt_wm)!
 
-GUEST PHOTOGRAPHED BY [WEZREZ](https://www.instagram.com/wezrez)!
+Photography by [wezrez](https://www.instagram.com/wezrez)!
 
-{% flickr_photoset 72157706761830521 "Medium" %}

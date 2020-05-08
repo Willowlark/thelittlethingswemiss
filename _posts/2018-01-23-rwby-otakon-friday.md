@@ -1,9 +1,9 @@
 ---
 title: RWBY - Otakon Friday
-layout: gallery
+layout: gallery_local
+shoot_id: Otakon17.RWBY_-_Fri
 tags: cosplay
 
 
 ---
 
-{% flickr_photoset 72157662952515597 "Medium" %}

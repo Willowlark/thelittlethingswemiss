@@ -1,6 +1,7 @@
 ---
 title: RWBY Cheer Crack at Katsucon'19
-layout: gallery
+layout: gallery_local
+shoot_id: Katsu19.Cheer_Crack
 tags: cosplay
 
 ---
@@ -9,4 +10,3 @@ Salem cosplayed by absolutezerocosplay; Follow them on [Instagram](https://www.i
 
 Weiss cosplayed by hellocoffeee!
 
-{% flickr_photoset 72157707210379464 "Medium" %}

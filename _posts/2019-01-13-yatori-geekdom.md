@@ -1,6 +1,7 @@
 ---
 title: Yatori 
-layout: gallery
+layout: gallery_local
+shoot_id: 100_Con.Geekdom18_Yatori
 tags: cosplay
 
 ---
@@ -9,4 +10,3 @@ Hiyori cosplayed by whoozica; Follow them on [Instagram](https://www.instagram.c
 
 Yato cosplayed by tomukuncosplay; Follow them on [Instagram](https://www.instagram.com/tomukuncosplay)!
 
-{% flickr_photoset 72157705676399155 "Medium" %}

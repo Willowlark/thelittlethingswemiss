@@ -1,8 +1,8 @@
 ---
 title: Chestnut Hill RWBY Coop
-layout: gallery
+layout: gallery_local
+shoot_id: NonCon.Chestnut_Hill
 tags: cosplay
 
 ---
 
-{% flickr_photoset 72157697029136990 "Medium" %}

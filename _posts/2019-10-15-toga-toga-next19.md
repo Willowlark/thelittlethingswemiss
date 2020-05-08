@@ -1,6 +1,7 @@
 ---
 title: Toga Toga at Animenext'19
-layout: gallery
+layout: gallery_local
+shoot_id: Next19.Toga_Toga
 tags: cosplay
 
 ---
@@ -11,4 +12,3 @@ Toga cosplayed by banana_boi_cos; Follow them on [Instagram](https://www.instagr
 
 Deku cosplayed by mercenaryscum; Follow them on [Instagram](https://www.instagram.com/mercenaryscum)!
 
-{% flickr_photoset 72157711358326233 "Medium" %}

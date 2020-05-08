@@ -1,6 +1,7 @@
 ---
 title: Renora at Zenkaikon'18
-layout: gallery
+layout: gallery_local
+shoot_id: Zenkai18.Renora
 tags: cosplay
 
 ---
@@ -9,4 +10,3 @@ Ren cosplayed by tomukuncosplay; Follow them on [Instagram](https://www.instagra
 
 Nora cosplayed by whoozica; Follow them on [Instagram](https://www.instagram.com/whoozica)!
 
-{% flickr_photoset 72157696764998614 "Medium" %}

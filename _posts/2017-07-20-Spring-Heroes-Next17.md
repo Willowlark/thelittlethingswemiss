@@ -1,10 +1,10 @@
 ---
 title: Spring Heroes by Kasei Cosplay & Andrew Weindel at AnimeNext'17
-layout: gallery
+layout: gallery_local
+shoot_id: Next17.Spring_Nerds
 tags: cosplay
 
 ---
 
 Find Kasei cosplay on [Instagram](https://www.instagram.com/kaseicosplay/) or on [Facebook](https://www.facebook.com/KaseiCosplay/)! 
 
-{% flickr_photoset 72157685521958616 "Medium" %}

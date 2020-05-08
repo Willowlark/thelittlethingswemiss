@@ -1,6 +1,7 @@
 ---
 title: Hoodie _NPR by Wezrez, Raining_Jellyfish, & IamtheDark
-layout: gallery
+layout: gallery_local
+shoot_id: Hoodie_NPR.Hoodie_NPR
 tags: cosplay
 
 
@@ -12,4 +13,3 @@ Nora cosplayed by raining_jellyfish; Follow them on [Instagram](https://www.inst
 
 Ren cosplayed by iamthedark_cosplay; Follow them on [Instagram](https://www.instagram.com/iamthedark_cosplay)!
 
-{% flickr_photoset 72157690773612565 "Medium" %}

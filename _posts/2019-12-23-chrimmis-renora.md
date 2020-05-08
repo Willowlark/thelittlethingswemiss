@@ -1,6 +1,7 @@
 ---
 title: Chrimmis Renora
-layout: gallery
+layout: gallery_local
+shoot_id: Chrimmis19.Renora
 tags: cosplay
 
 ---
@@ -9,4 +10,3 @@ Nora cosplayed by whoozica; Follow them on [Instagram](https://www.instagram.com
 
 Ren cosplayed by tomukuncosplay; Follow them on [Instagram](https://www.instagram.com/tomukuncosplay)!
 
-{% flickr_photoset 72157712320302762 "Medium" %}

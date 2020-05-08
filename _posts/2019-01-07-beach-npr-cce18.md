@@ -1,6 +1,7 @@
 ---
 title: Beach NPR at CCE'18
-layout: gallery
+layout: gallery_local
+shoot_id: CCE18.NPR
 tags: cosplay
 
 ---
@@ -11,4 +12,3 @@ Pyrrha cosplayed by wezrez; Follow them on [Instagram](https://www.instagram.com
 
 Ren cosplayed by tomukuncosplay; Follow them on [Instagram](https://www.instagram.com/tomukuncosplay)!
 
-{% flickr_photoset 72157675345738007 "Medium" %}

@@ -1,6 +1,7 @@
 ---
 title: Pyrrha By Wezrez at Princeton University
-layout: gallery
+layout: gallery_local
+shoot_id: Beacon_Princeton_Co-op.Pyrrha
 tags: cosplay
 
 ---
@@ -13,4 +14,3 @@ Find Wezrez cosplay on [Instagram](https://www.instagram.com/wezrez/)!
 
 Look forward to more, Pyrrha had herself a joint booking with Glynda and Ozpin same day. Gotta get those yearbook photos done sometime. 
 
-{% flickr_photoset 72157686169090981 "Medium" %}

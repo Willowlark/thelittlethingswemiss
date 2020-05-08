@@ -1,6 +1,7 @@
 ---
 title: Mystic Mess at CPAC
-layout: gallery
+layout: gallery_local
+shoot_id: CPAC18.Mystic_Mess
 tags: cosplay
 
 ---
@@ -13,4 +14,3 @@ Unknown cosplayed by tomukuncosplay; Follow them on [Instagram](https://www.inst
 
 MC cosplayed by wezrez; Follow them on [Instagram](https://www.instagram.com/wezrez)!
 
-{% flickr_photoset 72157671368283358 "Medium" %}

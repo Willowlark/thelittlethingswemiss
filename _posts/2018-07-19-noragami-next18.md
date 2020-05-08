@@ -1,6 +1,7 @@
 ---
 title: Noragami at Next'18
-layout: gallery
+layout: gallery_local
+shoot_id: Next18.Noragami
 tags: cosplay
 
 ---
@@ -11,4 +12,3 @@ Hiyori cosplayed by kitkatwazhere; Follow them on [Instagram](https://www.instag
 
 Daikoku cosplayed by Nick.
 
-{% flickr_photoset 72157697599363031 "Medium" %}

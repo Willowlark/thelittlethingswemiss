@@ -1,10 +1,10 @@
 ---
 title: Black Dress at Arcade Meetup
-layout: gallery
+layout: gallery_local
+shoot_id: Arcade_Meetup.Black_Dress
 tags: portraiture
 
 ---
 
 Follow wezrez on [Instagram](https://www.instagram.com/wezrez)!
 
-{% flickr_photoset 72157709790761867 "Medium" %}

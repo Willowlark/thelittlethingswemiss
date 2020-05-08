@@ -1,6 +1,7 @@
 ---
 title: Cosplay Roller Skating
-layout: gallery
+layout: gallery_local
+shoot_id: NonCon.Cosplay_Roller_Skating
 tags: cosplay
 
 
@@ -10,4 +11,3 @@ Enjoy this haphazard collection of blurry, grainy, and *red* photos! This album 
 
 Thanks to Kaseicosplay for getting the whole thing together!
 
-{% flickr_photoset 72157690388246035 "Medium" %}

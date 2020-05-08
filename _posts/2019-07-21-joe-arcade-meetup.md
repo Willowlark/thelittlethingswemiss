@@ -1,10 +1,10 @@
 ---
 title: The Green Screen Manifesto at Arcade Meetup
-layout: gallery
+layout: gallery_local
+shoot_id: Arcade_Meetup.Joe
 tags: portraiture
 
 ---
 
 Follow thegreenscreenmanifesto on [Instagram](https://www.instagram.com/thegreenscreenmanifesto)!
 
-{% flickr_photoset 72157709791309132 "Medium" %}

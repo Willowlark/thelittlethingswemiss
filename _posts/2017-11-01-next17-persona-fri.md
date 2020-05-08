@@ -1,9 +1,9 @@
 ---
 title: Persona at Animenext'17 (Friday)
-layout: gallery
+layout: gallery_local
+shoot_id: Next17.Persona_Fri
 tags: cosplay
 
 
 ---
 
-{% flickr_photoset 72157665752621919 "Medium" %}

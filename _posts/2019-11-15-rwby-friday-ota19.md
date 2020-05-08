@@ -1,10 +1,10 @@
 ---
 title: Rwby Friday Shoot at Otakon'19
-layout: gallery
+layout: gallery_local
+shoot_id: Otakon19.RWBY_Fri
 tags: cosplay
 
 ---
 
 
 
-{% flickr_photoset 72157711797160717  "Medium" %}

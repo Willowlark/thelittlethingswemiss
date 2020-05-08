@@ -1,6 +1,7 @@
 ---
 title: RWBY Shinanigans at Kogaracon'19
-layout: gallery
+layout: gallery_local
+shoot_id: Kogara19.RWBY_Bullshit
 tags: cosplay
 
 ---
@@ -13,4 +14,3 @@ Penny cosplayed by lipstickgiraffe; Follow them on [Instagram](https://www.insta
 
 Sun cosplayed by madameterralupus; Follow them on [Instagram](https://www.instagram.com/madameterralupus)!
 
-{% flickr_photoset 72157677980978057 "Medium" %}

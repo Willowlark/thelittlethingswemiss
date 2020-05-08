@@ -1,8 +1,8 @@
 ---
 title: Type Moon at Zenkaikon'17
-layout: gallery
+layout: gallery_local
+shoot_id: Zenkai17.FSN_Saturday
 tags: cosplay
 
 ---
 
-{% flickr_photoset 72157689200174695 "Medium" %}

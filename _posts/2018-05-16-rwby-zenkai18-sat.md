@@ -1,8 +1,8 @@
 ---
 title: RWBY at Zenkaikon'18 Saturday Shoot
-layout: gallery
+layout: gallery_local
+shoot_id: Zenkai18.RWBY_Sat
 tags: cosplay
 
 ---
 
-{% flickr_photoset 72157667011970487 "Medium" %}

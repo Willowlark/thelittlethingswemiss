@@ -1,6 +1,7 @@
 ---
 title: Ending C/D at Katsucon'19
-layout: gallery
+layout: gallery_local
+shoot_id: Katsu19.Ending_CD
 tags: cosplay
 
 ---
@@ -9,4 +10,3 @@ tags: cosplay
 
 A2 cosplayed by wezrez; Follow them on [Instagram](https://www.instagram.com/wezrez)!
 
-{% flickr_photoset 72157705882644181 "Medium" %}

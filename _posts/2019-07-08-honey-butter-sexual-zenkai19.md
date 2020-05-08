@@ -1,6 +1,7 @@
 ---
 title: Honey Butter Sexual at Zenkaikon'19
-layout: gallery
+layout: gallery_local
+shoot_id: Zenkai19.Seven_X_MC
 tags: boudoir
 
 ---
@@ -11,4 +12,3 @@ MC cosplayed by whoozica; Follow them on [Instagram](https://www.instagram.com/w
 
 We were quite drunk. Except Seven, he's a good catholic boi.
 
-{% flickr_photoset 72157680224005298 "Medium" %}

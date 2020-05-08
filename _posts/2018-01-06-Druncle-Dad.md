@@ -1,7 +1,7 @@
 ---
 title: Druncle Dad - Emerling & Mercenary Cosplay
 layout: gallery_local
-shoot_id: Druncle_Dad
+shoot_id: ANYC17.Druncle_Dad
 tags: cosplay
 
 

@@ -1,6 +1,7 @@
 ---
 title: Cheongsam Salem
-layout: gallery
+layout: gallery_local
+shoot_id: Katsu18.Salem
 tags: cosplay
 
 
@@ -8,4 +9,3 @@ tags: cosplay
 
 Follow absolutezerocosplay on [Instagram](https://www.instagram.com/absolutezerocosplay)!
 
-{% flickr_photoset 72157692627225751 "Medium" %}

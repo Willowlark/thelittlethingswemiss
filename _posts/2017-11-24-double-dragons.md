@@ -1,7 +1,7 @@
 ---
 title: Double Dragons by Wezrez and Mobiusmelt 
 layout: gallery_local
-shoot_id: Bad_Parenting
+shoot_id: ANYC17.Bad_Parenting
 tags: cosplay
 
 

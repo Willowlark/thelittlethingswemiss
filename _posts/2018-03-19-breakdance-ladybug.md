@@ -1,6 +1,7 @@
 ---
 title: Breakdance Miraculous Ladybug
-layout: gallery
+layout: gallery_local
+shoot_id: Katsu18.Breakdance_Ladybug
 tags: cosplay
 
 
@@ -12,4 +13,3 @@ Chat Noir cosplayed by emerlingcosplay; Follow them on [Instagram](https://www.i
 
 Evillustrator cosplayed by columncosplay; Follow them on [Instagram](https://www.instagram.com/columncosplay)!
 
-{% flickr_photoset 72157692908761011 "Medium" %}

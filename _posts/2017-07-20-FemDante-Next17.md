@@ -1,8 +1,8 @@
 ---
 title: Fem!Dante by Rayna at AnimeNext'17
-layout: gallery
+layout: gallery_local
+shoot_id: Next17.Fem_Dante
 tags: cosplay
 
 ---
 
-{% flickr_photoset 72157682514466282 "Medium" %}

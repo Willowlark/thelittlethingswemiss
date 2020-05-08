@@ -1,6 +1,7 @@
 ---
 title: Yukata Nier at Sakura Sunday'19
-layout: gallery
+layout: gallery_local
+shoot_id: Sakura_Sunday19.Yukata_Nier
 tags: cosplay
 
 ---
@@ -9,4 +10,3 @@ tags: cosplay
 
 9S cosplayed by tomukuncosplay; Follow them on [Instagram](https://www.instagram.com/tomukuncosplay)!
 
-{% flickr_photoset 72157709073691563 "Medium" %}

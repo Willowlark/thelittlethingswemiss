@@ -1,10 +1,10 @@
 ---
 title: Taiyang at Sunflowers
-layout: gallery
+layout: gallery_local
+shoot_id: Sunflowers.Taiyang
 tags: cosplay
 
 ---
 
 Taiyang cosplayed by Slendergiantcosplay; Follow them on [Instagram](https://www.instagram.com/Slendergiantcosplay)!
 
-{% flickr_photoset 72157711823766203 "Medium" %}

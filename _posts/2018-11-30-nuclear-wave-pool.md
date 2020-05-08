@@ -1,6 +1,7 @@
 ---
 title: Nuclear Wave Pool at CCE'18
-layout: gallery
+layout: gallery_local
+shoot_id: CCE18.Fallout
 tags: cosplay
 
 ---
@@ -9,4 +10,3 @@ Sole Survivor cosplayed by wezrez; Follow them on [Instagram](https://www.instag
 
 Sole survivor cosplayed by jakescribbles; Follow them on [Instagram](https://www.instagram.com/jakescribbles)!
 
-{% flickr_photoset 72157700915683692 "Medium" %}

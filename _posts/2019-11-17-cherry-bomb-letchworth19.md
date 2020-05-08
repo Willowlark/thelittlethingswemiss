@@ -1,7 +1,7 @@
 ---
 title: Cherry Bomb at Letchworth Village
 layout: gallery_local
-shoot_id: Cherry_Bomb
+shoot_id: NonCon.Cherry_Bomb
 tags: cosplay
 
 ---

@@ -1,6 +1,7 @@
 ---
 title: Deadly Sins at Otakon'19
-layout: gallery
+layout: gallery_local
+shoot_id: Otakon19.Seven_Deadly_Sins
 tags: cosplay
 
 ---
@@ -11,4 +12,3 @@ Diana cosplayed by claxi.cosplay; Follow them on [Instagram](https://www.instagr
 
 Meliodas cosplayed by crucio.cosplay; Follow them on [Instagram](https://www.instagram.com/crucio.cosplay)!
 
-{% flickr_photoset 72157711798098731 "Medium" %}

@@ -1,8 +1,8 @@
 ---
 title: Miraculous at AnimeNext'18
-layout: gallery
+layout: gallery_local
+shoot_id: Next18.Miraculous_Group
 tags: cosplay
 
 ---
 
-{% flickr_photoset 72157693538038880 "Medium" %}

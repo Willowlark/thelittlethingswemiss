@@ -1,6 +1,7 @@
 ---
 title: Fire Emblem Echoes at Otakon'19
-layout: gallery
+layout: gallery_local
+shoot_id: Otakon19.Fire_Emblem
 tags: cosplay
 
 ---
@@ -9,4 +10,3 @@ Cecilia cosplayed by sketchjill; Follow them on [Instagram](https://www.instagra
 
 Alm cosplayed by akira.sama; Follow them on [Instagram](https://www.instagram.com/akira.sama)!
 
-{% flickr_photoset 72157711797908002 "Medium" %}

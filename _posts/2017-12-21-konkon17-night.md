@@ -1,6 +1,7 @@
 ---
 title: Konkon Christmas Photoshoot (Night Photos)
-layout: gallery
+layout: gallery_local
+shoot_id: Konkon17.Evening
 tags: cosplay
 
 
@@ -50,4 +51,3 @@ Velvet cosplayed by khalissycosplays; Follow them on [Instagram](https://www.ins
 
 Kali cosplayed by cryostasis_cosplay; Follow them on [Instagram](https://www.instagram.com/cryostasis_cosplay)!
 
-{% flickr_photoset 72157663924942958 "Medium" %}

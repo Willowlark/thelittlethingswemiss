@@ -1,6 +1,7 @@
 ---
 title: Me at Normiecon
-layout: gallery
+layout: gallery_local
+shoot_id: 100_Portraiture.Me_Normiecon
 tags: portraiture
 
 ---
@@ -11,4 +12,3 @@ I. Guess. I'll put my instagram here like I'm one of the models I shoot, but. Do
 
 Follow tlt_wm on [Instagram](https://www.instagram.com/tlt_wm)!
 
-{% flickr_photoset 72157690790639423 "Medium" %}

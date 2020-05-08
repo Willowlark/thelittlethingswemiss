@@ -1,6 +1,7 @@
 ---
 title: RWBY (Unofficial) at Otakon
-layout: gallery
+layout: gallery_local
+shoot_id: Otakon17.RWBY_-_Sat_Day
 tags: cosplay
 
 
@@ -8,4 +9,3 @@ tags: cosplay
 
 As it turned out, I was the only one taking photos at this shoot. Which means I wasn't in anyone way and could slide around on the floor for some shots. 
 
-{% flickr_photoset 72157665682801429 "Medium" %}

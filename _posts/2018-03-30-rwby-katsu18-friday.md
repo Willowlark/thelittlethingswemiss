@@ -1,9 +1,9 @@
 ---
 title: Rwby Friday at Katsucon'18
-layout: gallery
+layout: gallery_local
+shoot_id: Katsu18.Rwby_Friday
 tags: cosplay
 
 
 ---
 
-{% flickr_photoset 72157667270755168 "Medium" %}

@@ -1,6 +1,7 @@
 ---
 title: Orange Sherbet Meme House
-layout: gallery
+layout: gallery_local
+shoot_id: NonCon.Safe_House
 tags: cosplay
 
 ---
@@ -9,4 +10,3 @@ Neo cosplayed by lipstickgiraffe; Follow them on [Instagram](https://www.instagr
 
 Roman cosplayed by beardedelf94; Follow them on [Instagram](https://www.instagram.com/beardedelf94)!
 
-{% flickr_photoset 72157677108324137 "Medium" %}

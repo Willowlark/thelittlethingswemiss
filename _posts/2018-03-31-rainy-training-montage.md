@@ -1,6 +1,7 @@
 ---
 title: Rainy Training
-layout: gallery
+layout: gallery_local
+shoot_id: 100_Portraiture.Training_Montage
 tags: portraiture
 ---
 
@@ -8,4 +9,3 @@ Practicing with your buddy isn't supposed to turn out good photos, and YET my gi
 
 Follow wezrez on [Instagram](https://www.instagram.com/wezrez)!
 
-{% flickr_photoset 72157694364382124 "Medium" %}

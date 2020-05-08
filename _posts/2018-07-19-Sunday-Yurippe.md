@@ -1,6 +1,7 @@
 ---
 title: Sunday Yurippe
-layout: gallery
+layout: gallery_local
+shoot_id: Next18.Yurippe
 tags: cosplay
 
 ---
@@ -13,4 +14,3 @@ Unknown cosplayed by whoozica; Follow them on [Instagram](https://www.instagram.
 
 And Dave.
 
-{% flickr_photoset 72157693444892270 "Medium" %}

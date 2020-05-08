@@ -1,10 +1,10 @@
 ---
 title: Weiss at Sunflowers
-layout: gallery
+layout: gallery_local
+shoot_id: Sunflowers.Weiss
 tags: cosplay
 
 ---
 
 Weiss cosplayed by cadmiumcosplay; Follow them on [Instagram](https://www.instagram.com/cadmiumcosplay)!
 
-{% flickr_photoset 72157711820648407 "Medium" %}

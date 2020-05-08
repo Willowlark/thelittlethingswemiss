@@ -1,6 +1,7 @@
 ---
 title: Triple Baka at AnimeNext'19
-layout: gallery
+layout: gallery_local
+shoot_id: Next19.Triple_Rays
 tags: cosplay
 
 ---
@@ -11,4 +12,3 @@ Suit Saeran cosplayed by whoozica; Follow them on [Instagram](https://www.instag
 
 Unknown cosplayed by tomukuncosplay; Follow them on [Instagram](https://www.instagram.com/tomukuncosplay)!
 
-{% flickr_photoset 72157711167896162 "Medium" %}

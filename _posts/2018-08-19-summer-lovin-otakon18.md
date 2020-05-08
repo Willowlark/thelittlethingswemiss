@@ -1,6 +1,7 @@
 ---
 title: Summer Lovin at Otakon'18
-layout: gallery
+layout: gallery_local
+shoot_id: Otakon18.Summer_Lovin
 tags: cosplay
 
 ---
@@ -9,4 +10,3 @@ Taiyang cosplayed by slendergiantcosplay; Follow them on [Instagram](https://www
 
 Summer cosplayed by laiinybug; Follow them on [Instagram](https://www.instagram.com/laiinybug)!
 
-{% flickr_photoset 72157698772576181 "Medium" %}

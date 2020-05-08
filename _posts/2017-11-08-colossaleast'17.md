@@ -1,9 +1,9 @@
 ---
 title: Colossalcon East'17
-layout: gallery
+layout: gallery_local
+shoot_id: CCE17.Hall_Photos
 tags: cosplay
 
 
 ---
 
-{% flickr_photoset 72157688187115271 "Medium" %}

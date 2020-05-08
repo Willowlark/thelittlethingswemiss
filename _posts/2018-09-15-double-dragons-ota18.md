@@ -1,6 +1,7 @@
 ---
 title: Double Dragons at Otakon'18
-layout: gallery
+layout: gallery_local
+shoot_id: Otakon18.Double_Dragons
 tags: cosplay
 
 ---
@@ -9,4 +10,3 @@ Taiyang cosplayed by slendergiantcosplay; Follow them on [Instagram](https://www
 
 Yang cosplayed by wezrez; Follow them on [Instagram](https://www.instagram.com/wezrez)!
 
-{% flickr_photoset 72157671295289727 "Medium" %}
