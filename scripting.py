@@ -4,6 +4,8 @@ import shutil
 import os
 from glob import glob
 
+# Co-op isn't rated properly
+
 rundir = os.getcwd()
 
 def photo_move(soft=False):
@@ -76,8 +78,7 @@ def index():
             shoot_num = basename.split('_')[-1]
             if '_2k.' in f:
                 shoot_dir = root.split('/')[-1]
-                if ((df2k.SHOOT == shoot_dir) & ~(df2k.CONTAINING == containing_dir)).any():
-                    shoot_dir ='.'.join(root.split('/')[-2:])
+                shoot_dir = '.'.join(root.split('/')[-2:])
                 fname = f
                 full_path = os.path.join(containing_dir, fname)
                 res = pd.Series({
@@ -90,8 +91,7 @@ def index():
                 df2k = df2k.append(res, ignore_index=True)
             elif '_original.' in f:
                 shoot_dir = root.split('/')[-1]
-                if ((dfog.SHOOT == shoot_dir) & ~(dfog.CONTAINING == containing_dir)).any():
-                    shoot_dir ='.'.join(root.split('/')[-2:])
+                shoot_dir ='.'.join(root.split('/')[-2:])
                 fname = f
                 full_path = os.path.join(containing_dir, fname)
                 res = pd.Series({
@@ -112,7 +112,39 @@ def index():
     df.to_csv(os.path.join(rundir, '_data/photo_index.csv'))
     return df, dfog, df2k
     
-def build():
+def build(rm=False):
+    
+    if rm:
+        os.chdir('/Volumes/wwwroots/thelittlethingswemiss')
+        fs = [x for x in os.listdir() if 'photography' not in x]
+        for f in fs:
+            # print(f'rm -r {f}')
+            os.system(f'rm -r {f}')
+    
     os.chdir('/Users/bill/Code/thelittlethingswemiss')
     os.system('bundler exec jekyll build')
     os.system('cp -r _site/* /Volumes/wwwroots/thelittlethingswemiss/')
+    
+# for i, row in key.iterrows(): 
+#     x = row['SHOOT'] 
+#     y = row['NEW'] 
+     
+#     if x == y: 
+#         continue 
+     
+#     success = False 
+#     matches = 0 
+#     for file in os.listdir('.'): 
+#         open_file = open(file,'r') 
+#         read_file = open_file.read() 
+#         edited = re.sub(f'shoot_id: {x} *\n', f'shoot_id: {y}\n', read_file) 
+#         if edited != read_file: 
+#             success = True 
+#             matches+=1 
+#             write_file = open(file,'w') 
+#             write_file.write(edited) 
+#     if not success: 
+#         print(i, x,y,"Failed") 
+#         fails.append(i) 
+#     if matches>1: 
+#         print(i, x,y,"multimatched") 
