@@ -19,7 +19,7 @@ layout: default
                 <img src="{{row.FULL_2K}}", alt='{{row.FNAME}}' style="width: 100%;"></img>
         {% endfor %} -->
         {% for row in site.data.photo_index %}
-            {% if row.SHOOT contains page.shoot_id %}
+            {% if row.SHOOT == page.shoot_id %}
                 <img src="{{row.FULL_2K}}", alt='!!{{row.FNAME}}!!' style="width: 100%;"></img>
             {% endif %}
         {% endfor %}

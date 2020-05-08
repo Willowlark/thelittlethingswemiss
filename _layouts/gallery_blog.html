@@ -25,7 +25,7 @@ layout: default
         {%- assign _src = nil -%}
         {%- assign _alt = nil -%}
         {% for row in site.data.photo_index %}
-            {% if row.SHOOT contains _post.shoot_id and row.COVER == "True" %}
+            {% if row.SHOOT == _post.shoot_id and row.COVER == "True" %}
                 {%- assign _src = row.FULL_2K -%}
                 {%- assign _alt = row.FNAME -%}
                 
