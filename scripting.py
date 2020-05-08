@@ -4,8 +4,6 @@ import shutil
 import os
 from glob import glob
 
-# Co-op isn't rated properly
-
 rundir = os.getcwd()
 
 def photo_move(soft=False):

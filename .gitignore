@@ -5,3 +5,11 @@ Gemfile.lock
 **/*.DS_Store
 /_photography
 /photography
+
+# Bill's workspace additions
+\[*\].*
+\[*\]/
+.vscode
+**/.DS_Store
+.idea
+**/*.pyc
