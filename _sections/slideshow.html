@@ -1,12 +1,39 @@
 ---
 title: Hello!
 cover-photo: assets/images/slides2.jpg
-cover-photo-alt: example cover photo
+cover-photo-alt: Gallery_SS
 auto-header: none
 icon: fa-image
 order: 1
 ---
+
+{% assign rows = site.data.photo_index | where_exp:"item", "item.COVER == 'True'" | jsonify  %}
+
 <script>
+
+function shuffle(array) {
+  var currentIndex = array.length, temporaryValue, randomIndex;
+
+  // While there remain elements to shuffle...
+  while (0 !== currentIndex) {
+
+    // Pick a remaining element...
+    randomIndex = Math.floor(Math.random() * currentIndex);
+    currentIndex -= 1;
+
+    // And swap it with the current element.
+    temporaryValue = array[currentIndex];
+    array[currentIndex] = array[randomIndex];
+    array[randomIndex] = temporaryValue;
+  }
+
+  return array;
+}
+    
+var thing = {{rows}};
+var slides = ["{{ 'assets/images/slides2.jpg' | relative_url }}"];
+slides.push(...thing.map((item) => {return item.FULL_2K}));
+shuffle(slides);
 var slideIndex = 0;
 showSlides();
 
@@ -15,11 +42,8 @@ function showSlides() {
   var slideshow;
   var slide = document.getElementsByClassName('back');
   for (i = 0; i < slide.length; i++) {
-    if(slide[i].src.includes("slides")) {slideshow = slide[i]}
+    if(slide[i].alt.includes("Gallery_SS")) {slideshow = slide[i]}
   }
-  var slides = ["{{ 'assets/images/slides2.jpg' | relative_url }}", 
-  "{{ 'assets/images/slides3.jpg' | relative_url }}", 
-  "{{ 'assets/images/slides1.jpg' | relative_url }}"]; 
   
   slideIndex++;
   if (slideIndex > slides.length) {slideIndex = 1}
