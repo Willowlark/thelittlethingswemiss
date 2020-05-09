@@ -6,13 +6,17 @@ layout: default
 <!-- Main -->
 <div id="main">
 	<!-- Page -->
-	<article class="shade-two">
+	<article class="shade-four">
 	  <div class="container">
 			<header>
 				<h2>{{- page.title -}}</h2>
 				{%- if page.subtitle -%}<p>{{- page.subtitle -}}</p>{%- endif -%}
-			</header>
-	    {{- content -}}
+            </header>
+        <div id='FullContent'>
+            <div id='ContentSection'>
+                {{- content -}}
+            </div>
+        </div>
 	  </div>
 	</article>
 </div>

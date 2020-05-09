@@ -10,12 +10,23 @@
 
 {%- assign _title = include.title | default: 'Untitled' -%}
 {%- assign _slug = include.title | strip_html | slugify | default: 'untitled' -%}
-
 {%- if include.photo and include.photo-alt -%}
 	{%- capture _photo -%}
 		<img src="{{- include.photo | relative_url -}}" alt="{{- include.photo-alt -}}" class="back">
 	{%- endcapture -%}
-	{%- assign _class = 'shade-one cover dark' -%}
+    {%- assign _class = 'shade-one cover dark' -%}
+{% elsif include.data-key and include.photo-alt %}
+{% assign rows = site.data.photo_index | where_exp:"item", include.data-key %}
+{% assign idnum = 0 %}
+
+{%- capture _photo -%}
+        <img src="/assets/images/banner.jpg" alt="{{- include.photo-alt -}}" class="back">
+        {% for row in rows %}
+            <img src="{{row.FULL_2K}}", id='{{- include.photo-alt -}}{{idnum}}' class="back" style="display:none;"></img>
+            {% assign idnum = idnum | plus: 1 %} 
+        {% endfor %}
+        {%- endcapture -%}
+    {%- assign _class = 'shade-one cover dark' -%}
 {%- else -%}
 	{%- assign _photo = '' -%}
 	{%- capture _class -%}shade-{%- cycle 'two', 'three', 'four', 'three' -%}{%- endcapture -%}

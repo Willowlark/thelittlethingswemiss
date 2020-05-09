@@ -6,24 +6,23 @@ layout: default
 <!-- Main -->
 <div id="main">
 	<!-- Post -->
-	<article class="shade-two">
+	<article class="shade-four">
 	  <div class="container">
 			<header>
 				<h2>{{- page.title -}}</h2>
 				<p>{% if page.author %}{{ page.author }}, {% endif %}{{- page.date | date_to_long_string -}}</p>
-			</header>
-        {{- content -}}
-        
-        <!-- {% assign rows = site.data.photo_index | where_exp:"item", "item.SHOOT contains page.shoot_id" %}
-        {% for row in rows %}
-                <img src="{{row.FULL_2K}}", alt='{{row.FNAME}}' style="width: 100%;"></img>
-        {% endfor %} -->
-        {% for row in site.data.photo_index %}
-            {% if row.SHOOT == page.shoot_id %}
-                <img src="{{row.FULL_2K}}", alt='!!{{row.FNAME}}!!' style="width: 100%;"></img>
-            {% endif %}
-        {% endfor %}
-        
+            </header>
+        <div id='FullContent'>
+            <div id="ContentSection">
+                {{- content -}}
+            </div>
+
+            {% for row in site.data.photo_index %}
+                {% if row.SHOOT == page.shoot_id %}
+                    <img src="{{row.FULL_2K}}", alt='!!{{row.FNAME}}!!'></img>
+                {% endif %}
+            {% endfor %}
+        </div>
 	  </div>
 	</article>
 </div>
