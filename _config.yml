@@ -36,7 +36,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Homepage for Photography by William Clark of The Little Things We Miss
 author: William Clark
 email: clark.wrc@outlook.com
-avatar: assets/images/Seal.png
+avatar: assets/images/white_seal.png
 
 # You'll want to customize url and baseurl for your own site:
 baseurl: "" # the subpath of your site, e.g. /blog
