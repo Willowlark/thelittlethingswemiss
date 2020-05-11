@@ -187,7 +187,7 @@
 	}
 
 	p, ul, ol, dl, table {
-		margin-bottom: 2em;
+		// margin-bottom: 2em;
 	}
 
 	dl {
@@ -240,12 +240,6 @@
         background-color: #fff;
         border-radius: 25px;
         padding: 20px;
-        
-        img {
-            border: 2px solid #021a40;
-            border-radius: 25px;
-            width: 100%;
-        }
     }
     
     #ContentSection {
@@ -253,6 +247,14 @@
         padding: 20px;
         border-radius: 25px;
         margin-bottom: 20px;
+    }
+    
+    #PhotoSection {
+        img {
+            border: 2px solid #021a40;
+            border-radius: 25px;
+            width: 100%;
+        }
     }
 
 /* Image */
@@ -586,7 +588,17 @@
 			// left: 0;
 			// top: 0;
 		}
-	}
+    }
+    
+    #page-logo-pin {
+        width: 180px;
+        float: right;
+        display: block;
+        // position: absolute;
+        // top: 0px;
+        // right: 0px;
+        height: 150px;
+    }
 
 	#nav {
 		ul {
@@ -1140,6 +1152,10 @@
 						}
 					}
 				}
-			}
+            }
+            #page-logo-pin {
+                width: 150px;
+                height: 120px;
+            }
 
 	}

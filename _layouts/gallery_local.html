@@ -9,19 +9,22 @@ layout: default
 	<article class="shade-four">
 	  <div class="container">
 			<header>
+                <img id='page-logo-pin' src="/assets/images/seal.png"/>
 				<h2>{{- page.title -}}</h2>
-				<p>{% if page.author %}{{ page.author }}, {% endif %}{{- page.date | date_to_long_string -}}</p>
+                <p>{% if page.author %}{{ page.author }}, {% endif %}{{- page.date | date_to_long_string -}}</p>
             </header>
         <div id='FullContent'>
             <div id="ContentSection">
                 {{- content -}}
             </div>
-
+            
+            <div id="PhotoSection">
             {% for row in site.data.photo_index %}
                 {% if row.SHOOT == page.shoot_id %}
                     <img src="{{row.FULL_2K}}", alt='!!{{row.FNAME}}!!'></img>
                 {% endif %}
             {% endfor %}
+            </div>
         </div>
 	  </div>
 	</article>

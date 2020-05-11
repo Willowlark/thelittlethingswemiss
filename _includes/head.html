@@ -22,9 +22,15 @@
   <link rel="shortcut icon" type="image/png" href="{{site.baseurl}}/assets/images/seal_icon.png"/>
   
   <!-- Open Graph -->
+  {% for row in site.data.photo_index %}
+    {% if row.SHOOT == page.shoot_id and row.COVER == "True" %}
+        {%- assign _src = row.FULL_2K -%}
+        {% break %}
+    {% endif %}
+{% endfor %}
   <meta property="og:title" content="{{- _page_title -}}" />
   <meta property="og:type" content="website" />
-  <meta property="og:image" content="{{- site.avatar | absolute_url -}}" />
+  <meta property="og:image" content="{{_src}}"/>
   <meta property="og:url" content="{{- page.url | absolute_url -}}" />
   <meta property="og:site_name" content="{{- site.title | escape -}}" />
   <meta property="og:description" content="{{- _page_description -}}" />
@@ -46,5 +52,26 @@
   <script src="{{- 'assets/js/util.js' | relative_url -}}" defer></script>
   <!--[if lte IE 8]><script src="{{- 'assets/js/ie/respond.min.js' | relative_url -}}" defer></script><![endif]-->
   <script src="{{- 'assets/js/main.js' | relative_url -}}" defer></script>
-
+  <script>
+      var isMobile = {
+            Android: function () {
+                return navigator.userAgent.match(/Android/i);
+            },
+            BlackBerry: function () {
+                return navigator.userAgent.match(/BlackBerry/i);
+            },
+            iOS: function () {
+                return navigator.userAgent.match(/iPhone|iPad|iPod/i);
+            },
+            Opera: function () {
+                return navigator.userAgent.match(/Opera Mini/i);
+            },
+            Windows: function () {
+                return navigator.userAgent.match(/IEMobile/i);
+            },
+            any: function () {
+                return (isMobile.Android() || isMobile.BlackBerry() || isMobile.iOS() || isMobile.Opera() || isMobile.Windows());
+            }
+        };
+  </script>
 </head>

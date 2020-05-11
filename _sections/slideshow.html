@@ -11,6 +11,10 @@ order: 1
 {% assign rows = site.data.photo_index | where_exp:"item", page.data-key | size %}
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
 <script>
+    // if (isMobile.any()) {
+    //     $("[id*='".concat(alt).concat("']")).remove();
+    //     }
+        
     
     function shuffle(array) {
         var currentIndex = array.length, temporaryValue, randomIndex;
@@ -38,25 +42,32 @@ order: 1
     shuffle(ids);
     
     $(document).ready(function(){
+
+        if (isMobile.any()) {
+        }
+        else {
+        } 
         showSlides();
-    }); 
 
     function showSlides() {
         slideIndex++;
         oldim = ids[(slideIndex-1) % rows]
         newim = ids[(slideIndex) % rows]
         
-        $('#'.concat(alt).concat(oldim)).fadeOut(3000)
-        $('#'.concat(alt).concat(newim)).fadeIn(3000)
+        var newimgdata = $('#'.concat(alt).concat(newim)).attr('data-src')
+        
+        $('#'.concat(alt).concat(newim)).attr('src', newimgdata)
+        
+        $('#'.concat(alt).concat(oldim)).fadeOut(2000)
+        $('#'.concat(alt).concat(newim)).fadeIn(2000)
         setTimeout(showSlides, 6000); // Change image every 2 seconds
     };
     
+});
+
 </script>
 
 <header>
     <h2 class="alt" style="text-shadow: 4px 2px #000;color: white;font-weight: bold;">Welcome to The Little Things We Miss</h2>
     <p style="color: white;">Photography by William Clark</p>
     </header>
-    <footer>
-        <a href="#portfolio" class="button scrolly">Magna Aliquam</a>
-</footer>
