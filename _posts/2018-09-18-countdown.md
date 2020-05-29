@@ -1,7 +1,7 @@
 ---
 title: Countdown to Colossalcon East
-categories: article
-tags: main-blog
+layout: post
+tags: photo-blog
 excerpt: We all know I mean swim and drink con.
 ---
 

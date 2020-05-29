@@ -1,7 +1,7 @@
 ---
 title: RWBY Call List
-categories: article
-tags: main-blog
+layout: post
+tags: photo-blog
 
 ---
 

@@ -1,35 +1,64 @@
-name: The Little Things We Miss
-url: http://thelittlethingswemiss.us
-baseurl: 
-title: The Little Things We Miss
-description: Photography by William Raymond Clark of the Little Things We Miss
+# Developer's Note: This is a sample _config.yml file offered with
+# jekyll-theme-prologue for your convenience. To use it, move it to your
+# project's root directory. Please note that the following lines are
+# NECESSARY for Prologue to work correctly:
+#
+# theme: jekyll-theme-prologue
+# collections: [sections]
+#
+# They activate the theme and tell Jekyll to find your homepage content
+# in /_sections. Note where "sections" starts with an underscore
+# and where it doesn't. The social settings will make links to
+# Twitter, etc., but only if you give the URL.
+#
+# Also, be sure to customize url and baseurl for your site.
+#
+# ---------------------------------------------------------------
+#
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
-theme: jekyll-theme-midnight
-show_downloads: false
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: The Little Things We Miss In Life
+subtitle: 
+description: >- # this means to ignore newlines until "baseurl:"
+  Homepage for Photography by William Clark of The Little Things We Miss
+author: William Clark
+email: clark.wrc@outlook.com
+avatar: assets/images/white_seal.png
 
-collections:
-  b30wulf:
-    output: true
+# You'll want to customize url and baseurl for your own site:
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://thelittlethingswemiss.us" # the base hostname & protocol for your site
+# url: "" # the base hostname & protocol for your site
 
-defaults:
-  - scope:
-      path: ""
-    values:
-      layout: default
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: titled
-  - scope:
-      path: "_posts/galleries"
-      type: posts
-    values:
-      layout: gallery
-  - scope:
-      path: "indexes"
-    values:
-      layout: titled
+# Social settings
+# Make sure to include the full url including protocol, e.g. https://github.com/chrisbobbe
+twitter_url: https://twitter.com/tlt_wm
+facebook_url: https://www.facebook.com/TheLittleThingsWeMiss/
+googleplus_url:
+instagram_url: https://www.instagram.com/tlt_wm/
+linkedin_url:
+github_url:
+stackoverflow_url:
+pinterest_url:
+slack_url:
+dribbble_url:
+flickr_url: https://www.flickr.com/photos/thelittlethingswemiss/albums
+tumblr_url: http://www.tlt-wm.tumblr.com
+kofi_url: https://ko-fi.com/M4M1JRTQ
+
 
 flickr:
   cache_dir: "./_cache/flickr"
@@ -40,17 +69,6 @@ flickr:
 
 google_analytics: UA-109921332-1
 
-plugins:
-  - jekyll-paginate-v2
-  - jekyll-sitemap
-  - jekyll-seo-tag
-
-
-pagination:
-  enabled: true
-  per_page: 10
-  permalink: '/page/:num/'
-  title: ':title - page :num'
-  limit: 0
-  sort_field: 'date'
-  sort_reverse: true
+# The following settings are NECESSARY for the Prologue theme to run:
+remote_theme: chrisbobbe/jekyll-theme-prologue
+collections: [sections]

@@ -1,7 +1,7 @@
 ---
 title: Mystic Messenger Call List
-categories: article
-tags: main-blog
+layout: post
+tags: photo-blog
 excerpt: Mystic Messenger shoot list
 ---
 

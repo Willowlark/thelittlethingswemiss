@@ -1,7 +1,7 @@
 ---
 title: Nier:Automata Call List
-categories: article
-tags: main-blog
+layout: post
+tags: photo-blog
 excerpt: Call list for a Nier Automata Photoshoot
 ---
 

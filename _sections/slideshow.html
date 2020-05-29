@@ -1,0 +1,73 @@
+---
+title: Hello!
+auto-header: none
+icon: fa-image
+cover-photo-alt: Gallery_SS
+data-key: "item.COVER == 'True'"
+order: 1
+---
+
+<!-- cover-photo: assets/images/slides2.jpg-->
+{% assign rows = site.data.photo_index | where_exp:"item", page.data-key | size %}
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<script>
+    // if (isMobile.any()) {
+    //     $("[id*='".concat(alt).concat("']")).remove();
+    //     }
+        
+    
+    function shuffle(array) {
+        var currentIndex = array.length, temporaryValue, randomIndex;
+        
+        // While there remain elements to shuffle...
+        while (0 !== currentIndex) {
+            
+            // Pick a remaining element...
+            randomIndex = Math.floor(Math.random() * currentIndex);
+            currentIndex -= 1;
+            
+            // And swap it with the current element.
+            temporaryValue = array[currentIndex];
+            array[currentIndex] = array[randomIndex];
+            array[randomIndex] = temporaryValue;
+        }
+        
+        return array;
+    }
+    
+    var slideIndex = -1;
+    var alt = "{{page.cover-photo-alt}}";
+    var rows = {{rows}};
+    var ids = [...Array(rows).keys()];
+    shuffle(ids);
+    
+    $(document).ready(function(){
+
+        if (isMobile.any()) {
+        }
+        else {
+        } 
+        showSlides();
+
+    function showSlides() {
+        slideIndex++;
+        oldim = ids[(slideIndex-1) % rows]
+        newim = ids[(slideIndex) % rows]
+        
+        var newimgdata = $('#'.concat(alt).concat(newim)).attr('data-src')
+        
+        $('#'.concat(alt).concat(newim)).attr('src', newimgdata)
+        
+        $('#'.concat(alt).concat(oldim)).fadeOut(2000)
+        $('#'.concat(alt).concat(newim)).fadeIn(2000)
+        setTimeout(showSlides, 6000); // Change image every 2 seconds
+    };
+    
+});
+
+</script>
+
+<header>
+    <h2 class="alt" style="text-shadow: 4px 2px #000;color: white;font-weight: bold;">Welcome to The Little Things We Miss</h2>
+    <p style="color: white;">Photography by William Clark</p>
+    </header>
