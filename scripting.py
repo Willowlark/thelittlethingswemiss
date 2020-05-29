@@ -120,7 +120,7 @@ def build(rm=False):
             os.system(f'rm -r {f}')
     
     os.chdir('/Users/bill/Code/thelittlethingswemiss')
-    os.system('bundler exec jekyll build')
+    os.system('JEKYLL_ENV=production bundler exec jekyll build')
     os.system('cp -r _site/* /Volumes/wwwroots/thelittlethingswemiss/')
     
 # for i, row in key.iterrows(): 
