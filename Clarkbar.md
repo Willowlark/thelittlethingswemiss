@@ -13,4 +13,4 @@ Clark|Bar
 ![](http://www.google.com/s2/favicons?domain=http://www.icloud.com) [Reminders](https://www.icloud.com/#reminders) | ![](http://www.google.com/s2/favicons?domain=https://www.fanfiction.net/) [Fanfiction](https://www.fanfiction.net/) 
 ![](http://www.google.com/s2/favicons?domain=https://github.com/Willowlark) [Github](https://github.com/Willowlark)  | ![](http://www.google.com/s2/favicons?domain=https://www.instagram.com/) [Instagram](https://www.instagram.com/) 
 ![](http://www.google.com/s2/favicons?domain=http://pawkun.deviantart.com/) [DeviantArt](http://pawkun.deviantart.com/) | ![](http://www.google.com/s2/favicons?domain=http://trello.com) [Trello](https://trello.com/billclark31/boards)
-![](http://www.google.com/s2/favicons?domain=https://www.flickr.com) [The Little Things](https://www.flickr.com/photos/thelittlethingswemiss/albums) | 
+![](http://www.google.com/s2/favicons?domain=https://www.flickr.com) [The Little Things](https://www.flickr.com/photos/thelittlethingswemiss/albums) | ![](http://www.google.com/s2/favicons?domain=https://www.aurii.us) [Aurii GM](http://www.aurii.us/gm_screen/)
