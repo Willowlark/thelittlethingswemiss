@@ -116,8 +116,8 @@ def build(rm=False):
         os.chdir('/Volumes/wwwroots/thelittlethingswemiss')
         fs = [x for x in os.listdir() if 'photography' not in x]
         for f in fs:
-            # print(f'rm -r {f}')
-            os.system(f'rm -r {f}')
+            print(f'rm -r {f}')
+            # os.system(f'rm -r {f}')
     
     os.chdir('/Users/bill/Code/thelittlethingswemiss')
     os.system('JEKYLL_ENV=production bundler exec jekyll build')
