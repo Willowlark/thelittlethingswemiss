@@ -4,6 +4,18 @@ import shutil
 import os
 from glob import glob
 
+"""
+Album upload process
+1. Flag the album cover with Green
+2. Select all the files in the album and use the "Write Data Field..." plugim to write "{CollectionFullNames}" to Source
+3. Export using the "Site 2k" and "Site Original" to the Photography folder in the thelittlethingswemiss web root
+4. Open ipython, import manager.py
+5. Run photo move to sort the files in the root of the Photography folder into the collection structure found there
+6. Run index to update the index for the jekyll dataset
+7. Run build to rebuilt the website 
+"""
+
+
 rundir = os.getcwd()
 
 def photo_move(soft=False):
