@@ -19,9 +19,9 @@ layout: default
             </div>
             
             <div id="PhotoSection">
-            {% for row in site.data.photo_index %}
+            {% for row in site.data.photo_index reversed %}
                 {% if row.SHOOT == page.shoot_id %}
-                    <img src="{{row.FULL_2K}}", alt='!!{{row.FNAME}}!!'></img>
+                    <img src="{{row.FULL_2K}}" loading="lazy" alt='!!{{row.FNAME}}!!'></img>
                 {% endif %}
             {% endfor %}
             </div>
