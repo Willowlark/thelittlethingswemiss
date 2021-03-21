@@ -135,6 +135,9 @@ def build(rm=False):
     os.system('JEKYLL_ENV=production bundler exec jekyll build')
     os.system('cp -r _site/* /Volumes/wwwroots/thelittlethingswemiss/')
     
+# if __name__ == '__main__':
+#     build(False)
+    
 # for i, row in key.iterrows(): 
 #     x = row['SHOOT'] 
 #     y = row['NEW'] 

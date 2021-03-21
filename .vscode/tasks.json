@@ -4,9 +4,15 @@
     "version": "2.0.0",
     "tasks": [
         {
-            "label": "Publish TLTWM",
+            "label": "Publish Aurii",
             "type": "shell",
-            "command": "/Users/bill/Code/thelittlethingswemiss/publish.sh",
+            "command": "python manager.py",
+            "problemMatcher": []
+        },
+        {
+            "label": "Manage TLTWM",
+            "type": "shell",
+            "command": "ipython -i manager.py",
             "problemMatcher": []
         },
         {
