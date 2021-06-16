@@ -33,7 +33,7 @@ def photo_move(soft=False):
         np = os.path.join(*fcuts)
         
         if len(second_cuts) != 2: 
-            print(f, cuts, second_cuts) 
+            print("ERROR, File in wrong Format: ", f, cuts, second_cuts) 
             break 
             
         # -2 check
